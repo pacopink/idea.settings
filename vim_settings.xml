@@ -27,10 +27,13 @@
       <file name="/a.dummy" timestamp="1557978291727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558064841263">
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558076675247">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="62" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="/tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558076326650">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.tsc_dispatcher_tem_zone1 [postgres@localhost]" timestamp="1558065612959">
         <mark key="[" line="0" column="0" />
@@ -92,7 +95,7 @@
       <file name="/Dummy.txt" timestamp="1558073691067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558065050317">
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558076721828">
         <mark key="'" line="136" column="24" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
