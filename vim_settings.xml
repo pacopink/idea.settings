@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/TestRename.java" timestamp="1558058011900">
@@ -9,31 +9,24 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/DataLoaderImpl.java" timestamp="1558083156733" />
       <file name="/tscdb_dev.public.tsc_geo_fence_new [tscdb_dev@aws.test]" timestamp="1557897206554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@localhost]" timestamp="1557456434864">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/TableHousekeepServiceImpl.java" timestamp="1558082319979" />
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameDao.java" timestamp="1558061686243">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1557978291727">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558076675247">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="/tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558076326650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.tsc_dispatcher_tem_zone1 [postgres@localhost]" timestamp="1558065612959">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/dao/entity/TestRename.java" timestamp="1558061696608">
-        <mark key="[" line="33" column="3" />
-        <mark key="]" line="36" column="15" />
-        <mark key="^" line="36" column="15" />
-        <mark key="." line="36" column="15" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-common/pom.xml" timestamp="1558081514742">
         <mark key="'" line="25" column="19" />
@@ -47,25 +40,17 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
-      <file name="/tscdb_dev.public.csp_file_manage [tscdb_dev@aws.test]" timestamp="1557897191055">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb_dev.public.csp_data_collect_rule_detail [tscdb_dev@localhost]" timestamp="1557802968908">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/tscdb_dev.public.tsc_vehicle_maintenance_remind [tscdb_dev@localhost]" timestamp="1557365899813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1558073691050">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558083619430">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb_dev.public.csp_table_housekeep [tscdb_dev@aws.test]" timestamp="1557987816967">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.cep_user_info [tscdb_dev@localhost]" timestamp="1557735424958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/entity/TscDispatcherTemZone.java" timestamp="1558079818231" />
       <file name="/tscdb_dev.public.csp_data_collect_mul_rule_task [tscdb_dev@localhost]" timestamp="1557735422871">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,7 +63,72 @@
         <mark key="^" line="139" column="36" />
         <mark key="." line="139" column="36" />
       </file>
-      <file name="/dummy.sql" timestamp="1558074724476">
+      <file name="/tscdb_dev.public.tsc_geo_fence [tscdb_dev@aws.test]" timestamp="1557887547673">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/HousekeepHandler.java" timestamp="1558082097514" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/DataDumperImpl.java" timestamp="1558083223805">
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="27" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+      </file>
+      <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@localhost]" timestamp="1557735589598">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb.public.tsc_dispatcher_tem_zone [tscdb@aws.test]" timestamp="1558074084212">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1558083549317">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="28" />
+        <mark key="^" line="96" column="0" />
+      </file>
+      <file name="/postgres.public.tsc_dispatcher_tem_zone [postgres@localhost]" timestamp="1558063894872">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1558081504033">
+        <mark key="'" line="184" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/impl/LogOperationDaoImpl.java" timestamp="1558077369518" />
+      <file name="/tscdb_dev.public.tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558072979483">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/HousekeeperInstantMain.java" timestamp="1558081937312" />
+      <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@localhost]" timestamp="1557456434864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/dao/impl/CspTableHousekeepDaoJdbcImpl.java" timestamp="1558081898698" />
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558076675247">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="62" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/postgres.public.csp_data_collect_terminate_mul_rule_task [postgres@localhost]" timestamp="1558083486226">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/dao/entity/TestRename.java" timestamp="1558061696608">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+      </file>
+      <file name="/tscdb_dev.public.csp_file_manage [tscdb_dev@aws.test]" timestamp="1557897191055">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb_dev.public.csp_data_collect_rule_detail [tscdb_dev@localhost]" timestamp="1557802968908">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/DataLoaderMain.java" timestamp="1558082897690" />
+      <file name="/a.sql" timestamp="1558073691050">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb_dev.public.csp_table_housekeep [tscdb_dev@aws.test]" timestamp="1557987816967">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/entity/TscDispatcherTemZone.java" timestamp="1558079818231" />
+      <file name="/dummy.sql" timestamp="1558083607849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.tsc_dispatcher_log [tscdb_dev@aws.test]" timestamp="1557979928873">
@@ -88,24 +138,11 @@
       <file name="$USER_HOME$/code/tg/tsg-mes/pom.xml" timestamp="1558081572333">
         <mark key="'" line="116" column="30" />
       </file>
-      <file name="/tscdb_dev.public.tsc_geo_fence [tscdb_dev@aws.test]" timestamp="1557887547673">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/HousekeepHandler.java" timestamp="1558081709253" />
       <file name="/Dummy.txt" timestamp="1558073691067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/logback.xml" timestamp="1558080912239">
         <mark key="'" line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558077430504">
-        <mark key="'" line="136" column="24" />
-        <mark key="[" line="70" column="98" />
-        <mark key="]" line="70" column="98" />
-        <mark key="." line="70" column="98" />
-      </file>
-      <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@localhost]" timestamp="1557735589598">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameTester.java" timestamp="1558080816140">
         <mark key="[" line="76" column="0" />
@@ -115,32 +152,16 @@
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@aws.test]" timestamp="1557977303832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/tscdb.public.tsc_dispatcher_tem_zone [tscdb@aws.test]" timestamp="1558074084212">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/postgres.public.test_rename [postgres@localhost]" timestamp="1558061027242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.test_rename1 [postgres@localhost]" timestamp="1558062044286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1558065543479">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="69" column="35" />
-      </file>
-      <file name="/postgres.public.tsc_dispatcher_tem_zone [postgres@localhost]" timestamp="1558063894872">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1558081504033">
-        <mark key="'" line="184" column="19" />
-      </file>
       <file name="/postgres.public.csp_table_manage [postgres@localhost]" timestamp="1557883903446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/impl/LogOperationDaoImpl.java" timestamp="1558077369518" />
-      <file name="/tscdb_dev.public.tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558072979483">
+      <file name="/postgres.public.csp_table_housekeep [postgres@localhost]" timestamp="1558083607632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558079297482">
@@ -251,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -342,8 +363,8 @@
         <entry>wqa</entry>
         <entry>wq</entry>
         <entry>%s/tsc-db-housekeep/tg-mes-collector/g</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
