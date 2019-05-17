@@ -59,7 +59,7 @@
       <file name="/tscdb_dev.public.tsc_vehicle_maintenance_remind [tscdb_dev@localhost]" timestamp="1557365899813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1557817369786">
+      <file name="/a.sql" timestamp="1558073691050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.csp_table_housekeep [tscdb_dev@aws.test]" timestamp="1557987816967">
@@ -74,7 +74,13 @@
       <file name="/postgres.public.test_rename2 [postgres@localhost]" timestamp="1558062654843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1558072982384">
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/pom.xml" timestamp="1558073832448">
+        <mark key="[" line="139" column="31" />
+        <mark key="]" line="139" column="36" />
+        <mark key="^" line="139" column="36" />
+        <mark key="." line="139" column="36" />
+      </file>
+      <file name="/dummy.sql" timestamp="1558074085090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.tsc_dispatcher_log [tscdb_dev@aws.test]" timestamp="1557979928873">
@@ -83,7 +89,7 @@
       <file name="/tscdb_dev.public.tsc_geo_fence [tscdb_dev@aws.test]" timestamp="1557887547673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558060024125">
+      <file name="/Dummy.txt" timestamp="1558073691067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558065050317">
@@ -105,6 +111,9 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@aws.test]" timestamp="1557977303832">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb.public.tsc_dispatcher_tem_zone [tscdb@aws.test]" timestamp="1558074084212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.test_rename [postgres@localhost]" timestamp="1558061027242">
@@ -235,11 +244,11 @@
       <jump line="0" column="20" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>ericsson</text>
       </register>
       <register name="-" type="4">
-        <text>；</text>
+        <text>ericsson</text>
       </register>
       <register name="/" type="4">
         <text>jdbc</text>
