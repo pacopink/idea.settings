@@ -18,7 +18,12 @@
       <file name="/tscdb_dev.public.tsc_geo_fence_new [tscdb_dev@aws.test]" timestamp="1557897206554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/TableHousekeepServiceImpl.java" timestamp="1558082319979" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/TableHousekeepServiceImpl.java" timestamp="1558086197290">
+        <mark key="[" line="106" column="30" />
+        <mark key="]" line="106" column="30" />
+        <mark key="." line="106" column="30" />
+        <mark key="^" line="106" column="30" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameDao.java" timestamp="1558061686243">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -71,7 +76,12 @@
       <file name="/tscdb_dev.public.tsc_geo_fence [tscdb_dev@aws.test]" timestamp="1557887547673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/HousekeepHandler.java" timestamp="1558082097514" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/HousekeepHandler.java" timestamp="1558085664320">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="69" column="60" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/DataDumperImpl.java" timestamp="1558084884238">
         <mark key="[" line="58" column="45" />
         <mark key="]" line="58" column="45" />
@@ -100,16 +110,16 @@
       <file name="/tscdb_dev.public.tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558072979483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/HousekeeperInstantMain.java" timestamp="1558081937312" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/HousekeeperInstantMain.java" timestamp="1558085728319">
+        <mark key="[" line="25" column="132" />
+        <mark key="]" line="25" column="132" />
+        <mark key="." line="25" column="132" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@localhost]" timestamp="1557456434864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/dao/impl/CspTableHousekeepDaoJdbcImpl.java" timestamp="1558081898698" />
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558076675247">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="/postgres.public.csp_data_collect_terminate_mul_rule_task [postgres@localhost]" timestamp="1558083486226">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,11 +135,11 @@
       <file name="/tscdb_dev.public.csp_data_collect_rule_detail [tscdb_dev@localhost]" timestamp="1557802968908">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/DataLoaderMain.java" timestamp="1558085429055">
-        <mark key="[" line="29" column="73" />
-        <mark key="]" line="29" column="73" />
-        <mark key="." line="29" column="73" />
-        <mark key="^" line="29" column="72" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/DataLoaderMain.java" timestamp="1558085695486">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="/a.sql" timestamp="1558073691050">
         <mark key="[" line="0" column="0" />
@@ -145,6 +155,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1558080655146" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/mutex/service/impl/MutexLockServiceCuratorImpl.java" timestamp="1558085892801">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="77" column="43" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes/pom.xml" timestamp="1558081572333">
         <mark key="'" line="116" column="30" />
       </file>
@@ -154,10 +170,11 @@
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/logback.xml" timestamp="1558080912239">
         <mark key="'" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameTester.java" timestamp="1558080816140">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/HousekeeperMain.java" timestamp="1558085797459">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@aws.test]" timestamp="1557977303832">
         <mark key="[" line="0" column="0" />
@@ -286,44 +303,44 @@
       <jump line="116" column="30" filename="$USER_HOME$/code/tg/tsg-mes/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByb3dzID0gc3QuZXhlY3V0ZVVwZGF0ZShjb250ZXh0LmRlbGV0ZV9zcWwpOwogICAgICAgICAgICAgICAgaWYgKHJvd3M+MCkgewogICAgICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJhZnRlciBwdXJnZSwgdmFjdXVtIGFuZCBhbmFseXplIHRhYmxlOiB7fSIsIHRhc2suZ2V0VGFibGVOYW1lKCkpOwogICAgICAgICAgICAgICAgICAgIHRyeShTdGF0ZW1lbnQgc3QgPSBjb24uY3JlYXRlU3RhdGVtZW50KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3QuZXhlY3V0ZShjb250ZXh0LnZhY3V1bV9zcWwpOwogICAgICAgICAgICAgICAgICAgICAgICBzdC5leGVjdXRlKGNvbnRleHQuYW5hbHl6ZV9zcWwpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJjb21wbGV0ZSBob3VzZWtlZXAgb24gdGFibGU6e30sIHt9IHJvd3Mge308e30gZGVsZXRlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgIHRhc2suZ2V0VGFibGVOYW1lKCksIHJvd3MsIHRhc2suZ2V0Q29sdW1uTmFtZSgpLCBjb250ZXh0LmVhcmxpZXN0RGF0ZVN0cjIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhdGNoRXhlY3V0ZShzdCk7CiAgICAgICAgICAgICAgICBjb24uY29tbWl0KCk7CiAgICAgICAgICAgICAgICBjb21taXR0ZWQgKz0gaW5CdWZmZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3QuZXhlY3V0ZShjb250ZXh0LnZhY3V1bV9zcWwpOyAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5CdWZmZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByb3dzID0gc3QuZXhlY3V0ZVVwZGF0ZShjb250ZXh0LmRlbGV0ZV9zcWwpOwogICAgICAgICAgICAgICAgaWYgKHJvd3M+MCkgewogICAgICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJhZnRlciBwdXJnZSwgdmFjdXVtIGFuZCBhbmFseXplIHRhYmxlOiB7fSIsIHRhc2suZ2V0VGFibGVOYW1lKCkpOwogICAgICAgICAgICAgICAgICAgIHRyeShTdGF0ZW1lbnQgc3QgPSBjb24uY3JlYXRlU3RhdGVtZW50KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3QuZXhlY3V0ZShjb250ZXh0LnZhY3V1bV9zcWwpOwogICAgICAgICAgICAgICAgICAgICAgICBzdC5leGVjdXRlKGNvbnRleHQuYW5hbHl6ZV9zcWwpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJjb21wbGV0ZSBob3VzZWtlZXAgb24gdGFibGU6e30sIHt9IHJvd3Mge308e30gZGVsZXRlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgIHRhc2suZ2V0VGFibGVOYW1lKCksIHJvd3MsIHRhc2suZ2V0Q29sdW1uTmFtZSgpLCBjb250ZXh0LmVhcmxpZXN0RGF0ZVN0cjIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxpbmUgPSBudWxsOwogICAgICAgICAgICB3aGlsZSgobGluZSA9IHJlYWRlci5yZWFkTGluZSgpKSE9bnVsbCkgewogICAgICAgICAgICAgICAgaWYgKGNvdW50PT0wKSB7CiAgICAgICAgICAgICAgICAgICAgc3FsID0gc3FsLnJlcGxhY2UoIl9fQ09MU19fIiwgbGluZSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBzcWxfYWN0dWFsID0gc3FsLnJlcGxhY2UoIl9fVkFMU19fIiwgbGluZSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGxvZy5pc0RlYnVnRW5hYmxlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZyhzcWxfYWN0dWFsKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgc3QuYWRkQmF0Y2goc3FsX2FjdHVhbCk7CiAgICAgICAgICAgICAgICAgICAgKytpbkJ1ZmZlcjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgICAgICBpZiAoaW5CdWZmZXI+MCAmJiBpbkJ1ZmZlciViYXRjaFNpemU9PTApIHsKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiZXhlY3V0ZUJhdGNoOiB7fSIsIGNvdW50LTEpOwogICAgICAgICAgICAgICAgICAgIGJhdGNoRXhlY3V0ZShzdCk7CiAgICAgICAgICAgICAgICAgICAgY29uLmNvbW1pdCgpOwogICAgICAgICAgICAgICAgICAgIGNvbW1pdHRlZCArPSBpbkJ1ZmZlcjsKICAgICAgICAgICAgICAgICAgICBpbkJ1ZmZlciA9IDA7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGluQnVmZmVyPjApIHsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJleGVjdXRlQmF0Y2g6IHt9IiwgY291bnQtMSk7CiAgICAgICAgICAgICAgICBiYXRjaEV4ZWN1dGUoc3QpOwogICAgICAgICAgICAgICAgY29uLmNvbW1pdCgpOwogICAgICAgICAgICAgICAgY29tbWl0dGVkICs9IGluQnVmZmVyOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSZXN1bHRTZXQgcnMgPSBjb24uY3JlYXRlU3RhdGVtZW50KCkuZXhlY3V0ZVF1ZXJ5KGNvbnRleHQuc2VsZWN0X3NxbCk7CiAgICAgICAgICAgICAgICAgICAgaW50IHJvd3MgPSBkYXRhRHVtcGVyLmR1bXAoY29udGV4dC5kdW1wRmlsZW5hbWUsIHJzLCB0cnVlKTsKICAgICAgICAgICAgICAgICAgICBub05lZWREZWxldGUgPSAocm93czw9MCk7IC8vIGlmIG5vIHJvdyBkdW1wLCBubyBuZWVkIHRvIGV4ZWN1dGUgZGVsZXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVtZW50IHN0ID0gY29uLmNyZWF0ZVN0YXRlbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb24uY3JlYXRlU3RhdGVtZW50KCkuZXhlY3V0ZShjb250ZXh0LnZhY3V1bV9zcWwpOwogICAgICAgICAgICAgICAgICAgIGNvbi5jcmVhdGVTdGF0ZW1lbnQoKS5leGVjdXRlKGNvbnRleHQuYW5hbHl6ZV9zcWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBzdC5leGVjdXRlQmF0Y2goKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3QuY2xlYXJCYXRjaCgpOwogICAgICAgICAgICAgICAgICAgICAgICBjb24uY29tbWl0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbW1pdHRlZCArPSBpbkJ1ZmZlcjsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChTUUxFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIXNraXBFcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigic2tpcCBleGNlcHRpb246IiwgZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSgoZT1lLmdldE5leHRFeGNlcHRpb24oKSkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcigibmV4dCBleGNlcHRpb246IiwgZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICBzdC5leGVjdXRlQmF0Y2goKTsKICAgICAgICAgICAgICAgICAgICBzdC5jbGVhckJhdGNoKCk7CiAgICAgICAgICAgICAgICAgICAgY29uLmNvbW1pdCgpOwogICAgICAgICAgICAgICAgICAgIGNvbW1pdHRlZCArPSBpbkJ1ZmZlcjsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFza2lwRXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoInNraXAgZXhjZXB0aW9uOiIsIGUpOwogICAgICAgICAgICAgICAgICAgICAgICB3aGlsZSgoZT1lLmdldE5leHRFeGNlcHRpb24oKSkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKCJuZXh0IGV4Y2VwdGlvbjoiLCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhdAo=</text>
+        <text encoding="base64">ICAgICAgICAvL3RoaXMuY3VyYXRvckNsc2VydmljZWllbnQgPSBDdXJhdG9yRnJhbWV3b3JrRmFjdG9yeS5uZXdDbGllbnQoY29uZi5nZXRaa1F1b3J1bSgpLCByZXRyeVBvbGljeSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uLmNvbW1pdCgpOwogICAgICAgICAgICBjb21taXR0ZWQgKz0gaW5CdWZmZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
