@@ -3,34 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/DataLoaderImpl.java" timestamp="1557985182607">
-        <mark key="'" line="30" column="32" />
-        <mark key="[" line="114" column="53" />
-        <mark key="]" line="114" column="53" />
-        <mark key="." line="114" column="53" />
-        <mark key="^" line="114" column="53" />
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/TestRename.java" timestamp="1558058011900">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="/tscdb_dev.public.tsc_geo_fence_new [tscdb_dev@aws.test]" timestamp="1557897206554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@localhost]" timestamp="1557456434864">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameDao.java" timestamp="1558061686243">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1557978291727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558056106600">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="0" />
+      <file name="/postgres.public.tsc_dispatcher_tem_zone1 [postgres@localhost]" timestamp="1558065612959">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.tsp_subscription [tscdb_dev@localhost]" timestamp="1557802785668">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb_dev.public.csp_file_manage [tscdb_dev@aws.test]" timestamp="1557897191055">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb_dev.public.csp_data_collect_rule_detail [tscdb_dev@localhost]" timestamp="1557802968908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/comd/ericsson/csp/tsg/mes/main/Main.java" timestamp="1558056660894">
@@ -42,73 +35,105 @@
       <file name="/tscdb_dev.public.tsc_vehicle_maintenance_remind [tscdb_dev@localhost]" timestamp="1557365899813">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1557817369786">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb_dev.public.csp_table_housekeep [tscdb_dev@aws.test]" timestamp="1557987816967">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/tscdb_dev.public.cep_user_info [tscdb_dev@localhost]" timestamp="1557735424958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.csp_data_collect_mul_rule_task [tscdb_dev@localhost]" timestamp="1557735422871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/resources/logback.xml" timestamp="1557998650904">
-        <mark key="'" line="13" column="42" />
-        <mark key="[" line="36" column="61" />
-        <mark key="]" line="36" column="69" />
-        <mark key="^" line="36" column="69" />
-        <mark key="." line="36" column="69" />
-      </file>
-      <file name="/dummy.sql" timestamp="1557988130332">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1557988128492">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="65" column="96" />
-        <mark key="]" line="65" column="108" />
-        <mark key="^" line="65" column="108" />
-        <mark key="." line="65" column="108" />
-      </file>
-      <file name="/tscdb_dev.public.tsc_dispatcher_log [tscdb_dev@aws.test]" timestamp="1557979928873">
+      <file name="/postgres.public.test_rename2 [postgres@localhost]" timestamp="1558062654843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.tsc_geo_fence [tscdb_dev@aws.test]" timestamp="1557887547673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557998713640">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/DataDumperImpl.java" timestamp="1557987559093">
-        <mark key="'" line="75" column="29" />
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="11" />
-        <mark key="." line="68" column="11" />
-        <mark key="^" line="68" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1557999555883">
-        <mark key="'" line="140" column="24" />
-      </file>
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@localhost]" timestamp="1557735589598">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/test/java/com/ericsson/csp/tsc/db/housekeep/test/HousekeeperTest.java" timestamp="1558058812614">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="88" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1558065543479">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="69" column="35" />
+      </file>
+      <file name="/postgres.public.tsc_dispatcher_tem_zone [postgres@localhost]" timestamp="1558063894872">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDispatcherTemZone.java" timestamp="1558061506652">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="57" />
+      </file>
+      <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@localhost]" timestamp="1557456434864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/DispatcherMessageHandler.java" timestamp="1558064841263">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="62" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/dao/entity/TestRename.java" timestamp="1558061696608">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/LogOperationService.java" timestamp="1558064410835" />
+      <file name="/tscdb_dev.public.csp_file_manage [tscdb_dev@aws.test]" timestamp="1557897191055">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb_dev.public.csp_data_collect_rule_detail [tscdb_dev@localhost]" timestamp="1557802968908">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1557817369786">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb_dev.public.csp_table_housekeep [tscdb_dev@aws.test]" timestamp="1557987816967">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/entity/TscDispatcherTemZone.java" timestamp="1558062957527" />
+      <file name="/dummy.sql" timestamp="1558065950611">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb_dev.public.tsc_dispatcher_log [tscdb_dev@aws.test]" timestamp="1557979928873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558060024125">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558065050317">
+        <mark key="'" line="136" column="24" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameTester.java" timestamp="1558065665972">
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="72" column="19" />
+        <mark key="^" line="70" column="73" />
+        <mark key="." line="72" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/impl/TscDispatcherTemZoneDaoImpl.java" timestamp="1558063254567" />
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@aws.test]" timestamp="1557977303832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/MqttMessage.java" timestamp="1557999281770">
-        <mark key="'" line="32" column="45" />
+      <file name="/postgres.public.test_rename [postgres@localhost]" timestamp="1558061027242">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.public.test_rename1 [postgres@localhost]" timestamp="1558062044286">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.csp_table_manage [postgres@localhost]" timestamp="1557883903446">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1558060713596">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="27" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/TscVehicleProfileServiceImpl.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/TscVehicleProfileServiceImpl.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" />
-      <jump line="9" column="28" filename="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" />
-      <jump line="44" column="33" filename="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" />
       <jump line="222" column="16" filename="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" />
       <jump line="79" column="16" filename="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" />
       <jump line="80" column="24" filename="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" />
@@ -204,55 +229,60 @@
       <jump line="37" column="69" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" />
       <jump line="21" column="47" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" />
       <jump line="140" column="24" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/impl/BaseDao.java" />
+      <jump line="81" column="7" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/impl/BaseDao.java" />
+      <jump line="331" column="12" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
+      <jump line="76" column="20" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/pom.xml" />
+      <jump line="0" column="20" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgdGVzdF9yZW5hbWUxIHJlbmFtZSB0byB0ZXN0X3JlbmFtZTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>tz</text>
+        <text>jdbc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBkYXlzID0gSW50ZWdlci5wYXJzZUludChjb25kaXRpb24pOwogICAgICAgICAgICByZXR1cm4gbmV3IERhdGUoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCktZGF5cyoyNCo2MCo2MCoxMDAwTCk7Cg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdHNjX2Rpc3BhdGNoZXJfdGVtX3pvbmUgcmVuYW1lIHRvIHRzY19kaXNwYXRjaGVyX3RlbV96b25lMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgoKCgoKHgpKSkpKSk7Cg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgdGVzdF9yZW5hbWUxIHJlbmFtZSB0byB0ZXN0X3JlbmFtZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBxdWVyeVZlaGljbGVFbmRUaW1lID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJURU06IHt9IiwgZGFvLnF1ZXJ5QnlJaHVJZCgiVEVNMSIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzYXZlb3J1cGRhdGVEY0VuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBzYXZlb3J1cGRhdGVEY0VuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIHF1ZXJ5VmVoaWNsZUVuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb25nIHF1ZXJ5VmVoaWNsZUVuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHF1ZXJ5VmVoaWNsZUVuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICBzYXZlT3JVcGRhdGUgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBUem9uZSA9IGIuZ2V0Wm9uZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChCYXRjaFVwZGF0ZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigiRXhjZXB0aW9uOiAiLCBlKTsKICAgICAgICAgICAgU1FMRXhjZXB0aW9uIHNlID0gZS5nZXROZXh0RXhjZXB0aW9uKCk7CiAgICAgICAgICAgIHdoaWxlIChzZSE9bnVsbCkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCJOZXh0IEV4Y2VwdGlvbjogIiwgc2UpOwogICAgICAgICAgICAgICAgc2UgPSBzZS5nZXROZXh0RXhjZXB0aW9uKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhby5zYXZlT3JVcGRhdGUodHopOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5kZWJ1ZygKICAgICAgICAgICAgICAgICAgICAgICAgIkRpc3BhdGNoZXIgdGVtIHpvbmUgQ29ubmVjdGlvbkluZm8gOiBDbGllbnRJZD17fSAsIENvbm5lY3Rpb25JZD17fSBzYXZlIG9yIHVwZGF0ZSBkaXNwYXRjaGUgem9uZSB1c2Uge31tcyIsCiAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudElkLCBjb25uZWN0aW9uSWQsIChzYXZlb3J1cGRhdGVEY0VuZFRpbWUgLSBxdWVyeVZlaGljbGVFbmRUaW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhby5zYXZlT3JVcGRhdGUodHopOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tz</last-search>
+      <last-search>jdbc</last-search>
       <last-offset />
-      <last-pattern>tz</last-pattern>
+      <last-pattern>jdbc</last-pattern>
       <last-replace>TSC_DB_HOUSEKEEP</last-replace>
       <last-substitute>TSC_HOUSEKEEPING</last-substitute>
       <last-dir>1</last-dir>
@@ -260,13 +290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logback</entry>
-        <entry>log</entry>
-        <entry>jdbc.url</entry>
-        <entry>housekeepController</entry>
-        <entry>aop</entry>
-        <entry>cura</entry>
-        <entry>curator</entry>
         <entry>zoo</entry>
         <entry>InitLock</entry>
         <entry>initLock</entry>
@@ -276,10 +299,17 @@
         <entry>thread</entry>
         <entry>record</entry>
         <entry>recordCount</entry>
-        <entry>mqtt</entry>
         <entry>mqttBuffSize</entry>
         <entry>LogOperationServiceInstance</entry>
         <entry>tz</entry>
+        <entry>save</entry>
+        <entry>saveObj</entry>
+        <entry>ju</entry>
+        <entry>junit</entry>
+        <entry>jms</entry>
+        <entry>mqtt</entry>
+        <entry>fuse</entry>
+        <entry>jdbc</entry>
       </history-search>
       <history-cmd>
         <entry>Fw</entry>
@@ -295,9 +325,9 @@
         <entry>81</entry>
         <entry>s</entry>
         <entry>%s/TSC_HOUSEKEEPING/TSC_DB_HOUSEKEEP/g</entry>
-        <entry>0</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
