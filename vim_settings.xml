@@ -74,7 +74,7 @@
       <file name="/postgres.public.test_rename2 [postgres@localhost]" timestamp="1558062654843">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1558065950611">
+      <file name="/dummy.sql" timestamp="1558072982384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tscdb_dev.public.tsc_dispatcher_log [tscdb_dev@aws.test]" timestamp="1557979928873">
@@ -123,6 +123,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.csp_table_manage [postgres@localhost]" timestamp="1557883903446">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb_dev.public.tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558072979483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558060713596">
