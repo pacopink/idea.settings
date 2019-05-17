@@ -9,10 +9,6 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDispatcherTemZone.java" timestamp="1558061506652">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="57" column="57" />
-      </file>
       <file name="/tscdb_dev.public.tsc_geo_fence_new [tscdb_dev@aws.test]" timestamp="1557897206554">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,6 +67,7 @@
       <file name="/tscdb_dev.public.cep_user_info [tscdb_dev@localhost]" timestamp="1557735424958">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/entity/TscDispatcherTemZone.java" timestamp="1558077992374" />
       <file name="/tscdb_dev.public.csp_data_collect_mul_rule_task [tscdb_dev@localhost]" timestamp="1557735422871">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,23 +92,19 @@
       <file name="/Dummy.txt" timestamp="1558073691067">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558076721828">
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/impl/LogOperationServiceImpl.java" timestamp="1558077430504">
         <mark key="'" line="136" column="24" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="70" column="98" />
+        <mark key="]" line="70" column="98" />
+        <mark key="." line="70" column="98" />
       </file>
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@localhost]" timestamp="1557735589598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/test/java/com/ericsson/csp/tsc/db/housekeep/test/HousekeeperTest.java" timestamp="1558058812614">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="88" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameTester.java" timestamp="1558072345055">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameTester.java" timestamp="1558077823818">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="/tscdb_dev.public.csp_table_manage [tscdb_dev@aws.test]" timestamp="1557977303832">
         <mark key="[" line="0" column="0" />
@@ -137,6 +130,7 @@
       <file name="/postgres.public.csp_table_manage [postgres@localhost]" timestamp="1557883903446">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/dao/impl/LogOperationDaoImpl.java" timestamp="1558077369518" />
       <file name="/tscdb_dev.public.tsc_dispatcher_tem_zone [tscdb_dev@aws.test]" timestamp="1558072979483">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,11 +241,11 @@
       <jump line="0" column="20" filename="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ericsson</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
       </register>
       <register name="-" type="4">
-        <text>ericsson</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>jdbc</text>
@@ -260,9 +254,18 @@
         <text encoding="base64">YWx0ZXIgdGFibGUgdHNjX2Rpc3BhdGNoZXJfdGVtX3pvbmUgcmVuYW1lIHRvIHRzY19kaXNwYXRjaGVyX3RlbV96b25lMTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVHNjRGlzcGF0Y2hlclRlbVpvbmUgdHogPSBuZXcgVHNjRGlzcGF0Y2hlclRlbVpvbmUoKTsKICAgICAgICAgICAgdHouc2V0Q2xpZW50SWQoIklIVTEiKTsKICAgICAgICAgICAgdHouc2V0VmluKCJ2aW4xMTEiKTsKICAgICAgICAgICAgdHouc2V0RWN1VHlwZSgiSUhVIik7CiAgICAgICAgICAgIHR6LnNldFpvbmUoY291bnQpOwogICAgICAgICAgICBzZXJ2aWNlLnNhdmVPclVwZGF0ZUNvbm5lY3Rpb24odHosIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICAgICAgdHouc2V0Q2xpZW50SWQoIlRFTTIiKTsKICAgICAgICAgICAgdHouc2V0VmluKCJ2aW4xMTEiKTsKICAgICAgICAgICAgdHouc2V0RWN1VHlwZSgiVEVNIik7CiAgICAgICAgICAgIHR6LnNldFpvbmUoY291bnQpOwogICAgICAgICAgICBzZXJ2aWNlLnNhdmVPclVwZGF0ZUNvbm5lY3Rpb24odHosIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKCiAgICAgICAgICAgIGlmICgrK2NvdW50JTI9PTApIHsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT0gcXVlcnkgYWxsIG9uIGNvdW50ID0ge30gPT09PT09PT09PSIsIGNvdW50KTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJJSFU6IHt9IiwgZGFvLmlzRGlzcGF0Y2hlclRlbVpvbmVFeGlzdCh2aW4sICJJSFUiKSk7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiVEVNOiB7fSIsIGRhby5pc0Rpc3BhdGNoZXJUZW1ab25lRXhpc3QodmluLCAiVEVNIikpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHNsZWVwKDUwMDApOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>{
             {
                 {
@@ -277,26 +280,17 @@
             }
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">YWx0ZXIgdGFibGUgdGVzdF9yZW5hbWUxIHJlbmFtZSB0byB0ZXN0X3JlbmFtZTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJURU06IHt9IiwgZGFvLnF1ZXJ5QnlJaHVJZCgiVEVNMSIpKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHF1ZXJ5VmVoaWNsZUVuZFRpbWUgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICBzYXZlT3JVcGRhdGUgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBUem9uZSA9IGIuZ2V0Wm9uZSgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChCYXRjaFVwZGF0ZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigiRXhjZXB0aW9uOiAiLCBlKTsKICAgICAgICAgICAgU1FMRXhjZXB0aW9uIHNlID0gZS5nZXROZXh0RXhjZXB0aW9uKCk7CiAgICAgICAgICAgIHdoaWxlIChzZSE9bnVsbCkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCJOZXh0IEV4Y2VwdGlvbjogIiwgc2UpOwogICAgICAgICAgICAgICAgc2UgPSBzZS5nZXROZXh0RXhjZXB0aW9uKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgICAgICBzYXZlT3JVcGRhdGUgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
