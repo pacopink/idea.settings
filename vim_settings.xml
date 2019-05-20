@@ -117,12 +117,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/main/TsgMesMain.java" timestamp="1558319269113" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" timestamp="1558330790402">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="118" column="17" />
-        <mark key="]" line="117" column="19" />
-        <mark key="." line="117" column="19" />
-        <mark key="^" line="117" column="19" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" timestamp="1558331706297">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="20" column="88" />
+        <mark key="]" line="20" column="88" />
+        <mark key="^" line="20" column="88" />
+        <mark key="." line="20" column="88" />
       </file>
       <file name="/a.sql" timestamp="1558073691050">
         <mark key="[" line="0" column="0" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="583" column="0" filename="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusUplinkServiceImpl.java" />
       <jump line="10" column="29" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
       <jump line="265" column="35" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
       <jump line="11" column="28" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
@@ -305,46 +304,47 @@
       <jump line="37" column="33" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
       <jump line="16" column="41" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/CliParam.java" />
       <jump line="14" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bnVtYmVycyA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnVtYmVycyA=</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>begin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oImluIG1vZGU9MCwgc3RhcnRUaW1lIGFuZCBlbmRUaW1lIHNob3VsZCBub3QgYmUgbnVsbCBhbmQgc3RhcnRUaW1lIHNob3VsZCBsZXNzIHRoZW4gZW5kVGltZSIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEVTQlN0ciA9IERhdGVUaW1lVXRpbC5kYXRlMmVzYkZtdChzdGFydCk7CiAgICAgICAgICAgICAgICAgICAgZW5kRVNCU3RyID0gRGF0ZVRpbWVVdGlsLmRhdGUyZXNiRm10KGVuZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdGFydFRpbWU9PW51bGwgKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAieWVzdGVyZGF5IjoKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzdGFydFRpbWUgPT0gbnVsbCB8fCBlbmRUaW1lID09IG51bGwgfHwgRGF0ZVRpbWVVdGlsLnl5eXlNTWRkSEhtbXNzMkRhdGUoc3RhcnRUaW1lKT49KSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJpbiBtb2RlPTAsIHN0YXJ0VGltZSBhbmQgZW5kVGltZSBzaG91bGQgbm90IGJlIG51bGwgYW5kIHN0YXJ0VGltZSBzaG91bGQgbGVzcyB0aGVuIGVuZFRpbWUiKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInRhc2tzOiB7fSIsIG9iaik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
