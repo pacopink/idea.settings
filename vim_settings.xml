@@ -15,6 +15,7 @@
         <mark key="." line="69" column="34" />
         <mark key="^" line="53" column="55" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/pref/PrefUnitMesVehicle.java" timestamp="1558321353825" />
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/TableHousekeepServiceImpl.java" timestamp="1558086626061">
         <mark key="[" line="69" column="61" />
         <mark key="]" line="69" column="61" />
@@ -77,10 +78,19 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="47" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/main/TsgMesOnceMain.java" timestamp="1558320459444" />
-      <file name="$USER_HOME$/code/tsc/misc/csp-key-tool/pom.xml" timestamp="1558193553470">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="37" />
+      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/main/TsgMesOnceMain.java" timestamp="1558321192513" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/CliParam.java" timestamp="1558325361113">
+        <mark key="'" line="19" column="41" />
+        <mark key="[" line="21" column="103" />
+        <mark key="]" line="21" column="107" />
+        <mark key="." line="21" column="107" />
+        <mark key="^" line="21" column="107" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/DateTimeUtil.java" timestamp="1558323064785">
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1558083549317">
         <mark key="[" line="84" column="28" />
@@ -88,12 +98,12 @@
         <mark key="." line="84" column="28" />
         <mark key="^" line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1558253636490">
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1558324510692">
         <mark key="'" line="37" column="33" />
-        <mark key="[" line="133" column="56" />
-        <mark key="]" line="134" column="23" />
-        <mark key="." line="134" column="23" />
-        <mark key="^" line="134" column="23" />
+        <mark key="[" line="150" column="23" />
+        <mark key="]" line="150" column="24" />
+        <mark key="." line="150" column="24" />
+        <mark key="^" line="151" column="20" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/main/HousekeeperInstantMain.java" timestamp="1558192847846">
         <mark key="[" line="25" column="0" />
@@ -145,7 +155,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1558251577293">
         <mark key="'" line="58" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558089686186">
+      <file name="/Dummy.txt" timestamp="1558322779867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,11 +186,7 @@
         <mark key="." line="24" column="30" />
         <mark key="^" line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/pom.xml" timestamp="1558251499952">
-        <mark key="'" line="53" column="21" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="123" column="135" />
-      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/pref/PrefUnit.java" timestamp="1558321280257" />
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/test/java/com/ericsson/csp/tsc/connection/rename/TestRenameTester.java" timestamp="1558080816140">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -197,14 +203,14 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558315611834">
+      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/engine/PrefEngine.java" timestamp="1558322048537" />
+      <file name="/fragment.java" timestamp="1558325158802">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" />
       <jump line="26" column="49" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" />
       <jump line="583" column="0" filename="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusUplinkServiceImpl.java" />
       <jump line="10" column="29" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
@@ -304,37 +310,38 @@
       <jump line="28" column="32" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
       <jump line="37" column="33" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
+      <jump line="16" column="41" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/CliParam.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsb25nIG1zID0gKGxvbmcpKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpLygyNCozNjAwKjEwMDBMKStkZWx0YSkqKDI0KjM2MDAqMTAwMEwpOwogICAgICAgIHJldHVybiBuZXcgRGF0ZShtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRzLmFkZE9wdGlvbihPcHRpb24uYnVpbGRlcigibSIpLmxvbmdPcHQoIm1vZGUiKS5yZXF1aXJlZChmYWxzZSkKICAgICAgICAgICAgICAgIC5oYXNBcmcoKS5hcmdOYW1lKCJtb2RlIikuZGVzYygibW9kZSBvZiBjb2xsZWN0aW9uIDAgZm9yIHNwZWNpZmllZCBieSBzdGFydCwgZW5kLCAxIGZvciB5ZXN0ZXJkYXksIFggZm9yIHJlY2VudCBYIGRheXMiKS5idWlsZCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
-        <text>logback</text>
+        <text>begin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeXl5eU1NZGRISG1tc3MyRGF0ZSgiMjAxODEyMzExMjMwIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRzLmFkZE9wdGlvbihPcHRpb24uYnVpbGRlcigib3V0UGF0aCIpLnJlcXVpcmVkKGZhbHNlKQogICAgICAgICAgICAgICAgLmhhc0FyZygpLmFyZ05hbWUoIm91dFBhdGgiKS5kZXNjKCJvdXRwdXQgcGF0aCBvZiBjb2xsZWN0ZWQgZmlsZXMiKS5idWlsZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsb25nIG1zID0gKGxvbmcpKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpLygyNCozNjAwKjEwMDBMKStkZWx0YSkqKDI0KjM2MDAqMTAwMEwpOwogICAgICAgIHJldHVybiBuZXcgRGF0ZShtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRzLmFkZE9wdGlvbihPcHRpb24uYnVpbGRlcigibSIpLmxvbmdPcHQoIm1vZGUiKS5yZXF1aXJlZChmYWxzZSkKICAgICAgICAgICAgICAgIC5oYXNBcmcoKS5hcmdOYW1lKCJtb2RlIikuZGVzYygibW9kZSBvZiBjb2xsZWN0aW9uIDAgZm9yIHNwZWNpZmllZCBieSBzdGFydCwgZW5kLCAxIGZvciB5ZXN0ZXJkYXksIFggZm9yIHJlY2VudCBYIGRheXMiKS5idWlsZCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY21kLmdldE9wdGlvbnMoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNtZC5nZXRBcmdzKCkpOwogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGxkdCA9IG5ldyBMb2NhbERhdGVUaW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTG9jYWxEYXRlVGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRzLmFkZE9wdGlvbigiaGVscCIsIGZhbHNlLCBoZWxwU3RyaW5nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -343,24 +350,23 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tYW5kTGluZVBhcnNlciBwYXJzZXIgPSBuZXcgRGVmYXVsdFBhcnNlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logback</last-search>
+      <last-search>begin</last-search>
       <last-offset />
-      <last-pattern>logback</last-pattern>
-      <last-replace>tg-mes-collector</last-replace>
-      <last-substitute>tsc-db-housekeep</last-substitute>
+      <last-pattern>begin</last-pattern>
+      <last-replace>end</last-replace>
+      <last-substitute>begin</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
         <entry>saveObj</entry>
         <entry>ju</entry>
         <entry>junit</entry>
@@ -380,6 +386,7 @@
         <entry>log4j</entry>
         <entry>log</entry>
         <entry>logback</entry>
+        <entry>begin</entry>
       </history-search>
       <history-cmd>
         <entry>Fw</entry>
@@ -399,6 +406,7 @@
         <entry>%s/tsc-db-housekeep/tg-mes-collector/g</entry>
         <entry>wqa</entry>
         <entry>0</entry>
+        <entry encoding="base64">JzwsJz5zL2JlZ2luL2VuZC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
