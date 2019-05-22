@@ -132,6 +132,11 @@
         <mark key="." line="25" column="132" />
         <mark key="^" line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" timestamp="1558491064424">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
       <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@localhost]" timestamp="1557456434864">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,12 +254,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="111" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" timestamp="1558429206654">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="92" column="89" />
-        <mark key="]" line="92" column="104" />
-        <mark key="." line="92" column="104" />
-        <mark key="^" line="92" column="104" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" timestamp="1558491291080">
+        <mark key="'" line="19" column="3" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/main/Main.java" timestamp="1558330112172">
         <mark key="[" line="18" column="0" />
@@ -280,12 +285,12 @@
       <file name="/postgres.public.test_rename [postgres@localhost]" timestamp="1558061027242">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" timestamp="1558432598236">
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" timestamp="1558491227591">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="47" column="45" />
-        <mark key="." line="46" column="47" />
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="47" column="66" />
+        <mark key="^" line="47" column="66" />
+        <mark key="." line="47" column="66" />
       </file>
       <file name="/postgres.public.test_rename1 [postgres@localhost]" timestamp="1558062044286">
         <mark key="[" line="0" column="0" />
@@ -421,11 +426,11 @@
       <jump line="0" column="0" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// process series one-by-one</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFRhYmxlIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>// process series one-by-one</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>quart</text>
@@ -434,31 +439,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxHcm91cFJlY29yZD4gbWVzUmVjb3JkTGlzdCA9IG1vLmdldFJlc3BvbnNlQXNHcm91cFJlY29yZCgpLmdldCgwKQogICAgICAgICAgICAgICAgICAgIC5nZXRTdWJHcm91cHMoMCkuZ2V0KDApLmdldFN1Ykdyb3VwcygicmV0dXJuIik7CiAgICAgICAgICAgIC8vbWVzUmVjb3JkTGlzdC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwogICAgICAgICAgICBtZXNSZWNvcmRMaXN0LmZvckVhY2goZ3ItPnsKICAgICAgICAgICAgICAgIE1lc1ZlaGljbGVSZWNvcmQgbXZyID0gTWVzVmVoaWNsZVJlY29yZC5mcm9tR3JvdXBSZWNvcmQoZ3IpOwogICAgICAgICAgICAgICAgU3RyaW5nIGxpbmUgPSBtdnIuZHVtcFRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWVzVmVoaWNsZVJlY29yZC5mcm9tU3RyaW5nKGxpbmUpKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nZWVseS5lc2IuYWRhcHRlci5mcmFtZXdvcmsubWVzc2FnZS5JTXNnT2JqZWN0Owo=</text>
+        <text encoding="base64">QFRhYmxlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL21lc1JlY29yZExpc3QuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nZWVseS5lc2IuYWRhcHRlci5mcmFtZXdvcmsubWVzc2FnZS5JTXNnT2JqZWN0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNSZWNvcmRMaXN0LmZvckVhY2goZ3ItPnsKICAgICAgICAgICAgTWVzVmVoaWNsZVJlY29yZCBtdnIgPSBNZXNWZWhpY2xlUmVjb3JkLmZyb21Hcm91cFJlY29yZChncik7CiAgICAgICAgICAgIFN0cmluZyBsaW5lID0gbXZyLmR1bXBUb1N0cmluZygpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihNZXNWZWhpY2xlUmVjb3JkLmZyb21TdHJpbmcobGluZSkpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL21lc1JlY29yZExpc3QuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzTW87Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZXNSZWNvcmRMaXN0LmZvckVhY2goZ3ItPnsKICAgICAgICAgICAgTWVzVmVoaWNsZVJlY29yZCBtdnIgPSBNZXNWZWhpY2xlUmVjb3JkLmZyb21Hcm91cFJlY29yZChncik7CiAgICAgICAgICAgIFN0cmluZyBsaW5lID0gbXZyLmR1bXBUb1N0cmluZygpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihNZXNWZWhpY2xlUmVjb3JkLmZyb21TdHJpbmcobGluZSkpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzTW87Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoVGltZVJhbmdlIHJhbmdlOnRpbWVSYW5nZXMpIHsKICAgICAgICAgICAgU3RyaW5nIGJlZ2luID0gRGF0ZVRpbWVVdGlsLmRhdGUyZXNiRm10KHJhbmdlLmdldEJlZ2luVGltZSgpKTsKICAgICAgICAgICAgU3RyaW5nIGVuZCA9IERhdGVUaW1lVXRpbC5kYXRlMmVzYkZtdChyYW5nZS5nZXRFbmRUaW1lKCkpOwogICAgICAgICAgICBTdHJpbmcgcmFuZ2VTdHIgPSBTdHJpbmcuZm9ybWF0KCIlcy0lcyIsIAogICAgICAgICAgICAgICAgICAgIERhdGVUaW1lVXRpbC5kYXRlMnl5eXlNTWRkSEhtbXNzKHJhbmdlLmdldEJlZ2luVGltZSgpKSwKICAgICAgICAgICAgICAgICAgICBEYXRlVGltZVV0aWwuZGF0ZTJ5eXl5TU1kZEhIbW1zcyhyYW5nZS5nZXRFbmRUaW1lKCkpKTsKICAgICAgICAgICAgU3RyaW5nIGZpbGVuYW1lID0gbWFrZU91dHB1dEZpbGVuYW1lKHRhc2suZ2V0RmNvZGUoKSwgdGFzay5nZXRTZXJpYWxzKCksIHJhbmdlU3RyLCBub3cpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoVGltZVJhbmdlIHJhbmdlOnRpbWVSYW5nZXMpIHsKICAgICAgICAgICAgU3RyaW5nIGJlZ2luID0gRGF0ZVRpbWVVdGlsLmRhdGUyZXNiRm10KHJhbmdlLmdldEJlZ2luVGltZSgpKTsKICAgICAgICAgICAgU3RyaW5nIGVuZCA9IERhdGVUaW1lVXRpbC5kYXRlMmVzYkZtdChyYW5nZS5nZXRFbmRUaW1lKCkpOwogICAgICAgICAgICBTdHJpbmcgcmFuZ2VTdHIgPSBTdHJpbmcuZm9ybWF0KCIlcy0lcyIsIAogICAgICAgICAgICAgICAgICAgIERhdGVUaW1lVXRpbC5kYXRlMnl5eXlNTWRkSEhtbXNzKHJhbmdlLmdldEJlZ2luVGltZSgpKSwKICAgICAgICAgICAgICAgICAgICBEYXRlVGltZVV0aWwuZGF0ZTJ5eXl5TU1kZEhIbW1zcyhyYW5nZS5nZXRFbmRUaW1lKCkpKTsKICAgICAgICAgICAgU3RyaW5nIGZpbGVuYW1lID0gbWFrZU91dHB1dEZpbGVuYW1lKHRhc2suZ2V0RmNvZGUoKSwgdGFzay5nZXRTZXJpYWxzKCksIHJhbmdlU3RyLCBub3cpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
