@@ -28,13 +28,6 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/code/lbs_stream/bin_thrift2/submit-thrift.sh" timestamp="1558490248413" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/log4j.properties" timestamp="1558498500710">
-        <mark key="'" line="9" column="24" />
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="30" />
-        <mark key="^" line="51" column="82" />
-        <mark key="." line="26" column="30" />
-      </file>
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/entity/config/KafkaConf.scala" timestamp="1558492662784" />
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/resources/tsc-eis.xml" timestamp="1558501883964" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/comd/ericsson/csp/tsg/mes/main/Main.java" timestamp="1558081211668">
@@ -50,7 +43,7 @@
         <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-common/src/main/java/com/ericsson/tsg/common/db/dao/MESVehicleDao.java" timestamp="1558493862808" />
-      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/engine/ServiceHandler.java" timestamp="1558503343507" />
+      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/engine/ServiceHandler.java" timestamp="1558505852608" />
       <file name="$USER_HOME$/code/tg/tsg-common/src/main/java/com/ericsson/tsg/common/util/MUtil.java" timestamp="1558503186266" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/CliParam.java" timestamp="1558495461181">
         <mark key="[" line="63" column="39" />
@@ -110,13 +103,6 @@
         <mark key="^" line="60" column="59" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/engine/TsgServiceManager.java" timestamp="1558503264838" />
-      <file name="$USER_HOME$/code/ss/ServiceStore/pom.xml" timestamp="1558426029133">
-        <mark key="'" line="35" column="31" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="57" column="17" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="57" column="4" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/mutex/service/MutexLockService.java" timestamp="1558086708401">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="70" />
@@ -145,14 +131,7 @@
         <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/TsgServiceTool.java" timestamp="1558502797520" />
-      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/resources/tsg-rt.xml" timestamp="1558503207102" />
-      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/TableHousekeepServiceImpl.java" timestamp="1558424462748">
-        <mark key="'" line="90" column="40" />
-        <mark key="[" line="98" column="57" />
-        <mark key="]" line="98" column="86" />
-        <mark key="." line="98" column="86" />
-        <mark key="^" line="98" column="86" />
-      </file>
+      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/resources/tsg-rt.xml" timestamp="1558505550462" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-context/applicationContext-base.xml" timestamp="1558192810617">
         <mark key="[" line="70" column="59" />
         <mark key="]" line="70" column="65" />
@@ -205,13 +184,7 @@
         <mark key="." line="27" column="23" />
         <mark key="^" line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/TimeRange.java" timestamp="1558402093635">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="67" column="38" />
-        <mark key="]" line="67" column="38" />
-        <mark key="^" line="67" column="37" />
-        <mark key="." line="67" column="38" />
-      </file>
+      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/resources/tsc.xml" timestamp="1558505505314" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/app.properties" timestamp="1558498755880">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="7" column="18" />
