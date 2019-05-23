@@ -85,11 +85,12 @@
         <mark key="^" line="98" column="48" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" timestamp="1558582053695">
+      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" timestamp="1558597614780">
         <mark key="'" line="344" column="79" />
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="57" />
-        <mark key="." line="364" column="54" />
+        <mark key="[" line="363" column="47" />
+        <mark key="]" line="363" column="47" />
+        <mark key="." line="363" column="47" />
+        <mark key="^" line="363" column="47" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/after/AfterUnitMesVehicle.java" timestamp="1558493282764" />
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/PipelineRunner.java" timestamp="1558576958262">
@@ -197,6 +198,7 @@
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/LbsNotification10.scala" timestamp="1558494671679">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/lbs_stream/codis-loader/src/com/ericsson/lbs_streaming/loader/DwellLoader.scala" timestamp="1558597341835" />
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1558426574762">
         <mark key="'" line="68" column="4" />
         <mark key="[" line="73" column="0" />
@@ -376,11 +378,11 @@
       <jump line="103" column="5" filename="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/engine/PrefEngine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAieHgiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ConfigItem</text>
       </register>
       <register name="-" type="4">
-        <text>edis</text>
+        <text>ConfigItem</text>
       </register>
       <register name="/" type="4">
         <text>beginTime</text>
