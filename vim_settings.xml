@@ -137,11 +137,11 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="57" column="4" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1558501000778">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="16" column="8" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1558670131324">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1558503950994">
         <mark key="[" line="71" column="37" />
@@ -387,7 +387,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSAodmFsIGo6SmVkaXNDb21tYW5kcyA9IGpvZGlzUG9vbC52YWx1ZS5nZXRSZXNvdXJjZSgpKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAtIG5hbWU6IAo=</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -399,31 +399,31 @@
         <text encoding="base64">ICAgICAgICAgICAgSmVkaXMgamVkaXMgPSAoSmVkaXMpajsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSAodmFsIGo6SmVkaXNDb21tYW5kcyA9IGpvZGlzUG9vbC52YWx1ZS5nZXRSZXNvdXJjZSgpKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAtIG5hbWU6IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLSBGRTYKICAgICAgLSBGRTcKICAgICAgLSBGRTgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZGlzLmNsaWVudHMuamVkaXMuSmVkaXMK</text>
+        <text encoding="base64">ICAgICAgICAgIHRyeSAodmFsIGo6SmVkaXNDb21tYW5kcyA9IGpvZGlzUG9vbC52YWx1ZS5nZXRSZXNvdXJjZSgpKSB7CiAgICAgICAgICAgIAogICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tY2hhbmdlLnYyLmMzcDAuQ29tYm9Qb29sZWREYXRhU291cmNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5sYnNfc3RyZWFtaW5nLmVudGl0eS5jb25maWcuSmRiY0NvbmYK</text>
+        <text encoding="base64">aW1wb3J0IHJlZGlzLmNsaWVudHMuamVkaXMuSmVkaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tY2hhbmdlLnYyLmMzcDAuQ29tYm9Qb29sZWREYXRhU291cmNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8ue0J5dGVBcnJheU91dHB1dFN0cmVhbSwgUHJpbnRTdHJlYW19CmltcG9ydCBqYXZhLnNxbC5Db25uZWN0aW9uCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5sYnNfc3RyZWFtaW5nLmVudGl0eS5jb25maWcuSmRiY0NvbmYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAieHgiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGtleSA9IFN0cmluZy5mb3JtYXQoSU1TSV9JTkZPX0ZNVCwgdGhpcy5pbXNpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGtleSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8ue0J5dGVBcnJheU91dHB1dFN0cmVhbSwgUHJpbnRTdHJlYW19CmltcG9ydCBqYXZhLnNxbC5Db25uZWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
