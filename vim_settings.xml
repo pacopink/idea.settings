@@ -204,7 +204,13 @@
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/LbsNotification10.scala" timestamp="1558494671679">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/codis-loader/src/com/ericsson/lbs_streaming/loader/DwellLoader.scala" timestamp="1558599049610" />
+      <file name="$USER_HOME$/code/lbs_stream/codis-loader/src/com/ericsson/lbs_streaming/loader/DwellLoader.scala" timestamp="1558661146673">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
+      </file>
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1558426574762">
         <mark key="'" line="68" column="4" />
         <mark key="[" line="73" column="0" />
@@ -285,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesFetchServiceImpl.java" />
       <jump line="24" column="4" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" />
       <jump line="154" column="7" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesFetchServiceImpl.java" />
       <jump line="31" column="35" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" />
@@ -385,55 +390,56 @@
       <jump line="103" column="5" filename="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/engine/PrefEngine.java" />
       <jump line="166" column="69" filename="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/TsgService.java" />
       <jump line="111" column="17" filename="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/TsgService.java" />
+      <jump line="24" column="23" filename="$USER_HOME$/code/lbs_stream/codis-loader/src/com/ericsson/lbs_streaming/loader/DwellLoader.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ConfigItem</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHJlZGlzLmNsaWVudHMuamVkaXMuSmVkaXMK</text>
       </register>
       <register name="-" type="4">
         <text>ConfigItem</text>
       </register>
       <register name="/" type="4">
-        <text>processFile</text>
+        <text>FETCH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSmVkaXMgamVkaXMgPSAoSmVkaXMpajsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAieHgiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHJlZGlzLmNsaWVudHMuamVkaXMuSmVkaXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGtleSA9IFN0cmluZy5mb3JtYXQoSU1TSV9JTkZPX0ZNVCwgdGhpcy5pbXNpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGtleSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tY2hhbmdlLnYyLmMzcDAuQ29tYm9Qb29sZWREYXRhU291cmNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5sYnNfc3RyZWFtaW5nLmVudGl0eS5jb25maWcuSmRiY0NvbmYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyB0YWc6dGhpcy5rZXlTZXQoKSkgeyAvL+mBjeWOhuaJgOacieeahHRhZwogICAgICAgICAgICBpZiAoIW9wdGlvbmFsS2V5cy5jb250YWluc0tleSh0YWcpKSBjb250aW51ZTsKICAgICAgICAgICAgLy/lpoLmnpzog73mmKDlsITmiJBjb2Rpc+eahGtlee+8jOWImeWGmeWFpWNvZGlzCiAgICAgICAgICAgIHAuaHNldChrZXksIHRhZywgdGhpcy5nZXQodGFnKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwLnN5bmMoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8ue0J5dGVBcnJheU91dHB1dFN0cmVhbSwgUHJpbnRTdHJlYW19CmltcG9ydCBqYXZhLnNxbC5Db25uZWN0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQaXBlbGluZSBwID0gai5waXBlbGluZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBrZXkgPSAieHgiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwLnN5bmMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGtleSA9IFN0cmluZy5mb3JtYXQoSU1TSV9JTkZPX0ZNVCwgdGhpcy5pbXNpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGtleSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQaXBlbGluZSBwID0gai5waXBlbGluZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyB0YWc6dGhpcy5rZXlTZXQoKSkgeyAvL+mBjeWOhuaJgOacieeahHRhZwogICAgICAgICAgICBpZiAoIW9wdGlvbmFsS2V5cy5jb250YWluc0tleSh0YWcpKSBjb250aW51ZTsKICAgICAgICAgICAgLy/lpoLmnpzog73mmKDlsITmiJBjb2Rpc+eahGtlee+8jOWImeWGmeWFpWNvZGlzCiAgICAgICAgICAgIHAuaHNldChrZXksIHRhZywgdGhpcy5nZXQodGFnKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>processFile</last-search>
+      <last-search>FETCH</last-search>
       <last-offset />
-      <last-pattern>processFile</last-pattern>
+      <last-pattern>FETCH</last-pattern>
       <last-replace encoding="base64">SmVkaXNDb21tYW5kcyA=</last-replace>
       <last-substitute encoding="base64">SmVkaXMg</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logback</entry>
         <entry>log4j</entry>
         <entry>rootLogger</entry>
         <entry>deal</entry>
@@ -461,6 +466,7 @@
         <entry>yyyyMMddBegin</entry>
         <entry>beginTime</entry>
         <entry>processFile</entry>
+        <entry>FETCH</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
