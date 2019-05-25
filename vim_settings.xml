@@ -163,6 +163,13 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" timestamp="1558774535090">
+        <mark key="'" line="809" column="30" />
+        <mark key="[" line="675" column="25" />
+        <mark key="]" line="675" column="41" />
+        <mark key="." line="675" column="41" />
+        <mark key="^" line="675" column="41" />
+      </file>
       <file name="$USER_HOME$/code/lbs_stream/config/conf.yml" timestamp="1558771052742">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="41" column="6" />
@@ -282,10 +289,12 @@
       <file name="/dummy.sql" timestamp="1558687841619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/wrapper/RedisClusterWrapper.scala" timestamp="1558772288025">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="19" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/wrapper/RedisClusterWrapper.scala" timestamp="1558773932715">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="44" />
       </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/pom.xml" timestamp="1558426029133">
         <mark key="'" line="35" column="31" />
@@ -390,17 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="36" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" />
-      <jump line="40" column="43" filename="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/engine/ServiceHandler.java" />
-      <jump line="84" column="74" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityContactStat.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityContactStat.java" />
-      <jump line="115" column="13" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityInfo.java" />
-      <jump line="228" column="6" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityInfo.java" />
-      <jump line="85" column="4" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/JedisClusterPipeline.java" />
-      <jump line="99" column="18" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/JedisClusterPipeline.java" />
-      <jump line="40" column="34" filename="$USER_HOME$/code/lbs_stream/libs/jedis-2.9.0.jar!/redis/clients/jedis/Pipeline.class" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityJedisUtils.java" />
-      <jump line="283" column="57" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" />
       <jump line="339" column="11" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" />
       <jump line="344" column="79" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" />
       <jump line="269" column="16" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityInfo.java" />
@@ -490,68 +488,73 @@
       <jump line="41" column="54" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/BaseStreamApp.scala" />
       <jump line="42" column="35" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/BaseStreamApp.scala" />
       <jump line="43" column="21" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/BaseStreamApp.scala" />
+      <jump line="64" column="28" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="62" column="10" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="135" column="28" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="16" column="17" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="19" column="33" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="89" column="21" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="17" column="35" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="799" column="0" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="50" column="19" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/wrapper/RedisClusterWrapper.scala" />
+      <jump line="596" column="52" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
+      <jump line="809" column="30" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (config.auth!=null) {</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>if (config.auth!=null) {</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>getByCell</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgSmVkaXNDbHVzdGVyKGluc3RhbnMsIGNvbmZpZy50aW1lb3V0LCBzb1RpbWVvdXQsIG1heEF0dGVtcHMsIGNvbmZpZy5hdXRoLCBwb29sQ29uZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0gICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIGlmIChqLmlzSW5zdGFuY2VPZihKZWRpc0NsdXN0ZXIpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSmVkaXNDbHVzdGVyKGluc3RhbnMsIGNvbmZpZy50aW1lb3V0LCBzb1RpbWVvdXQsIG1heEF0dGVtcHMsIGNvbmZpZy5hdXRoLCBwb29sQ29uZikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSmVkaXNDdXN0ZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2x1c3Rlci5hdXRoCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbXBhdC5qYXZhOC5KRnVuY3Rpb247Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaW1wb3J0IHN0YXRpYwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwPT57Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>getByCell</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
-      <last-replace />
-      <last-substitute>: combo</last-substitute>
+      <last-pattern>getByCell</last-pattern>
+      <last-replace>j:JedisCommands</last-replace>
+      <last-substitute>j:Jedis</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Jedis</entry>
-        <entry encoding="base64">SmVkaXMg</entry>
-        <entry>rrConfig</entry>
-        <entry>yyyyMMddBegin</entry>
-        <entry>beginTime</entry>
-        <entry>processFile</entry>
         <entry>FETCH</entry>
         <entry>jodisPool</entry>
         <entry>query</entry>
@@ -566,9 +569,14 @@
         <entry>fccod</entry>
         <entry>validationPolicy</entry>
         <entry>conf</entry>
+        <entry>func</entry>
+        <entry>Jedis j</entry>
+        <entry>map</entry>
+        <entry>activityInfo</entry>
+        <entry>j:Jedis</entry>
+        <entry>getByCell</entry>
       </history-search>
       <history-cmd>
-        <entry>wqa</entry>
         <entry encoding="base64">JzwsJz5zL2JlZ2luL2VuZC9n</entry>
         <entry>236</entry>
         <entry encoding="base64">JzwsJz5zLyQvOy9n</entry>
@@ -583,10 +591,11 @@
         <entry>%s/Jedis /JedisCommands/g</entry>
         <entry>%s/Jedis /JedisCommands /g</entry>
         <entry>%s/@CacheKey//g</entry>
-        <entry>0</entry>
         <entry>%s/fcode/fccode/g</entry>
         <entry>%s/validatonP/validationP/g</entry>
         <entry encoding="base64">JzwsJz5zLzogY29tYm8vL2c=</entry>
+        <entry>%s/j:Jedis/j:JedisCommands/g</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
