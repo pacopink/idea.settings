@@ -9,6 +9,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="46" column="41" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/pref/PrefUnitMesVehicle.java" timestamp="1558925500631">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1558922218287">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,6 +136,12 @@
       <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1558920968560">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1558928143762">
+        <mark key="'" line="161" column="8" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1558921710613">
         <mark key="[" line="121" column="84" />
         <mark key="]" line="121" column="13" />
@@ -234,12 +246,17 @@
         <mark key="." line="104" column="32" />
         <mark key="^" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" timestamp="1558940426186">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="82" column="90" />
-        <mark key="]" line="82" column="90" />
-        <mark key="." line="82" column="90" />
-        <mark key="^" line="82" column="90" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" timestamp="1558925562574">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" timestamp="1558941735312">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="92" column="23" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/main/Main.java" timestamp="1558503925587">
         <mark key="[" line="30" column="18" />
@@ -397,11 +414,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -410,31 +427,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvY2Nlc3NlZEZpbGUgPSBGaWxlQWNjZXNzLm1ha2VQYXRoKHByb2Nlc3NlZFBhdGgsIGZpbGVJbmZvLmdldEZpbGVuYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBsaW5lID0gci5kdW1wVG9TdHJpbmcoKSMgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWw9MCwgZHVwbGljYXRlPTAsIGluc2VydD0wLCB1cGRhdGU9MCwgZXJyb3I9MDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBlcnJDb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHRvdGFsPTAsIGluc2VydD0wLCB1cGRhdGU9MCwgZXJyb3I9MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRvdGFsPTAsIGR1cGxpY2F0ZT0wLCBpbnNlcnQ9MCwgdXBkYXRlPTAsIGVycm9yPTA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lTm8rKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVycm9yPD0wKSB7CiAgICAgICAgICAgICAgICBGaWxlQWNjZXNzLgogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBsaW5lTm8gPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdG90YWw9MCwgZHVwbGljYXRlPTAsIGluc2VydD0wLCB1cGRhdGU9MCwgZXJyb3I9MDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAob2xkICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oInJlY29yZCB7fSBpcyB1cGRhdGVkIHRvIHt9Iiwgb2xkLCB0dm0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCB0b3RhbD0wLCBkdXBsaWNhdGU9MCwgaW5zZXJ0PTAsIHVwZGF0ZT0wLCBlcnJvcj0wOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
