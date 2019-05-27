@@ -3,14 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/entity/config/RedisConf.scala" timestamp="1558771038199">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="46" column="41" />
+      <file name="$USER_HOME$/code/tg/tsg-mes/src/main/java/com/ericsson/tsg/mes/core/pref/PrefUnitMesVehicle.java" timestamp="1558925500631">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
-      <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1558922218287">
+      <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1558949896934">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/src/main/java/com/ericsson/csp/tsc/housekeep/db/service/impl/TableHousekeepServiceImpl.java" timestamp="1558424462748">
+        <mark key="'" line="90" column="40" />
+        <mark key="[" line="98" column="57" />
+        <mark key="]" line="98" column="86" />
+        <mark key="." line="98" column="86" />
+        <mark key="^" line="98" column="86" />
       </file>
       <file name="/a.dummy" timestamp="1558935253138">
         <mark key="[" line="0" column="0" />
@@ -35,11 +42,12 @@
         <mark key="^" line="2" column="109" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/aop/cache/CleanCacheAop.java" timestamp="1558686878113">
-        <mark key="[" line="48" column="36" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="48" />
-        <mark key="^" line="48" column="48" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/log4j.properties" timestamp="1558853527605">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/dao/impl/TscGeoFenceNewDaoImpl.java" timestamp="1558686964482">
         <mark key="'" line="94" column="37" />
@@ -47,24 +55,31 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" timestamp="1558933196766">
-        <mark key="[" line="176" column="3" />
-        <mark key="]" line="174" column="33" />
-        <mark key="." line="174" column="33" />
-        <mark key="^" line="174" column="33" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" timestamp="1558959488276">
+        <mark key="'" line="222" column="28" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="36" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" timestamp="1558937009087">
-        <mark key="'" line="65" column="10" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="44" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" timestamp="1558949773853">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/TsgVehicelMesUpdateService.java" timestamp="1558934357962">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="25" />
         <mark key="^" line="3" column="104" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/UserDwellTypeJedisUtils.java" timestamp="1558582184888">
+        <mark key="'" line="27" column="32" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="95" column="11" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Config.java" timestamp="1558937635055">
         <mark key="'" line="16" column="0" />
@@ -79,11 +94,33 @@
         <mark key="]" line="444" column="0" />
         <mark key="." line="444" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1558688413290">
-        <mark key="[" line="104" column="44" />
-        <mark key="]" line="96" column="46" />
-        <mark key="." line="96" column="46" />
-        <mark key="^" line="96" column="46" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/UserTag.java" timestamp="1558583967944">
+        <mark key="'" line="87" column="38" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="178" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/spring-config/applicationContext.xml" timestamp="1558684167391">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="126" column="11" />
+        <mark key="^" line="39" column="30" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/JedisClusterPipeline.java" timestamp="1558578829536">
+        <mark key="'" line="155" column="18" />
+        <mark key="[" line="104" column="62" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="54" />
+        <mark key="^" line="108" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/FakeDao.java" timestamp="1558688392128">
+        <mark key="'" line="18" column="18" />
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="57" />
+        <mark key="^" line="31" column="57" />
+        <mark key="." line="31" column="57" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/dao/impl/TscVehicleMaintenanceRemindDaoImpl.java" timestamp="1558688006612">
         <mark key="'" line="19" column="0" />
@@ -91,12 +128,19 @@
         <mark key="]" line="45" column="43" />
         <mark key="." line="45" column="43" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMesId.java" timestamp="1558932957338">
-        <mark key="'" line="37" column="26" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="47" />
-        <mark key="^" line="9" column="47" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/GlobalExclusiveListBufferedPipe.java" timestamp="1558582794152">
+        <mark key="'" line="14" column="13" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="93" column="11" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMesId.java" timestamp="1558953039382">
+        <mark key="'" line="41" column="26" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="58" column="50" />
+        <mark key="^" line="58" column="50" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleRankingServiceImpl.java" timestamp="1558688072466">
         <mark key="'" line="324" column="46" />
@@ -104,43 +148,101 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/CliParam.java" timestamp="1558495461181">
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/CliParam.java" timestamp="1558946421882">
         <mark key="[" line="63" column="39" />
         <mark key="]" line="63" column="43" />
         <mark key="." line="63" column="43" />
         <mark key="^" line="63" column="43" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/MesDataLoader.java" timestamp="1558856877422">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityJedisUtils.java" timestamp="1558579911436">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="^" line="231" column="11" />
+        <mark key="." line="237" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/DateTimeUtil.java" timestamp="1558925078643">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/FilterSet.java" timestamp="1558582321635">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/config/conf.yml" timestamp="1558771052742">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="41" column="6" />
-        <mark key="." line="41" column="6" />
-        <mark key="^" line="41" column="6" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/utils/JodisTest.scala" timestamp="1558774535090">
+        <mark key="'" line="809" column="30" />
+        <mark key="[" line="675" column="25" />
+        <mark key="]" line="675" column="41" />
+        <mark key="." line="675" column="41" />
+        <mark key="^" line="675" column="41" />
       </file>
-      <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1558920968560">
+      <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1558959893696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1558921710613">
-        <mark key="[" line="121" column="84" />
-        <mark key="]" line="121" column="13" />
-        <mark key="^" line="121" column="13" />
-        <mark key="." line="121" column="13" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1558950174978">
+        <mark key="'" line="161" column="8" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/TsgVehicleMesUpdateService.java" timestamp="1558937669529">
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityInfo.java" timestamp="1558582101393">
+        <mark key="'" line="269" column="16" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
+        <mark key="^" line="234" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/GlobalContactCtl.java" timestamp="1558582719914">
+        <mark key="'" line="19" column="44" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="125" column="13" />
+        <mark key="^" line="98" column="48" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" timestamp="1558952556935">
+        <mark key="[" line="256" column="19" />
+        <mark key="]" line="256" column="19" />
+        <mark key="." line="256" column="19" />
+        <mark key="^" line="256" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" timestamp="1558691090351">
+        <mark key="'" line="37" column="13" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/config/service/impl/TemConfigServiceImpl.java" timestamp="1558597614780">
+        <mark key="'" line="344" column="79" />
+        <mark key="[" line="363" column="47" />
+        <mark key="]" line="363" column="47" />
+        <mark key="." line="363" column="47" />
+        <mark key="^" line="363" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesFetchServiceImpl.java" timestamp="1558946588995">
+        <mark key="'" line="13" column="30" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/TsgVehicleMesUpdateService.java" timestamp="1558945764338">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="7" column="30" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-update.xml" timestamp="1558952962109">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="102" column="32" />
+        <mark key="]" line="102" column="32" />
+        <mark key="^" line="112" column="118" />
+        <mark key="." line="102" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/codis-loader/src/com/ericsson/lbs_streaming/loader/DwellLoader.scala" timestamp="1558661146673">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate Entities.groovy" timestamp="1558923650601">
         <mark key="'" line="36" column="2" />
@@ -155,11 +257,12 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/PipelineRunner.java" timestamp="1558576958262">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/aop/cache/CacheableAop.java" timestamp="1558687370520">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="168" column="4" />
+        <mark key="]" line="168" column="17" />
+        <mark key="." line="168" column="17" />
+        <mark key="^" line="168" column="17" />
       </file>
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1558426574762">
         <mark key="'" line="68" column="4" />
@@ -167,31 +270,21 @@
         <mark key="]" line="78" column="17" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate Entitys.groovy" timestamp="1558922472662">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" timestamp="1558496827536">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="63" column="16" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" timestamp="1558946445669">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="86" />
         <mark key="." line="63" column="16" />
         <mark key="^" line="63" column="16" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/TimeRange.java" timestamp="1558402093635">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="38" />
+        <mark key="^" line="67" column="37" />
+        <mark key="." line="67" column="38" />
+      </file>
       <file name="/a.sql" timestamp="1558921792620">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/CellLacBufferedPipe.java" timestamp="1558577243947">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="65" column="11" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/MesDataDumper.java" timestamp="1558933793738">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/UserInfo.java" timestamp="1558583993321">
         <mark key="'" line="69" column="49" />
@@ -199,15 +292,52 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" timestamp="1558945365540">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="19" column="67" />
-        <mark key="]" line="19" column="72" />
-        <mark key="." line="19" column="72" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" timestamp="1558951849589">
+        <mark key="'" line="29" column="39" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="72" />
       </file>
-      <file name="/dummy.sql" timestamp="1558923162753">
+      <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1558959889874">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ActivityContactStat.java" timestamp="1558574876147">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="69" column="70" />
+        <mark key="]" line="69" column="77" />
+        <mark key="^" line="69" column="77" />
+        <mark key="." line="69" column="77" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/main/MesVehicleUpdate.java" timestamp="1558946982050">
+        <mark key="[" line="28" column="65" />
+        <mark key="]" line="28" column="65" />
+        <mark key="." line="28" column="65" />
+        <mark key="^" line="28" column="65" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/wrapper/RedisClusterWrapper.scala" timestamp="1558773932715">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="44" />
+      </file>
+      <file name="/dummy.sql" timestamp="1558949898916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/pom.xml" timestamp="1558426029133">
+        <mark key="'" line="35" column="31" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="57" column="17" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/dao/TscGeoFenceNewDao.java" timestamp="1558686970672">
+        <mark key="'" line="20" column="48" />
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="46" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/FileInfo.java" timestamp="1558938292207">
         <mark key="'" line="115" column="4" />
@@ -228,29 +358,37 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1558945354442">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" timestamp="1558925562574">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" timestamp="1558945580277">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="71" column="74" />
-        <mark key="]" line="71" column="74" />
-        <mark key="." line="71" column="74" />
-        <mark key="^" line="71" column="74" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" timestamp="1558952609725">
+        <mark key="'" line="101" column="45" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="64" column="111" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/main/Main.java" timestamp="1558503925587">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="20" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/testdata/MesVehicle.xml" timestamp="1558949665582">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="65" column="84" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-db-housekeeper/pom.xml" timestamp="1558417185555">
         <mark key="'" line="109" column="24" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/ScriptExecutor.java" timestamp="1558583799818">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="83" column="9" />
+        <mark key="]" line="84" column="23" />
+        <mark key="." line="84" column="23" />
+        <mark key="^" line="84" column="23" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/dao/TsgMesVehicleDao.java" timestamp="1558933897344">
         <mark key="[" line="7" column="27" />
@@ -265,15 +403,12 @@
         <mark key="^" line="69" column="62" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesDataLoaderImpl.java" timestamp="1558935374735">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy" timestamp="1558922510284">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/MonitorRegion.java" timestamp="1558583530948">
+        <mark key="'" line="102" column="4" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="73" column="37" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleCapabilityCheckServiceImpl.java" timestamp="1558688059555">
         <mark key="'" line="13" column="1" />
@@ -281,41 +416,21 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/test/RedisClusterTest.scala" timestamp="1558771933123">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/CalendarDate.java" timestamp="1558582254254">
+        <mark key="'" line="52" column="37" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="52" column="49" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558945129965">
+      <file name="/fragment.java" timestamp="1558947041813">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/aop/cache/annotation/Cacheable.java" timestamp="1558686675435">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="66" />
-        <mark key="." line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="1" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleCapabilityCheckServiceImpl.java" />
-      <jump line="326" column="46" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleRankingServiceImpl.java" />
-      <jump line="18" column="18" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/FakeDao.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" />
-      <jump line="49" column="31" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Config.java" />
-      <jump line="9" column="15" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="18" column="17" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="7" column="2" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="13" column="24" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="50" column="15" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="53" column="55" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
-      <jump line="15" column="15" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" />
-      <jump line="105" column="10" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" />
       <jump line="10" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/ValidationPolicy.java" />
       <jump line="55" column="18" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
       <jump line="11" column="11" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Task.java" />
@@ -401,55 +516,70 @@
       <jump line="109" column="45" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
       <jump line="110" column="28" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
       <jump line="35" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-update.xml" />
+      <jump line="47" column="19" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
+      <jump line="10" column="20" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
+      <jump line="67" column="43" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
+      <jump line="70" column="40" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
+      <jump line="80" column="105" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
+      <jump line="87" column="82" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
+      <jump line="102" column="45" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" />
+      <jump line="29" column="39" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
+      <jump line="23" column="16" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
+      <jump line="22" column="16" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
+      <jump line="195" column="28" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKZGJjVGVtcGxhdGUgZ2V0SmRiY1RlbXBsYXRlKCkgewogICAgICAgIHJldHVybiBqZGJjVGVtcGxhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SmRiY1RlbXBsYXRlKEpkYmNUZW1wbGF0ZSBqZGJjVGVtcGxhdGUpIHsKICAgICAgICB0aGlzLmpkYmNUZW1wbGF0ZSA9IGpkYmNUZW1wbGF0ZTsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>jdbcTemplate</text>
+        <text>insert_time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvY2Nlc3NlZEZpbGUgPSBGaWxlQWNjZXNzLm1ha2VQYXRoKHByb2Nlc3NlZFBhdGgsIGZpbGVJbmZvLmdldEZpbGVuYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0idmluIikKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmluKCkgewogICAgICAgIHJldHVybiB2aW47CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VmluKFN0cmluZyB2aW4pIHsKICAgICAgICB0aGlzLnZpbiA9IHZpbjsKICAgIH0KCiAgICBAQ29sdW1uKG5hbWU9InJlY29yZF90aW1lIikKICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0UmVjb3JkVGltZSgpIHsKICAgICAgICByZXR1cm4gcmVjb3JkVGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRSZWNvcmRUaW1lKFRpbWVzdGFtcCByZWNvcmRUaW1lKSB7CiAgICAgICAgdGhpcy5yZWNvcmRUaW1lID0gcmVjb3JkVGltZTsKICAgIH0KCiAgICBAQ29sdW1uKG5hbWU9Imluc2VydF90aW1lIikKICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0SW5zZXJ0VGltZSgpIHsKICAgICAgICByZXR1cm4gaW5zZXJ0VGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJbnNlcnRUaW1lKFRpbWVzdGFtcCBpbnNlcnRUaW1lKSB7CiAgICAgICAgdGhpcy5pbnNlcnRUaW1lID0gaW5zZXJ0VGltZTsKICAgIH0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKZGJjVGVtcGxhdGUgZ2V0SmRiY1RlbXBsYXRlKCkgewogICAgICAgIHJldHVybiBqZGJjVGVtcGxhdGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SmRiY1RlbXBsYXRlKEpkYmNUZW1wbGF0ZSBqZGJjVGVtcGxhdGUpIHsKICAgICAgICB0aGlzLmpkYmNUZW1wbGF0ZSA9IGpkYmNUZW1wbGF0ZTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVjb3JkVGltZSA9IHJlY29yZFRpbWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZWNvcmRUaW1lOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEpkYmNUZW1wbGF0ZSBqZGJjVGVtcGxhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHIuZ2V0VmluKCkubGVuZ3RoKCk7IC8vIG1ha2UgYSBOUEUgaWYgcmVjb3JkIGZhaWxlZCB0byBsb2FkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnNldFZpbihnZXRWaW4oKSk7CiAgICAgICAgZS5zZXRSZWNvcmRUaW1lKG5ldyBUaW1lc3RhbXAoRGF0ZVRpbWVVdGlsLnJlY29yZFRpbWVTdHIyRGF0ZShnZXRSZWNvcmRUaW1lKCkpLmdldFRpbWUoKSkpOwogICAgICAgIGUuc2V0SW5zZXJ0VGltZShuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc2VydFRpbWUuZXF1YWxzKHRoYXQuaW5zZXJ0VGltZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJlbnRpdHlNYW5hZ2VyRmFjdG9yeSIKCQkgIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLm9ybS5qcGEuTG9jYWxDb250YWluZXJFbnRpdHlNYW5hZ2VyRmFjdG9yeUJlYW4iPgoJCTxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9ImRhdGFTb3VyY2UiLz4KCQk8cHJvcGVydHkgbmFtZT0ianBhVmVuZG9yQWRhcHRlciI+CgkJCTxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLm9ybS5qcGEudmVuZG9yLkhpYmVybmF0ZUpwYVZlbmRvckFkYXB0ZXIiPjwvYmVhbj4KCQk8L3Byb3BlcnR5PgoJCTxwcm9wZXJ0eSBuYW1lPSJwYWNrYWdlc1RvU2NhbiIgdmFsdWU9ImNvbS5lcmljc3Nvbi5jc3AudHNnLm1lcy5lbnRpdHkiLz4KCQk8cHJvcGVydHkgbmFtZT0ianBhRGlhbGVjdCI+CgkJCTxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLm9ybS5qcGEudmVuZG9yLkhpYmVybmF0ZUpwYURpYWxlY3QiLz4KCQk8L3Byb3BlcnR5PgoJCTxwcm9wZXJ0eSBuYW1lPSJqcGFQcm9wZXJ0aWVzIj4KCQkJPHByb3BzPgoJCQkJPHByb3Aga2V5PSJoaWJlcm5hdGUuZWpiLm5hbWluZ19zdHJhdGVneSI+b3JnLmhpYmVybmF0ZS5jZmcuSW1wcm92ZWROYW1pbmdTdHJhdGVneTwvcHJvcD4KCQkJCTxwcm9wIGtleT0iaGliZXJuYXRlLnNob3dfc3FsIj50cnVlPC9wcm9wPgoJCQkJPHByb3Aga2V5PSJoaWJlcm5hdGUuZm9ybWF0X3NxbCI+dHJ1ZTwvcHJvcD4KCQkJCTxwcm9wIGtleT0iaGliZXJuYXRlLmhibTJkZGwuYXV0byI+dXBkYXRlPC9wcm9wPgoJCQk8L3Byb3BzPgoJCTwvcHJvcGVydHk+Cgk8L2JlYW4+CgoJPGJlYW4gaWQ9InRyYW5zYWN0aW9uTWFuYWdlcjIiCgkJICBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5vcm0uanBhLkpwYVRyYW5zYWN0aW9uTWFuYWdlciI+CgkJPHByb3BlcnR5IG5hbWU9ImVudGl0eU1hbmFnZXJGYWN0b3J5IiByZWY9ImVudGl0eU1hbmFnZXJGYWN0b3J5Ii8+Cgk8L2JlYW4+CgoJPHR4OmFubm90YXRpb24tZHJpdmVuIHRyYW5zYWN0aW9uLW1hbmFnZXI9InRyYW5zYWN0aW9uTWFuYWdlciIvPgoKCTxqcGE6cmVwb3NpdG9yaWVzIGJhc2UtcGFja2FnZT0iY29tLmVyaWNzc29uLmNzcC50c2cubWVzLmRhbyIKCQkJCQkgIGVudGl0eS1tYW5hZ2VyLWZhY3RvcnktcmVmPSJlbnRpdHlNYW5hZ2VyRmFjdG9yeSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIsIGluc2VydFRpbWU9IiArIGluc2VydFRpbWUgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJkYXRhU291cmNlIiBjbGFzcz0iY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UiCgkJaW5pdC1tZXRob2Q9ImluaXQiIGRlc3Ryb3ktbWV0aG9kPSJjbG9zZSI+CgkJPHByb3BlcnR5IG5hbWU9ImRyaXZlckNsYXNzTmFtZSIgdmFsdWU9IiR7amRiYy5kcml2ZXJDbGFzc05hbWV9IiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJ1cmwiIHZhbHVlPSIke2pkYmMudXJsfSIgLz4KCQk8cHJvcGVydHkgbmFtZT0idXNlcm5hbWUiIHZhbHVlPSIke2pkYmMudXNlcm5hbWV9IiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJwYXNzd29yZCIgdmFsdWU9IiR7amRiYy5wYXNzd29yZH0iIC8+CgkJPHByb3BlcnR5IG5hbWU9Im1heEFjdGl2ZSIgdmFsdWU9IjgiIC8+CgkJPHByb3BlcnR5IG5hbWU9ImluaXRpYWxTaXplIiB2YWx1ZT0iMiIgLz4KCQk8cHJvcGVydHkgbmFtZT0ibWF4V2FpdCIgdmFsdWU9IjYwMDAwIiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJtaW5JZGxlIiB2YWx1ZT0iMSIgLz4KCQk8cHJvcGVydHkgbmFtZT0icmVtb3ZlQWJhbmRvbmVkIiB2YWx1ZT0iZmFsc2UiIC8+CgkJPHByb3BlcnR5IG5hbWU9InJlbW92ZUFiYW5kb25lZFRpbWVvdXQiIHZhbHVlPSIzMDAiIC8+CgkJPHByb3BlcnR5IG5hbWU9ImxvZ0FiYW5kb25lZCIgdmFsdWU9ImZhbHNlIiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJ0aW1lQmV0d2VlbkV2aWN0aW9uUnVuc01pbGxpcyIgdmFsdWU9IjMwMDAiIC8+CgkJPHByb3BlcnR5IG5hbWU9Im1pbkV2aWN0YWJsZUlkbGVUaW1lTWlsbGlzIiB2YWx1ZT0iMzAwMDAwIiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJ2YWxpZGF0aW9uUXVlcnkiIHZhbHVlPSJzZWxlY3QgdmVyc2lvbigpOyIgLz4KCQk8cHJvcGVydHkgbmFtZT0idGVzdFdoaWxlSWRsZSIgdmFsdWU9InRydWUiIC8+CgkJPHByb3BlcnR5IG5hbWU9InRlc3RPbkJvcnJvdyIgdmFsdWU9ImZhbHNlIiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJ0ZXN0T25SZXR1cm4iIHZhbHVlPSJmYWxzZSIgLz4KCQk8cHJvcGVydHkgbmFtZT0iZmlsdGVycyIgdmFsdWU9ImNvbmZpZyIgLz4KCQk8cHJvcGVydHkgbmFtZT0iY29ubmVjdGlvblByb3BlcnRpZXMiIHZhbHVlPSJjb25maWcuZGVjcnlwdD1mYWxzZSIgLz4KCTwvYmVhbj4KCgk8YmVhbiBpZD0ic3RhdC1maWx0ZXIiIGNsYXNzPSJjb20uYWxpYmFiYS5kcnVpZC5maWx0ZXIuc3RhdC5TdGF0RmlsdGVyIj4KCQk8cHJvcGVydHkgbmFtZT0ibWVyZ2VTcWwiIHZhbHVlPSJ0cnVlIiAvPgoJCTxwcm9wZXJ0eSBuYW1lPSJzbG93U3FsTWlsbGlzIiB2YWx1ZT0iMTAwMDAiIC8+CgkJPHByb3BlcnR5IG5hbWU9ImxvZ1Nsb3dTcWwiIHZhbHVlPSJ0cnVlIiAvPgoJPC9iZWFuPgoKCTxiZWFuIGlkPSJ0cmFuc2FjdGlvbk1hbmFnZXIiCgkJY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5kYXRhc291cmNlLkRhdGFTb3VyY2VUcmFuc2FjdGlvbk1hbmFnZXIiPgoJCTxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9ImRhdGFTb3VyY2UiIC8+Cgk8L2JlYW4+CgoJPGJlYW4gaWQ9ImpkYmNUZW1wbGF0ZSIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5jb3JlLkpkYmNUZW1wbGF0ZSI+CgkJPHByb3BlcnR5IG5hbWU9ImRhdGFTb3VyY2UiIHJlZj0iZGF0YVNvdXJjZSIgLz4KCQk8cHJvcGVydHkgbmFtZT0iZmV0Y2hTaXplIiB2YWx1ZT0iNTAwMCIgLz4gPCEtLSBsaW1pdCB0aGUgc2l6ZSBvZiBlYWNoIGZldGNoLCBhdm9pZCBPT00gLS0+CgkJPHByb3BlcnR5IG5hbWU9InF1ZXJ5VGltZW91dCIgdmFsdWU9IjYwMDAwIi8+IDwhLS0gZGVsZXRlIGJpZyB0YWJsZSBtYXkgdGFrZXMgbG9uZyB0aW1lIHNldCB0byAxNW1pbiAtLT4KCTwvYmVhbj4K</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgYm9vbGVhbiBlcXVhbHMoT2JqZWN0IG8pIHsKICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgaWYgKG8gPT0gbnVsbCB8fCBnZXRDbGFzcygpICE9IG8uZ2V0Q2xhc3MoKSkgcmV0dXJuIGZhbHNlOwogICAgVHNnVmVoaWNsZU1lcyB0aGF0ID0gKFRzZ1ZlaGljbGVNZXMpIG87CiAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHModmluLCB0aGF0LnZpbikgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMocmVjb3JkVGltZSwgdGhhdC5yZWNvcmRUaW1lKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhmY2NvZGUsIHRoYXQuZmNjb2RlKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhpY2NpZCwgdGhhdC5pY2NpZCkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoaWh1SWQsIHRoYXQuaWh1SWQpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGlodVB3ZCwgdGhhdC5paHVQd2QpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKGlodVN5c3RlbVZlcnNpb24sIHRoYXQuaWh1U3lzdGVtVmVyc2lvbikgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoaWh1VmVuZG9yLCB0aGF0LmlodVZlbmRvcikgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHMoaWh1VmVyc2lvbiwgdGhhdC5paHVWZXJzaW9uKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyhpbXNpLCB0aGF0Lmltc2kpICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKG1zaXNkbiwgdGhhdC5tc2lzZG4pICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKHRib3hQd2QsIHRoYXQudGJveFB3ZCkgJiYKICAgICAgICAgICAgT2JqZWN0cy5lcXVhbHModGVtU3lzdGVtVmVyc2lvbiwgdGhhdC50ZW1TeXN0ZW1WZXJzaW9uKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyh0ZW1WZW5kb3IsIHRoYXQudGVtVmVuZG9yKSAmJgogICAgICAgICAgICBPYmplY3RzLmVxdWFscyh0ZW1WZXJzaW9uLCB0aGF0LnRlbVZlcnNpb24pICYmCiAgICAgICAgICAgIE9iamVjdHMuZXF1YWxzKHR1SWQsIHRoYXQudHVJZCk7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgcmV0dXJuIE9iamVjdHMuaGFzaCh2aW4sIHJlY29yZFRpbWUsIGZjY29kZSwgaWNjaWQsIGlodUlkLCBpaHVQd2QsIGlodVN5c3RlbVZlcnNpb24sIGlodVZlbmRvciwgaWh1VmVyc2lvbiwgaW1zaSwgbXNpc2RuLCB0Ym94UHdkLCB0ZW1TeXN0ZW1WZXJzaW9uLCB0ZW1WZW5kb3IsIHRlbVZlcnNpb24sIHR1SWQpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YmFja3VwUGF0aDogL2hvbWUvcGFjby9tZXMvYmFja3VwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJtZXNEYXRhRHVtcGVyIiBjbGFzcz0iY29tLmVyaWNzc29uLmNzcC50c2cubWVzLnNlcnZpY2UuaW1wbC5NZXNEYXRhRHVtcGVySW1wbCI+CgkJPHByb3BlcnR5IG5hbWU9IndvcmtQYXRoIiB2YWx1ZT0iJHtvdXRQYXRofSI+PC9wcm9wZXJ0eT4KCTwvYmVhbj4KCg==</text>
+        <text encoding="base64">ICBkZGRkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jdbcTemplate</last-search>
+      <last-search>insert_time</last-search>
       <last-offset />
-      <last-pattern>jdbcTemplate</last-pattern>
+      <last-pattern>insert_time</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -457,11 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Dir</entry>
-        <entry>it</entry>
-        <entry>calcFields</entry>
-        <entry>$</entry>
-        <entry>TEM</entry>
         <entry>temVen</entry>
         <entry>RECORD_TIME</entry>
         <entry>spring</entry>
@@ -469,7 +594,6 @@
         <entry>hib</entry>
         <entry>data-jpa</entry>
         <entry>tsg-mes</entry>
-        <entry>hibernate</entry>
         <entry>jpa</entry>
         <entry>insertMap</entry>
         <entry>insertTime</entry>
@@ -477,10 +601,14 @@
         <entry>lineNo</entry>
         <entry>update</entry>
         <entry>jdbcTemplate</entry>
+        <entry>dump</entry>
+        <entry>hibernate</entry>
+        <entry>fileInfo</entry>
+        <entry>jdbc</entry>
+        <entry>inserttime</entry>
+        <entry>insert_time</entry>
       </history-search>
       <history-cmd>
-        <entry>91</entry>
-        <entry>95</entry>
         <entry>%s/TSC_DB_HOUSEKEEP/TSG_MES/g</entry>
         <entry>74</entry>
         <entry>%s/Jedis j,/JedisCommands j,/g</entry>
@@ -498,6 +626,8 @@
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
         <entry>q</entry>
         <entry>0</entry>
+        <entry>wqa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
