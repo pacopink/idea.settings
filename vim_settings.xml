@@ -9,50 +9,6 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/ValidationPolicy.java" timestamp="1559112668775">
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="7" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="43" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" timestamp="1559110930192">
-        <mark key="'" line="17" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" timestamp="1559112562776">
-        <mark key="'" line="62" column="21" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="36" />
-        <mark key="^" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1559113419249" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" timestamp="1559112096236">
-        <mark key="'" line="51" column="59" />
-        <mark key="[" line="51" column="70" />
-        <mark key="]" line="51" column="76" />
-        <mark key="." line="51" column="76" />
-        <mark key="^" line="51" column="76" />
-      </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/LbsNotification10_RedisCluster.scala" timestamp="1558777863175">
-        <mark key="'" line="150" column="9" />
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="0" />
-        <mark key="." line="444" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMesId.java" timestamp="1559110942520" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1559110002986">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="316" column="52" />
-        <mark key="]" line="316" column="52" />
-        <mark key="." line="316" column="52" />
-        <mark key="^" line="321" column="87" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" timestamp="1559111318545">
-        <mark key="'" line="110" column="11" />
-        <mark key="[" line="277" column="47" />
-        <mark key="]" line="277" column="47" />
-        <mark key="." line="277" column="47" />
-      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesFetchServiceImpl.java" timestamp="1559111868617">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="5" column="0" />
@@ -66,12 +22,21 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/ValidationPolicy.java" timestamp="1559112668775">
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="7" />
+        <mark key="^" line="43" column="7" />
+        <mark key="." line="43" column="38" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/doc/tsg-mes-collector.md" timestamp="1559112929738">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="86" column="3" />
         <mark key="]" line="89" column="7" />
         <mark key="." line="89" column="7" />
         <mark key="^" line="89" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" timestamp="1559110930192">
+        <mark key="'" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1558426574762">
         <mark key="'" line="68" column="4" />
@@ -86,17 +51,37 @@
         <mark key="^" line="69" column="37" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" timestamp="1559112562776">
+        <mark key="'" line="62" column="21" />
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="36" />
+        <mark key="^" line="40" column="36" />
+        <mark key="." line="40" column="36" />
+      </file>
       <file name="$USER_HOME$/code/tsc/misc/pcc-event-mq/pom.xml" timestamp="1559106587172">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="27" />
         <mark key="." line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" timestamp="1559112096236">
+        <mark key="'" line="51" column="59" />
+        <mark key="[" line="51" column="70" />
+        <mark key="]" line="51" column="76" />
+        <mark key="." line="51" column="76" />
+        <mark key="^" line="51" column="76" />
+      </file>
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/UserInfo.java" timestamp="1558583993321">
         <mark key="'" line="69" column="49" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/LbsNotification10_RedisCluster.scala" timestamp="1558777863175">
+        <mark key="'" line="150" column="9" />
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="." line="444" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/FileInfo.java" timestamp="1559111630012">
         <mark key="'" line="111" column="4" />
@@ -112,7 +97,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1559113136942" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/main/MesVehicleCollector.java" timestamp="1559114644027" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" timestamp="1558925562574">
         <mark key="'" line="4" column="24" />
         <mark key="[" line="258" column="0" />
@@ -131,7 +116,6 @@
         <mark key="]" line="213" column="18" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1559107733844" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/dao/TsgVehicleMesDao.java" timestamp="1559110975293">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -144,6 +128,19 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="76" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1559110002986">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="316" column="52" />
+        <mark key="]" line="316" column="52" />
+        <mark key="." line="316" column="52" />
+        <mark key="^" line="321" column="87" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" timestamp="1559111318545">
+        <mark key="'" line="110" column="11" />
+        <mark key="[" line="277" column="47" />
+        <mark key="]" line="277" column="47" />
+        <mark key="." line="277" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1559110786388">
         <mark key="'" line="0" column="0" />
