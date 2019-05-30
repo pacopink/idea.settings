@@ -16,6 +16,7 @@
         <mark key="^" line="131" column="12" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleEventHandlerServiceImpl.java" timestamp="1559181044585" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-update.xml" timestamp="1559113404462">
         <mark key="'" line="74" column="4" />
         <mark key="[" line="73" column="0" />
@@ -51,6 +52,9 @@
         <mark key="^" line="69" column="37" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181499357">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" timestamp="1559112562776">
         <mark key="'" line="62" column="21" />
         <mark key="[" line="40" column="28" />
@@ -58,7 +62,6 @@
         <mark key="^" line="40" column="36" />
         <mark key="." line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1559120755507" />
       <file name="$USER_HOME$/code/tsc/misc/pcc-event-mq/pom.xml" timestamp="1559106587172">
         <mark key="'" line="39" column="24" />
         <mark key="[" line="40" column="26" />
@@ -78,6 +81,12 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559180848430">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1559181161201">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/main/LbsNotification10_RedisCluster.scala" timestamp="1558777863175">
         <mark key="'" line="150" column="9" />
         <mark key="[" line="444" column="0" />
@@ -91,6 +100,7 @@
         <mark key="^" line="39" column="36" />
         <mark key="." line="30" column="58" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/kafka/producer/service/KafkaProducerServer.java" timestamp="1559181381270" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1559110226582">
         <mark key="'" line="17" column="19" />
         <mark key="[" line="6" column="0" />
@@ -98,7 +108,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/main/MesVehicleCollector.java" timestamp="1559114644027" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/MesVehicleRecord.java" timestamp="1558925562574">
         <mark key="'" line="4" column="24" />
         <mark key="[" line="258" column="0" />
@@ -117,6 +126,11 @@
         <mark key="]" line="213" column="18" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1559180923261">
+        <mark key="'" line="32" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181024335" />
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-kafka-producer.xml" timestamp="1559181427324" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/dao/TsgVehicleMesDao.java" timestamp="1559110975293">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -136,6 +150,9 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="53" column="76" />
       </file>
+      <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1559110002986">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="316" column="52" />
@@ -143,6 +160,7 @@
         <mark key="." line="316" column="52" />
         <mark key="^" line="321" column="87" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/kafka/producer/service/impl/KafkaProducerServerImpl.java" timestamp="1559181303191" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" timestamp="1559111318545">
         <mark key="'" line="110" column="11" />
         <mark key="[" line="277" column="47" />
@@ -157,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="34" filename="$USER_HOME$/code/tg/tsg-notify/pom.xml" />
-      <jump line="161" column="8" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="36" column="35" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="199" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="200" column="38" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="201" column="26" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
@@ -257,6 +272,9 @@
       <jump line="39" column="24" filename="$USER_HOME$/code/tsc/misc/pcc-event-mq/pom.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/doc/tsg-mes-collector.md" />
       <jump line="74" column="4" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/spring-config/applicationContext-update.xml" />
+      <jump line="46" column="15" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-base.xml" />
+      <jump line="32" column="51" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-base.xml" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -266,7 +284,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>activemq</text>
+        <text>pool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBmaWVsZDogVEVNX0lECiAgICAgICAgbWF4TGVuOiAxMjggICAjIOacgOWkp+mVv+W6pgogICAgICAtIGZpZWxkOiBWSU4KICAgICAgICBtaW5MZW46IDE3ICAgICMg5pyA5bCP6ZW/5bqm77yM5LiN6YWN572u5oiW6ICF6YWN572u5Li6MOihqOekuuWPr+S7peS4uuepugogICAgICAgIG1heExlbjogMTcgICAgIyDmnIDlpKfplb/luqYsIOS4jemFjee9ruihqOekuuS4jemZkOWItgogICAgICAgIHBhdHRlcm5zOiAgICAgIyDmraPliJnooajovr7lvI/vvIzkuI3phY3nva7ooajnpLrmsqHopoHmsYLvvIzlpoLmnpzmnInphY3nva7liJnlrZfmrrXkuI3og73kuLrnqbrvvIzlj6/ku6XmmK/kuIDkuKrliJfooajooajnpLrlpJrkuKrlkIjms5XmoLzlvI8s5Yy56YWN5Lu75L2V5LiA5Liq566X6YCa6L+HCg==</text>
@@ -303,9 +321,9 @@
       </register>
     </registers>
     <search>
-      <last-search>activemq</last-search>
+      <last-search>pool</last-search>
       <last-offset />
-      <last-pattern>activemq</last-pattern>
+      <last-pattern>pool</last-pattern>
       <last-replace>vesion</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
         <entry>public</entry>
         <entry>patterns</entry>
         <entry>too short</entry>
@@ -333,6 +350,7 @@
         <entry>_version</entry>
         <entry>version</entry>
         <entry>activemq</entry>
+        <entry>pool</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzogY29tYm8vL2c=</entry>
