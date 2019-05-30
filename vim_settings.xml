@@ -26,8 +26,8 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559204664226">
-        <mark key="'" line="444" column="26" />
+      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559206737901">
+        <mark key="'" line="444" column="38" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/ValidationPolicy.java" timestamp="1559112668775">
         <mark key="[" line="43" column="33" />
@@ -284,7 +284,7 @@
       <jump line="504" column="50" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
       <jump line="134" column="50" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateUplinkServiceImpl.java" />
       <jump line="440" column="23" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
-      <jump line="444" column="26" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
+      <jump line="444" column="38" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -341,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>assem</entry>
         <entry>ass</entry>
         <entry>plug</entry>
@@ -360,6 +359,7 @@
         <entry>ota</entry>
         <entry>downlinkCertificate</entry>
         <entry>Command execute success</entry>
+        <entry>after</entry>
         <entry>doDownlinkMCP</entry>
       </history-search>
       <history-cmd>
