@@ -7,117 +7,68 @@
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1559289844237" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1559293315421">
+        <mark key="'" line="41" column="74" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceAsynImpl.java" timestamp="1559292728985" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/CacheStore.java" timestamp="1559289162709" />
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
         <mark key="'" line="98" column="46" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/VehicleEventCacheService.java" timestamp="1559292338361" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" timestamp="1559110930192">
+        <mark key="'" line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/GeoFenceCacheServiceImpl.java" timestamp="1559293081434" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181499357">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" timestamp="1559112562776">
-        <mark key="'" line="62" column="21" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="36" />
-        <mark key="^" line="40" column="36" />
-        <mark key="." line="40" column="36" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RemoteCtrlOpServiceImpl.java" timestamp="1559293238899" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/test/java/com/ericsson/csp/tsc/remotestatus/uplink/test/JournalLogUplinkServiceImplTest.java" timestamp="1559211913608" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" timestamp="1559112096236">
-        <mark key="'" line="51" column="59" />
-        <mark key="[" line="51" column="70" />
-        <mark key="]" line="51" column="76" />
-        <mark key="." line="51" column="76" />
-        <mark key="^" line="51" column="76" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/SimpleDownlinkMessageHandler.java" timestamp="1559211016545" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" timestamp="1559292952016" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/kafka/producer/service/KafkaProducerServer.java" timestamp="1559181381270" />
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1559291296696">
+        <mark key="'" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceIgniteImpl.java" timestamp="1559293255963" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/RequestIdService.java" timestamp="1559293276895" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1559180923261">
+        <mark key="'" line="32" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/VehicleEventCacheServiceImpl.java" timestamp="1559293330883" />
       <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1559110002986">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="316" column="52" />
-        <mark key="]" line="316" column="52" />
-        <mark key="." line="316" column="52" />
-        <mark key="^" line="321" column="87" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/kafka/producer/service/impl/KafkaProducerServerImpl.java" timestamp="1559181303191" />
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/Main.java" timestamp="1559291181343" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" timestamp="1559289431873" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesFetchServiceImpl.java" timestamp="1559111868617">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="131" column="12" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleEventHandlerServiceImpl.java" timestamp="1559181044585" />
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559207921453">
         <mark key="'" line="444" column="38" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/VehicleEventHandler.java" timestamp="1559292084227" />
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateUplinkServiceImpl.java" timestamp="1559204527988">
         <mark key="'" line="134" column="50" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/doc/tsg-mes-collector.md" timestamp="1559112929738">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="86" column="3" />
-        <mark key="]" line="89" column="7" />
-        <mark key="." line="89" column="7" />
-        <mark key="^" line="89" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" timestamp="1559111440021">
-        <mark key="'" line="38" column="28" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="69" column="37" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559180848430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CertificateUtils.java" timestamp="1559188597521" />
-      <file name="/dummy.sql" timestamp="1559182706465">
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/OperationFrequencyServiceImpl.java" timestamp="1559293101778" />
+      <file name="/dummy.sql" timestamp="1559293061344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/FileInfo.java" timestamp="1559111630012">
-        <mark key="'" line="111" column="4" />
-        <mark key="[" line="30" column="58" />
-        <mark key="]" line="30" column="58" />
-        <mark key="^" line="39" column="36" />
-        <mark key="." line="30" column="58" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1559212124971">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1559110226582">
-        <mark key="'" line="17" column="19" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" timestamp="1559183645209">
-        <mark key="'" line="137" column="16" />
-        <mark key="[" line="104" column="14" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspServiceCacheCountServiceImpl.java" timestamp="1559292984145" />
+      <file name="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" timestamp="1559295127779" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181024335" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-kafka-producer.xml" timestamp="1559181427324" />
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" timestamp="1559183704931">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="22" column="52" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="53" column="76" />
+      <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/TelematicsContextServiceIgniteImpl.java" timestamp="1559293289827" />
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesDataDumperImpl.java" />
       <jump line="46" column="14" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
       <jump line="45" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
       <jump line="65" column="10" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
@@ -216,6 +167,8 @@
       <jump line="440" column="23" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
       <jump line="444" column="38" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
       <jump line="98" column="46" filename="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" />
+      <jump line="6" column="24" filename="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" />
+      <jump line="41" column="74" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -225,7 +178,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>withLock</text>
+        <text>Ignite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBmaWVsZDogVEVNX0lECiAgICAgICAgbWF4TGVuOiAxMjggICAjIOacgOWkp+mVv+W6pgogICAgICAtIGZpZWxkOiBWSU4KICAgICAgICBtaW5MZW46IDE3ICAgICMg5pyA5bCP6ZW/5bqm77yM5LiN6YWN572u5oiW6ICF6YWN572u5Li6MOihqOekuuWPr+S7peS4uuepugogICAgICAgIG1heExlbjogMTcgICAgIyDmnIDlpKfplb/luqYsIOS4jemFjee9ruihqOekuuS4jemZkOWItgogICAgICAgIHBhdHRlcm5zOiAgICAgIyDmraPliJnooajovr7lvI/vvIzkuI3phY3nva7ooajnpLrmsqHopoHmsYLvvIzlpoLmnpzmnInphY3nva7liJnlrZfmrrXkuI3og73kuLrnqbrvvIzlj6/ku6XmmK/kuIDkuKrliJfooajooajnpLrlpJrkuKrlkIjms5XmoLzlvI8s5Yy56YWN5Lu75L2V5LiA5Liq566X6YCa6L+HCg==</text>
@@ -262,9 +215,9 @@
       </register>
     </registers>
     <search>
-      <last-search>withLock</last-search>
+      <last-search>Ignite</last-search>
       <last-offset />
-      <last-pattern>withLock</last-pattern>
+      <last-pattern>Ignite</last-pattern>
       <last-replace>vesion</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -272,9 +225,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ass</entry>
-        <entry>plug</entry>
-        <entry>plugin</entry>
         <entry>project.version</entry>
         <entry>path</entry>
         <entry>invalid</entry>
@@ -292,6 +242,9 @@
         <entry>after</entry>
         <entry>doDownlinkMCP</entry>
         <entry>withLock</entry>
+        <entry>saveToken</entry>
+        <entry>ignite</entry>
+        <entry>Ignite</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzogY29tYm8vL2c=</entry>
