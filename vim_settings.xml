@@ -9,23 +9,41 @@
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
+        <mark key="'" line="46" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/GeoFenceCacheServiceImpl.java" timestamp="1559485049366">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="4" column="68" />
+        <mark key="^" line="4" column="68" />
+        <mark key="." line="4" column="68" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559207921453">
         <mark key="'" line="444" column="38" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1559293315421">
         <mark key="'" line="41" column="74" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/RequestIdService.java" timestamp="1559483662087" />
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateUplinkServiceImpl.java" timestamp="1559204527988">
         <mark key="'" line="134" column="50" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559378101645" />
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
         <mark key="'" line="98" column="46" />
       </file>
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/GeoFenceCacheServiceImpl.java" timestamp="1559484991073" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181499357">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RequestIdServiceRedisImpl.java" timestamp="1559485146689">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="20" column="60" />
+        <mark key="." line="20" column="60" />
+        <mark key="^" line="20" column="60" />
       </file>
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559374923232">
         <mark key="[" line="0" column="0" />
@@ -44,17 +62,16 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" timestamp="1559315557155">
         <mark key="'" line="165" column="35" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/TelematicsContextServiceIgniteImpl.java" timestamp="1559377397901" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" timestamp="1559377759140">
+        <mark key="'" line="56" column="72" />
+        <mark key="m" line="38" column="34" />
+      </file>
       <file name="/dummy.sql" timestamp="1559293061344">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="43" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
-      <jump line="70" column="40" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
-      <jump line="80" column="105" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
-      <jump line="87" column="82" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
-      <jump line="102" column="45" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" />
       <jump line="29" column="39" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/test/java/com/ericsson/csp/tsg/mes/test/Tester.java" />
       <jump line="10" column="13" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="23" column="16" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
@@ -149,55 +166,61 @@
       <jump line="222" column="27" filename="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" />
       <jump line="260" column="27" filename="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" />
       <jump line="41" column="66" filename="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" />
+      <jump line="39" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
+      <jump line="42" column="37" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
+      <jump line="46" column="55" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
+      <jump line="54" column="56" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
+      <jump line="56" column="72" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>requestId</text>
+        <text>expire</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBmaWVsZDogVEVNX0lECiAgICAgICAgbWF4TGVuOiAxMjggICAjIOacgOWkp+mVv+W6pgogICAgICAtIGZpZWxkOiBWSU4KICAgICAgICBtaW5MZW46IDE3ICAgICMg5pyA5bCP6ZW/5bqm77yM5LiN6YWN572u5oiW6ICF6YWN572u5Li6MOihqOekuuWPr+S7peS4uuepugogICAgICAgIG1heExlbjogMTcgICAgIyDmnIDlpKfplb/luqYsIOS4jemFjee9ruihqOekuuS4jemZkOWItgogICAgICAgIHBhdHRlcm5zOiAgICAgIyDmraPliJnooajovr7lvI/vvIzkuI3phY3nva7ooajnpLrmsqHopoHmsYLvvIzlpoLmnpzmnInphY3nva7liJnlrZfmrrXkuI3og73kuLrnqbrvvIzlj6/ku6XmmK/kuIDkuKrliJfooajooajnpLrlpJrkuKrlkIjms5XmoLzlvI8s5Yy56YWN5Lu75L2V5LiA5Liq566X6YCa6L+HCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVtb3ZlIGR1cGxpY2F0ZWQgZGVwZW5kZW5jeSBmcm9tIHRzYy1kYi1ob3VzZWtlZXBlciBwb20ueG1sCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxiZWFuIGlkPSJtZXNGZXRjaFNlcnZpY2UiIGNsYXNzPSJjb20uZXJpY3Nzb24uY3NwLnRzZy5tZXMuc2VydmljZS5pbXBsLk1lc0ZldGNoU2VydmljZUltcGwiPgoJCTxwcm9wZXJ0eSBuYW1lPSJ0ZXN0IiB2YWx1ZT0idHJ1ZSI+PC9wcm9wZXJ0eT4KCTwvYmVhbj4KCgk8YmVhbiBpZD0iaGFuZGxlciIgY2xhc3M9ImNvbS5lcmljc3Nvbi5jc3AudHNnLm1lcy5zZXJ2aWNlLkNvbGxlY3RvckhhbmRsZXIiPjwvYmVhbj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKEludGVnZXIpc2VxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSwK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHNlcSA9IChJbnRlZ2VyKXJzLm9wc0ZvclZhbHVlKCkuaW5jcmVtZW50KGtleSwgMSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJleGNlcHRpb24gcmVjb3JkIHt9IG9mIGZpbGUge30gbGluZSB7fSwgZXJyIHt9IiwKICAgICAgICAgICAgICAgICAgICByLmdldFJhd0xpbmUoKSwgZmlsZW5hbWUsIHN0YXQudG90YWwsIHNiLnRvU3RyaW5nKCksIGUpOwo=</text>
+      <register name="4" type="4">
+        <text>(Integer)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBmaWVsZDogVEVNX0lECiAgICAgICAgbWF4TGVuOiAxMjgKICAgICAgLSBmaWVsZDogVklOCiAgICAgICAgbWluTGVuOiAxNwogICAgICAgIG1heExlbjogMTcKICAgICAgICBwYXR0ZXJuczoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyDmr4/kuKp0YXNr5Luj6KGo5LiA5Liq55Sf5Lqn54K555qE6YeH6ZuG77yM55SxIHNlcnZpY2VJZO+8i2ZjY29kZeWUr+S4gOehruWumgojIOavj+S4qnRhc2vmnInkuIDns7vliJfnmoTovablnotzZXJpZXPopoHph4fpm4bvvIzph4fpm4bnqIvluo/lj6rku45FU0Lph4fpm4blkI7vvIzkv53lrZjliLBvdXRwYXRoL3dvcmvkuIvvvIzmlofku7blkI0KIyBtZXMudmVoaWNsZS5bc2VydmljZUlkXS5bZmNjb2RlXS5bc2VyaWVzXS5bYmVnaW5UaW1lKFlZWVlNTURESEhNSVNTKV0tW2VuZFRpbWUoWVlZWU1NRERISE1JU1MpXS5bdGltZXN0YW1wKFlZWVlNTURESEhNSVNTKV0KIyDlhaXlupPnqIvluo/otJ/otKPku453b3Jr55uu5b2V6K+75Y+W5a6M5pW055qE5paH5Lu277yM5oyJ54Wn5LuO5paH5Lu25ZCN6Kej5p6Q5YiwZmNjb2Rl77yMc2VyaWVz562J5L+h5oGv77yM5qC55o2uc2VyaWVz5L+h5oGv77yMCiMg5LuOdmFsaWRhdGVpb25Qb2xpY3nphY3nva7kuK3ojrflvpflr7nlupTovablnovnmoTmoKHpqoznrZbnlaXvvIzlubblr7nmlofku7bpgJDooYzorrDlvZXlupTnlKjor6XnrZbnlaXlgZrmoKHpqozvvIzmoKHpqozkuI3pgJrov4fnmoTlhpllcnIvW3dvcmvmlofku7blkI1dLmVycuaWh+S7tgojIOmAmui/h+eahO+8jOaJp+ihjOWFpeW6k2luc2VydC91cGRhdGUsIHdvcmvmlofku7blpITnkIblrozmr5XlkI7vvIxtduWIsHByb2Nlc3NlZOebruW9lQojCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBGRS0zQUMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFpbl9jbGFzcz1jb20uZXJpY3Nzb24uY3NwLnRzYy5ob3VzZWtlZXAuZGIubWFpbi5Ib3VzZWtlZXBlck1haW4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJleGNlcHRpb24gcmVjb3JkIHt9IG9mIGZpbGUge30gbGluZSB7fSIsCiAgICAgICAgICAgICAgICAgICAgci5nZXRSYXdMaW5lKCksIGZpbGVuYW1lLCBzdGF0LnRvdGFsLCBlKTsK</text>
+        <text encoding="base64">cmVtb3ZlIGR1cGxpY2F0ZWQgZGVwZW5kZW5jeSBmcm9tIHRzYy1kYi1ob3VzZWtlZXBlciBwb20ueG1sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>requestId</last-search>
+      <last-search>expire</last-search>
       <last-offset />
-      <last-pattern>requestId</last-pattern>
+      <last-pattern>expire</last-pattern>
       <last-replace>vesion</last-replace>
       <last-substitute>version</last-substitute>
       <last-dir>1</last-dir>
@@ -205,8 +228,6 @@
     </search>
     <history>
       <history-search>
-        <entry>before Downlink provisioning</entry>
-        <entry>before downlink</entry>
         <entry>ota</entry>
         <entry>downlinkCertificate</entry>
         <entry>Command execute success</entry>
@@ -225,6 +246,8 @@
         <entry>short</entry>
         <entry>telematicsContextEntity</entry>
         <entry>requestId</entry>
+        <entry>cacheName</entry>
+        <entry>expire</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzogY29tYm8vL2c=</entry>
@@ -245,8 +268,8 @@
         <entry>141</entry>
         <entry>94</entry>
         <entry>367</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
