@@ -21,6 +21,12 @@
         <mark key="'" line="134" column="50" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559378101645" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" timestamp="1559542127180">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
         <mark key="'" line="98" column="46" />
       </file>
@@ -37,11 +43,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CertificateUtils.java" timestamp="1559532802531" />
-      <file name="$USER_HOME$/code/maven/.m2/repository/org/apache/ignite/ignite-core/1.9.0/ignite-core-1.9.0-sources.jar!/org/apache/ignite/configuration/CacheConfiguration.java" timestamp="1559296074812">
-        <mark key="'" line="1078" column="44" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="120" column="45" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/SimpleDownlinkMessageHandler.java" timestamp="1559531312749" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" timestamp="1559538308147" />
       <file name="/dummy.sql" timestamp="1559293061344">
@@ -66,6 +67,12 @@
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1559543736946">
+        <mark key="'" line="35" column="75" />
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,7 +82,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" timestamp="1559315557155">
         <mark key="'" line="165" column="35" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/TelematicsContextServiceIgniteImpl.java" timestamp="1559542021092">
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/TelematicsContextServiceIgniteImpl.java" timestamp="1559542570053">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -87,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="195" column="28" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="55" column="25" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
       <jump line="196" column="15" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/entity/TsgVehicleMes.java" />
@@ -187,46 +193,47 @@
       <jump line="34" column="15" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
       <jump line="37" column="36" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
       <jump line="38" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/ignite/IgniteCacheBase.java" />
+      <jump line="32" column="75" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnAK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc1RlbXBsYXRlLmV4ZWN1dGVQaXBlbGluZWQocmVkaXNDYWxsYmFjaykK</text>
       </register>
       <register name="-" type="4">
-        <text>REQ_ID</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>cacheName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gU3RyaW5nLmZvcm1hdChQQVRURVJOLCB2aW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHMuc2V0KGtleXNbMV0sIGtleXNbMF0sIHRoaXMuZ2V0VHRsKCksIFRpbWVVbml0LlNFQ09ORFMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnAK</text>
+        <text encoding="base64">ICAgICAgICByZWRpc1RlbXBsYXRlLmV4ZWN1dGVQaXBlbGluZWQocmVkaXNDYWxsYmFjaykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBSZWRpc0NhbGxiYWNrPD8+IHJlZGlzQ2FsbGJhY2sgPSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBUVEwgPSAzNjAwKjI0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGk9MDsgaTxLRVlfQ09VTlQ7IGkrKykgewogICAgICAgICAgICByZXN1bHRbaV0gPSBTdHJpbmcuZm9ybWF0KEtFWV9QQVRURVJOU1tpXSwgdmluLCBldmVudElkLCBzZXJ2aWNlSWQpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcHMuZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W2ldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc1RlbXBsYXRlLm9wc0ZvclZhCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRbMl0gPSBLRVlfUEFUVEVSTi5yZXBsYWNlKCJWSU4iLCB2aW4pLnJlcGxhY2UoIkVWSUQiLCBldmVudElkKS5yZXBsYWNlKCJTUlZJRCIsIE5BX1BMQUNFX0hPTERFUik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
