@@ -30,21 +30,23 @@
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1559545696083">
         <mark key="'" line="116" column="82" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1559552354687">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="31" />
-        <mark key="." line="56" column="31" />
-        <mark key="^" line="56" column="31" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1559553881170">
+        <mark key="'" line="57" column="55" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="55" column="66" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CertificateUtils.java" timestamp="1559532802531" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/dubbo/RcRespServiceClusterInvoker.java" timestamp="1559546503409" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/SimpleDownlinkMessageHandler.java" timestamp="1559531312749" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" timestamp="1559546521931" />
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" timestamp="1559552654310">
-        <mark key="'" line="19" column="40" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="43" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" timestamp="1559553232375">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="176" column="5" />
+        <mark key="^" line="115" column="32" />
+        <mark key="." line="115" column="32" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/command/RemoteControlCmdBase.java" timestamp="1559546438695">
         <mark key="'" line="559" column="38" />
@@ -78,13 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" />
-      <jump line="66" column="15" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" />
-      <jump line="62" column="21" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/validation/FieldValidation.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks2.yml" />
-      <jump line="29" column="18" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" />
-      <jump line="66" column="11" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
-      <jump line="22" column="24" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
       <jump line="19" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/MesFetchServiceImpl.java" />
       <jump line="9" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
       <jump line="60" column="8" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
@@ -178,55 +173,62 @@
       <jump line="13" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
       <jump line="19" column="40" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" />
       <jump line="29" column="8" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
+      <jump line="112" column="23" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" />
+      <jump line="139" column="16" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" />
+      <jump line="146" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
+      <jump line="60" column="15" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
+      <jump line="100" column="18" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
+      <jump line="57" column="55" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKG0tPnNlc3Npb25JZHMuY29udGFpbnMobS5nZXQpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>Error</text>
+        <text>serviceResult</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdE9wZXJhdGlvbnM8U3RyaW5nLCBTdHJpbmc+IG9wcyA9IHJlZGlzVGVtcGxhdGUub3BzRm9yTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBRdWVyeVNlcnZpY2VSZXN1bHQ8VGVsZW1hdGljc0NhY2hlTWVzc2FnZT4gcmVzdWx0ID0gbmV3IFF1ZXJ5U2VydmljZVJlc3VsdDw+KCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgZ2V0TWVzc2FnZXNCeVZpbih2aW4pLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLm1hcChDc3BDYWNoZU1lc3NhZ2VTZXJ2aWNlUmVkaXNJbXBsOjpUcmFuc2xhdGVDc3BDYWNoZU1lc3NhZ2UpCiAgICAgICAgICAgICAgICAgICAgLmZvckVhY2gobS0+cmVzdWx0LmdldExpc3QoKS5hZGQobSkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKG0tPnNlc3Npb25JZHMuY29udGFpbnMobS5nZXQpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IobG9uZyBzdGFydD0wLCBlbmQ9c3RhcnQrc3RlcDspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gMDsgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGVuZCA9IHN0YXJ0K3N0ZXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0b3AgPSAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IobG9uZyBzdGFydD0wLCBlbmQ9c3RhcnQrc3RlcDspCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gMDsgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVuZCA9IHN0YXJ0K3N0ZXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Error</last-search>
+      <last-search>serviceResult</last-search>
       <last-offset />
-      <last-pattern>Error</last-pattern>
+      <last-pattern>serviceResult</last-pattern>
       <last-replace>log</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
@@ -234,7 +236,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveToken</entry>
         <entry>ignite</entry>
         <entry>Ignite</entry>
         <entry>DFLT_BACKUPS</entry>
@@ -254,6 +255,7 @@
         <entry>Session</entry>
         <entry>LOGGER</entry>
         <entry>Error</entry>
+        <entry>serviceResult</entry>
       </history-search>
       <history-cmd>
         <entry>%s/j:Jedis/j:JedisCommands/g</entry>
