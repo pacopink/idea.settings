@@ -100,6 +100,7 @@
         <mark key="." line="142" column="77" />
         <mark key="^" line="142" column="77" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/ElasticSearchServiceImpl.java" timestamp="1559630385429" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1559555362910">
         <mark key="[" line="2" column="40" />
       </file>
@@ -259,7 +260,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>447</text>
       </register>
     </registers>
     <search>
@@ -295,7 +296,6 @@
         <entry>elas</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/j:Jedis/j:JedisCommands/g</entry>
         <entry>48</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
         <entry>q</entry>
@@ -315,6 +315,7 @@
         <entry encoding="base64">JzwsJz5zL0xPR0dFUi9sb2cvZw==</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>447</entry>
       </history-cmd>
       <history-expr />
       <history-input />
