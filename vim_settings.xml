@@ -92,7 +92,11 @@
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/utils/ElasticSearchClientPoolFactory.java" timestamp="1559628453261" />
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/utils/ElasticSearchClientPoolFactory.java" timestamp="1559632584871">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1559546601460">
         <mark key="'" line="45" column="75" />
         <mark key="[" line="140" column="69" />
@@ -221,7 +225,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kZXN0cm95T2JqZWN0KHApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>统计最近的1小时，1天内，某个vin的远程控制命令次数</text>
@@ -233,34 +237,34 @@
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewoKICAgICAgICAgICAgRXJyb3IgZXJyb3IgPSBuZXcgRXJyb3IoVHNjRXJyb3IuQ1NQX0NBQ0hFX01FU1NBR0VfUVVFUllfRVhDRVBUSU9OLmdldENvZGUoKSwKICAgICAgICAgICAgICAgICAgICBUc2NFcnJvci5DU1BfQ0FDSEVfTUVTU0FHRV9RVUVSWV9FWENFUFRJT04uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgc2VydmljZVJlc3VsdC5zZXRBbGwoT3BlcmF0aW9uUmVzdWx0Lk9QRVJBVElPTl9GQUlMVVJFLmdldFZhbHVlKCksIGVycm9yKTsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJxdWVyeUNhY2hlTWVzc2FnZUlnbml0ZSBpbnRlcm5hbDogdmluPXt9IGVycm9yOiAiLCB2aW4sIGUpOwogICAgICAgIH0KICAgICAgICBxdWVyeVJlc3VsdC5zZXRMaXN0KGxpc3RDYWNoZU1lc3NhZ2UpOwogICAgICAgIHF1ZXJ5UmVzdWx0LnNldFNlcnZpY2VSZXN1bHQoc2VydmljZVJlc3VsdCk7CiAgICAgICAgcmV0dXJuIHF1ZXJ5UmVzdWx0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5kZXN0cm95T2JqZWN0KHApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgbWFrZUtleSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgbWFrZUtleSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaWduaXRlLklnbml0ZUNhY2hlOwppbXBvcnQgb3JnLmFwYWNoZS5pZ25pdGUuY2FjaGUucXVlcnkuU3FsRmllbGRzUXVlcnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaWduaXRlLklnbml0ZUNhY2hlOwppbXBvcnQgb3JnLmFwYWNoZS5pZ25pdGUuY2FjaGUucXVlcnkuU3FsRmllbGRzUXVlcnk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgSWduaXRlQ2FjaGU8U3RyaW5nLCBSZW1vdGVDdHJsT3BlcmF0aW9uPiBjYWNoZSA9IHRoaXMuZ2V0Q2FjaGUoKTsKICAgICAgICBjYWNoZS5wdXQob3BlcmF0aW9uLmdldElkKCksIG9wZXJhdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgSWduaXRlQ2FjaGU8U3RyaW5nLCBSZW1vdGVDdHJsT3BlcmF0aW9uPiBjYWNoZSA9IHRoaXMuZ2V0Q2FjaGUoKTsKICAgICAgICBjYWNoZS5wdXQob3BlcmF0aW9uLmdldElkKCksIG9wZXJhdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>447</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -314,8 +318,8 @@
         <entry>367</entry>
         <entry encoding="base64">JzwsJz5zL0xPR0dFUi9sb2cvZw==</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>447</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
