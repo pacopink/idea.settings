@@ -15,7 +15,9 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/GeoFenceCacheServiceImpl.java" timestamp="1559484991073" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/dubbo/RsRespServiceClusterInvoker.java" timestamp="1559546535749" />
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1559638714518" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1559642505271">
+        <mark key="'" line="607" column="28" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/SvtEventServiceImpl.java" timestamp="1559545284306" />
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1559545696083">
         <mark key="'" line="116" column="82" />
@@ -66,6 +68,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" timestamp="1559376335282">
         <mark key="'" line="41" column="66" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/entity/VehicleRunningStatus.java" timestamp="1559642620657" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
       </file>
@@ -122,7 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
       <jump line="60" column="8" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
       <jump line="57" column="30" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesCollectorOptions.java" />
       <jump line="109" column="11" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" />
@@ -222,6 +224,7 @@
       <jump line="100" column="18" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
       <jump line="57" column="55" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" />
       <jump line="15" column="0" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
+      <jump line="607" column="28" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -231,7 +234,7 @@
         <text>统计最近的1小时，1天内，某个vin的远程控制命令次数</text>
       </register>
       <register name="/" type="4">
-        <text>elas</text>
+        <text>setVin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewoKICAgICAgICAgICAgRXJyb3IgZXJyb3IgPSBuZXcgRXJyb3IoVHNjRXJyb3IuQ1NQX0NBQ0hFX01FU1NBR0VfUVVFUllfRVhDRVBUSU9OLmdldENvZGUoKSwKICAgICAgICAgICAgICAgICAgICBUc2NFcnJvci5DU1BfQ0FDSEVfTUVTU0FHRV9RVUVSWV9FWENFUFRJT04uZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgc2VydmljZVJlc3VsdC5zZXRBbGwoT3BlcmF0aW9uUmVzdWx0Lk9QRVJBVElPTl9GQUlMVVJFLmdldFZhbHVlKCksIGVycm9yKTsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJxdWVyeUNhY2hlTWVzc2FnZUlnbml0ZSBpbnRlcm5hbDogdmluPXt9IGVycm9yOiAiLCB2aW4sIGUpOwogICAgICAgIH0KICAgICAgICBxdWVyeVJlc3VsdC5zZXRMaXN0KGxpc3RDYWNoZU1lc3NhZ2UpOwogICAgICAgIHF1ZXJ5UmVzdWx0LnNldFNlcnZpY2VSZXN1bHQoc2VydmljZVJlc3VsdCk7CiAgICAgICAgcmV0dXJuIHF1ZXJ5UmVzdWx0Owo=</text>
@@ -268,9 +271,9 @@
       </register>
     </registers>
     <search>
-      <last-search>elas</last-search>
+      <last-search>setVin</last-search>
       <last-offset />
-      <last-pattern>elas</last-pattern>
+      <last-pattern>setVin</last-pattern>
       <last-replace>log</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
@@ -278,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Ignite</entry>
         <entry>DFLT_BACKUPS</entry>
         <entry>userSessionEntity</entry>
         <entry>vehicleEvent</entry>
@@ -298,6 +300,7 @@
         <entry>Error</entry>
         <entry>serviceResult</entry>
         <entry>elas</entry>
+        <entry>setVin</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
