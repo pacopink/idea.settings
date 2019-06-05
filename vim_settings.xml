@@ -22,24 +22,10 @@
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1559545696083">
         <mark key="'" line="116" column="82" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1559555052856">
-        <mark key="'" line="62" column="55" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="79" column="25" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/jodis/GlobalContactCtl.java" timestamp="1559722580182" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/dubbo/RcRespServiceClusterInvoker.java" timestamp="1559546503409" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/SimpleDownlinkMessageHandler.java" timestamp="1559531312749" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" timestamp="1559546521931" />
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" timestamp="1559554945413">
-        <mark key="'" line="146" column="4" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="145" column="27" />
-        <mark key="^" line="115" column="32" />
-        <mark key="." line="115" column="32" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1559714741991">
         <mark key="'" line="73" column="4" />
       </file>
@@ -60,6 +46,12 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/RequestIdService.java" timestamp="1559483662087" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/VehicleEventCacheServiceImpl.java" timestamp="1559570267933" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jodis.xml" timestamp="1559723215729">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="35" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RequestIdServiceRedisImpl.java" timestamp="1559612403534">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="48" />
@@ -109,13 +101,6 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="31" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1559546601460">
-        <mark key="'" line="45" column="75" />
-        <mark key="[" line="140" column="69" />
-        <mark key="]" line="142" column="77" />
-        <mark key="." line="142" column="77" />
-        <mark key="^" line="142" column="77" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/ElasticSearchServiceImpl.java" timestamp="1559635942670" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1559555362910">
@@ -237,11 +222,11 @@
       <jump line="73" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5kZXN0cm95T2JqZWN0KHApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>JedisCluster</text>
       </register>
       <register name="-" type="4">
-        <text>统计最近的1小时，1天内，某个vin的远程控制命令次数</text>
+        <text>JedisCluster</text>
       </register>
       <register name="/" type="4">
         <text>LOCAL</text>
