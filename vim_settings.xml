@@ -7,7 +7,17 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/CspCacheMessageService.java" timestamp="1559551993115" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" timestamp="1559789674893">
+        <mark key="'" line="79" column="69" />
+        <mark key="[" line="70" column="82" />
+        <mark key="]" line="70" column="95" />
+        <mark key="^" line="70" column="95" />
+        <mark key="." line="70" column="95" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/TelematicsContextService.java" timestamp="1559540855894" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1559293315421">
+        <mark key="'" line="41" column="74" />
+      </file>
       <file name="$USER_HOME$/code/sms_sender/src/main/resources/redis.cluster.properties" timestamp="1559784971488">
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="9" />
@@ -15,6 +25,9 @@
         <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceAsynImpl.java" timestamp="1559548047586" />
+      <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
+        <mark key="'" line="98" column="46" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleEventServiceImpl.java" timestamp="1559628181574" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1559629289514">
         <mark key="'" line="15" column="0" />
@@ -28,6 +41,9 @@
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/dubbo/RsRespServiceClusterInvoker.java" timestamp="1559546535749" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1559698035758">
         <mark key="'" line="607" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181499357">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/SvtEventServiceImpl.java" timestamp="1559545284306" />
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1559545696083">
@@ -94,6 +110,9 @@
         <mark key="^" line="57" column="23" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" timestamp="1559789108837">
+        <mark key="'" line="21" column="7" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RequestIdServiceRedisImpl.java" timestamp="1559612403534">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="48" />
@@ -106,19 +125,28 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" timestamp="1559376335282">
         <mark key="'" line="41" column="66" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" timestamp="1559315557155">
+        <mark key="'" line="165" column="35" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/entity/VehicleRunningStatus.java" timestamp="1559642620657" />
-      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJedisClusterImpl.java" timestamp="1559786791428">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="39" />
-        <mark key="^" line="44" column="39" />
-        <mark key="." line="44" column="39" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJedisClusterImpl.java" timestamp="1559788748020">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="39" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="42" column="39" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559207921453">
+        <mark key="'" line="444" column="38" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/CacheMessageServiceImpl.java" timestamp="1559551922525" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/VehicleEventHandler.java" timestamp="1559612277917" />
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/resource/CspCacheMessageResourceImpl.java" timestamp="1559552137105" />
+      <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateUplinkServiceImpl.java" timestamp="1559204527988">
+        <mark key="'" line="134" column="50" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559378101645" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" timestamp="1559612375000">
         <mark key="[" line="11" column="0" />
@@ -134,17 +162,24 @@
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/RemoteStatusServiceImpl.java" timestamp="1559612163373" />
       <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/jodis/JodisPool.java" timestamp="1559785160314" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/JournalLogServiceImpl.java" timestamp="1559612110553" />
-      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendService.java" timestamp="1559786418035">
-        <mark key="[" line="105" column="38" />
-        <mark key="]" line="105" column="38" />
-        <mark key="." line="105" column="38" />
-        <mark key="^" line="105" column="28" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendService.java" timestamp="1559788598518">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
+        <mark key="^" line="54" column="18" />
       </file>
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559374923232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CertificateUtils.java" timestamp="1559532802531" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/KafkaConsumeService.java" timestamp="1559788905156" />
       <file name="/dummy.sql" timestamp="1559293061344">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" timestamp="1559315739431">
+        <mark key="'" line="128" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559789354043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/ignite/IgniteCacheTest.java" timestamp="1559549303762" />
@@ -188,17 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="64" filename="$USER_HOME$/code/tsc/tsc-db-housekeeper/pom.xml" />
-      <jump line="276" column="33" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="216" column="34" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="11" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="194" column="0" filename="$USER_HOME$/code/tsc/tsc-db-housekeeper/pom.xml" />
-      <jump line="316" column="55" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="25" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="28" column="16" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/Config.java" />
-      <jump line="39" column="37" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
-      <jump line="68" column="64" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
-      <jump line="51" column="59" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" />
       <jump line="13" column="30" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
       <jump line="112" column="65" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
       <jump line="124" column="16" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" />
@@ -288,16 +312,27 @@
       <jump line="147" column="89" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" />
       <jump line="248" column="45" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" />
       <jump line="249" column="28" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="67" column="10" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" />
+      <jump line="46" column="11" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" />
+      <jump line="21" column="7" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" />
+      <jump line="80" column="52" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="61" column="14" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="69" column="71" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="70" column="82" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="75" column="67" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
+      <jump line="79" column="69" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmpvZGlzUG9vbCA9IGpvZGlzUG9vbDsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>baseSmsService</text>
       </register>
       <register name="-" type="4">
-        <text>jedis</text>
+        <text>baseSmsService</text>
       </register>
       <register name="/" type="4">
-        <text>speedLimiter</text>
+        <text>baseSmsService</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSmVkaXMgaiA9IChKZWRpcylqYzsK</text>
@@ -334,9 +369,9 @@
       </register>
     </registers>
     <search>
-      <last-search>speedLimiter</last-search>
+      <last-search>baseSmsService</last-search>
       <last-offset />
-      <last-pattern>speedLimiter</last-pattern>
+      <last-pattern>baseSmsService</last-pattern>
       <last-replace>JedisCommands j</last-replace>
       <last-substitute>Jedis j</last-substitute>
       <last-dir>1</last-dir>
@@ -344,11 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry>telematicsContextEntity</entry>
-        <entry>requestId</entry>
-        <entry>expire</entry>
-        <entry>cacheName</entry>
-        <entry>updateContext</entry>
         <entry>bCallList</entry>
         <entry>getServiceIdContexts</entry>
         <entry>Session</entry>
@@ -364,6 +394,11 @@
         <entry>jodisPool</entry>
         <entry>SpeedLimiter</entry>
         <entry>speedLimiter</entry>
+        <entry>smsSend</entry>
+        <entry>SmsSend</entry>
+        <entry>abstra</entry>
+        <entry>abstract</entry>
+        <entry>baseSmsService</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
@@ -384,8 +419,8 @@
         <entry encoding="base64">JzwsJz5zL0xPR0dFUi9sb2cvZw==</entry>
         <entry>447</entry>
         <entry>%s/Jedis j/JedisCommands j/g</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
