@@ -46,7 +46,7 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/RequestIdService.java" timestamp="1559483662087" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/VehicleEventCacheServiceImpl.java" timestamp="1559570267933" />
-      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jodis.xml" timestamp="1559723215729">
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jodis.xml" timestamp="1559726522255">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
         <mark key="^" line="20" column="46" />
