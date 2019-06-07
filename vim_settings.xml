@@ -14,8 +14,8 @@
         <mark key="." line="336" column="20" />
       </file>
       <file name="/MillisecondClock.java" timestamp="1559896799293" />
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1559831098290">
-        <mark key="'" line="99" column="22" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1559919948979">
+        <mark key="'" line="225" column="41" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
         <mark key="'" line="98" column="46" />
@@ -119,11 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="26" filename="$USER_HOME$/code/maven/.m2/repository/org/apache/ignite/ignite-core/1.9.0/ignite-core-1.9.0-sources.jar!/org/apache/ignite/configuration/CacheConfiguration.java" />
-      <jump line="1078" column="44" filename="$USER_HOME$/code/maven/.m2/repository/org/apache/ignite/ignite-core/1.9.0/ignite-core-1.9.0-sources.jar!/org/apache/ignite/configuration/CacheConfiguration.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" />
-      <jump line="113" column="84" filename="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" />
       <jump line="165" column="35" filename="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" />
       <jump line="128" column="16" filename="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" />
       <jump line="368" column="18" filename="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" />
@@ -219,6 +214,11 @@
       <jump line="113" column="47" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
       <jump line="137" column="0" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
       <jump line="139" column="31" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
+      <jump line="296" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="104" column="47" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="183" column="58" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="225" column="41" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -228,7 +228,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>saveUserSession</text>
+        <text>getUserTokenFromCepResp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFVzZXJTZXNzaW9uSWduaXRlIGltcGxlbWVudHMgamF2YS5pby5TZXJpYWxpemFibGUgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDM2NTE3MDUwMTU2MDEwNjM4NDZMOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdXNlcklkOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdmluOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgY2xpZW50SWRlbnRpdHk7CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBsb2dpblR5cGU7CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBub25jZTsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIGFjY2Vzc1Rva2VuOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcmVmZXJzaFRva2VuOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgaWRUb2tlbjsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIGxhbmd1YWdlOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcGxhdGZvcm07CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBhbGlhczsKCiAgICBwcml2YXRlIERhdGUgICAgICAgICAgICAgIGxvZ2luVGltZTsKCiAgICBwcml2YXRlIERhdGUgICAgICAgICAgICAgIGV4cGlyZWRUaW1lOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdHNjR3JhbnRzU3RyOwo=</text>
@@ -265,19 +265,16 @@
       </register>
     </registers>
     <search>
-      <last-search>saveUserSession</last-search>
+      <last-search>getUserTokenFromCepResp</last-search>
       <last-offset />
-      <last-pattern>saveUserSession</last-pattern>
+      <last-pattern>getUserTokenFromCepResp</last-pattern>
       <last-replace>JedisCommands j</last-replace>
       <last-substitute>Jedis j</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>abstract</entry>
-        <entry>baseSmsService</entry>
-        <entry>config</entry>
         <entry>tfs</entry>
         <entry>Dao</entry>
         <entry>mesVehicleDao</entry>
@@ -295,6 +292,9 @@
         <entry>pagination</entry>
         <entry>save</entry>
         <entry>saveUserSession</entry>
+        <entry>oAuth</entry>
+        <entry>oAuthResponse</entry>
+        <entry>getUserTokenFromCepResp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
