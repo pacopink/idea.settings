@@ -63,7 +63,7 @@
         <mark key="'" line="165" column="35" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSession.java" timestamp="1559893438119" />
-      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" timestamp="1559908915910" />
+      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" timestamp="1559919187513" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
       </file>
