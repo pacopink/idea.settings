@@ -6,13 +6,6 @@
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" timestamp="1559791289556">
-        <mark key="'" line="79" column="69" />
-        <mark key="[" line="70" column="98" />
-        <mark key="]" line="70" column="98" />
-        <mark key="^" line="70" column="4" />
-        <mark key="." line="70" column="98" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1559896061417">
         <mark key="'" line="272" column="35" />
         <mark key="[" line="336" column="21" />
@@ -39,31 +32,10 @@
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1559545696083">
         <mark key="'" line="116" column="82" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1559555052856">
-        <mark key="'" line="62" column="55" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="79" column="25" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/jodis/GlobalContactCtl.java" timestamp="1559785682734">
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="104" column="46" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/TscGrantInnerServiceImpl.java" timestamp="1559830279476">
         <mark key="[" line="305" column="0" />
         <mark key="]" line="305" column="53" />
         <mark key="." line="305" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CspCacheMessageInternalServiceImpl.java" timestamp="1559554945413">
-        <mark key="'" line="146" column="4" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="145" column="27" />
-        <mark key="^" line="115" column="32" />
-        <mark key="." line="115" column="32" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1559714741991">
         <mark key="'" line="73" column="4" />
@@ -91,6 +63,7 @@
         <mark key="'" line="165" column="35" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSession.java" timestamp="1559893438119" />
+      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" timestamp="1559908915910" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
       </file>
@@ -122,8 +95,8 @@
       <file name="/Dummy.txt" timestamp="1559793096474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" timestamp="1559903149299">
-        <mark key="'" line="113" column="47" />
+      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" timestamp="1559908391409">
+        <mark key="'" line="139" column="31" />
         <mark key="[" line="116" column="12" />
         <mark key="]" line="116" column="11" />
         <mark key="." line="116" column="11" />
@@ -134,20 +107,6 @@
       </file>
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/jodis/JedisClusterFactory.java" timestamp="1559792821661">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="23" column="38" />
-        <mark key="." line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1559546601460">
-        <mark key="'" line="45" column="75" />
-        <mark key="[" line="140" column="69" />
-        <mark key="]" line="142" column="77" />
-        <mark key="." line="142" column="77" />
-        <mark key="^" line="142" column="77" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1559830026303">
         <mark key="[" line="2" column="40" />
@@ -160,8 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="74" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/code/maven/.m2/repository/org/apache/ignite/ignite-core/1.9.0/ignite-core-1.9.0-sources.jar!/org/apache/ignite/configuration/CacheConfiguration.java" />
       <jump line="302" column="26" filename="$USER_HOME$/code/maven/.m2/repository/org/apache/ignite/ignite-core/1.9.0/ignite-core-1.9.0-sources.jar!/org/apache/ignite/configuration/CacheConfiguration.java" />
       <jump line="1078" column="44" filename="$USER_HOME$/code/maven/.m2/repository/org/apache/ignite/ignite-core/1.9.0/ignite-core-1.9.0-sources.jar!/org/apache/ignite/configuration/CacheConfiguration.java" />
       <jump line="9" column="0" filename="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" />
@@ -260,6 +217,8 @@
       <jump line="161" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="272" column="35" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="113" column="47" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
+      <jump line="139" column="31" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -269,7 +228,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>pagination</text>
+        <text>saveUserSession</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFVzZXJTZXNzaW9uSWduaXRlIGltcGxlbWVudHMgamF2YS5pby5TZXJpYWxpemFibGUgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDM2NTE3MDUwMTU2MDEwNjM4NDZMOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdXNlcklkOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdmluOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgY2xpZW50SWRlbnRpdHk7CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBsb2dpblR5cGU7CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBub25jZTsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIGFjY2Vzc1Rva2VuOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcmVmZXJzaFRva2VuOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgaWRUb2tlbjsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIGxhbmd1YWdlOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcGxhdGZvcm07CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBhbGlhczsKCiAgICBwcml2YXRlIERhdGUgICAgICAgICAgICAgIGxvZ2luVGltZTsKCiAgICBwcml2YXRlIERhdGUgICAgICAgICAgICAgIGV4cGlyZWRUaW1lOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdHNjR3JhbnRzU3RyOwo=</text>
@@ -306,9 +265,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pagination</last-search>
+      <last-search>saveUserSession</last-search>
       <last-offset />
-      <last-pattern>pagination</last-pattern>
+      <last-pattern>saveUserSession</last-pattern>
       <last-replace>JedisCommands j</last-replace>
       <last-substitute>Jedis j</last-substitute>
       <last-dir>1</last-dir>
@@ -316,8 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SmsSend</entry>
-        <entry>abstra</entry>
         <entry>abstract</entry>
         <entry>baseSmsService</entry>
         <entry>config</entry>
@@ -336,6 +293,8 @@
         <entry>criteria</entry>
         <entry>removeFlag</entry>
         <entry>pagination</entry>
+        <entry>save</entry>
+        <entry>saveUserSession</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
