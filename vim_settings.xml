@@ -184,12 +184,12 @@
         <mark key="." line="116" column="11" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1560003398537">
-        <mark key="'" line="524" column="101" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
-        <mark key="^" line="166" column="122" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1560008368971">
+        <mark key="'" line="445" column="32" />
+        <mark key="[" line="175" column="27" />
+        <mark key="]" line="175" column="27" />
+        <mark key="." line="175" column="27" />
+        <mark key="^" line="175" column="27" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559814569242">
         <mark key="'" line="277" column="19" />
@@ -208,20 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="45" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" />
-      <jump line="249" column="28" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="67" column="10" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" />
-      <jump line="46" column="11" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" />
-      <jump line="21" column="7" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" />
-      <jump line="80" column="52" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="61" column="14" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="69" column="71" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="70" column="82" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="75" column="67" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="79" column="69" filename="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext.xml" />
-      <jump line="27" column="40" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/jodis/JedisClusterFactory.java" />
       <jump line="23" column="21" filename="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/jodis/JedisClusterFactory.java" />
       <jump line="119" column="51" filename="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/DmsVehicleService.java" />
       <jump line="143" column="16" filename="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/DmsVehicleService.java" />
@@ -265,15 +251,12 @@
       <jump line="578" column="50" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="89" column="15" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="35" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/pojo/ExecResult.java" />
-      <jump line="116" column="40" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="124" column="58" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="128" column="37" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="143" column="41" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="170" column="84" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="152" column="55" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="88" column="7" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="21" column="47" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="65" column="23" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="111" column="19" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="112" column="30" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="336" column="34" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
@@ -284,7 +267,6 @@
       <jump line="316" column="96" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="371" column="69" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="108" column="28" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="102" column="19" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="441" column="37" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="458" column="12" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
@@ -295,7 +277,6 @@
       <jump line="455" column="78" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="464" column="54" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="193" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="119" column="15" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="131" column="34" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="135" column="34" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="138" column="69" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
@@ -308,55 +289,74 @@
       <jump line="218" column="30" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="226" column="87" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="564" column="101" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="21" column="47" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="65" column="23" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="192" column="12" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="196" column="16" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="197" column="16" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="198" column="16" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="253" column="74" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="156" column="40" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="157" column="24" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="175" column="37" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="119" column="52" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="120" column="46" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="185" column="32" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="232" column="38" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="116" column="92" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="77" column="39" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="227" column="29" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="459" column="32" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>getUserTokenFromCep</text>
+        <text>getOAuthResponse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGlmIG5lZWRBdXRoRnJvbUNlcCBpcyB0cnVlLCBkbyBub3QgbmVlZCBhdXRoIGZyb20gV1NPMgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmVlZEF1dGhGcm9tQ2VwID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmVycm9yKCJPQXV0aCBleGNlcHRpb24gb2NjdXJlZCB3aGlsZSBsb2dpbjogIiwgZSk7CiAgICAgICAgICAgIHRocm93IG5ldyBMb2dpbkV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgICAiT0F1dGggZXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgbG9naW4iLAogICAgICAgICAgICAgICAgICAgIGJ1aWxkTG9naW5SZXN1bHQoRXhlY1Jlc3VsdC5jcmVhdGVGcm9tVHNjRXJyb3IoVHNjRXJyb3IuVVNFUl9QQVNTV09SRF9FUlJPUiksIG51bGwpCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhlY1Jlc3VsdC5nZXRFcnJvckNvZGUoKSAhPSAwKSB7CiAgICAgICAgICAgIExPRy5lcnJvcigiT0F1dGggZXhjZXB0aW9uIG9jY3VyZWQgd2hpbGUgbG9naW46IHt9IiwgZXhlY1Jlc3VsdC5nZXRFcnJvckRlc3AoKSk7CgogICAgICAgICAgICBMb2dpblJlc3VsdCByZXN1bHQgPSBsb2dpblJlc3VsdEJ1aWxkZXIoZXhlY1Jlc3VsdCwgdXNlciwgc3RhcnQsIExvZ09wZXJhdGlvblJlc3V0bEVudW0uRkFJTFVSRS5nZXRWYWx1ZSgpLAogICAgICAgICAgICAgICAgICAgIG51bGwpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH0KCiAgICAgICAgTE9HLmRlYnVnKCJsb2dpbiB1c2VyW3VzZXJJZD17fV0sIHZpbkRCPXt9LCBkZWxldGUgdmluIHVzZXIgc2Vzc2lvbiBlbmQiLCB1c2VyLmdldFVzZXJJZCgpLCB2aW5EQik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIk9BdXRoIGV4Y2VwdGlvbiBvY2N1cmVkIHdoaWxlIHVzZXJbdXNlcklkPXt9XSwgdmluREI9e30gbG9naW46IHt9IiwgdXNlci5nZXRVc2VySWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZpbkRCLCBleGVjUmVzdWx0LmdldEVycm9yRGVzcCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL09LCiAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBleGVjUmVzdWx0LnNldEVycm9yQ29kZShUc2NFcnJvci5PSy5nZXRDb2RlKCkpOwogICAgICAgICAgICAgICAgICAgIGV4ZWNSZXN1bHQuc2V0RXJyb3JEZXNwKFRzY0Vycm9yLk9LLmdldE1lc3NhZ2UoKSk7CgogICAgICAgICAgICAgICAgICAgIExPRy5kZWJ1ZygiT0F1dGggc3VjY2VzcyB3aGlsZSB1c2VyW3VzZXJJZD17fV0sIHZpbkRCPXt9IGxvZ2luOiB7fSIsIHVzZXIuZ2V0VXNlcklkKCksIHZpbkRCLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhlY1Jlc3VsdC5nZXRFcnJvckRlc3AoKSk7CgogICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IGxvZ2luUmVzdWx0QnVpbGRlcihleGVjUmVzdWx0LCB1c2VyLCBzdGFydCwgTG9nT3BlcmF0aW9uUmVzdXRsRW51bS5TVUNDRVNTLmdldFZhbHVlKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoImxvZ2luIHVzZXJbdXNlcklkPXt9XSwgdmluREI9e30sIGNoZWNrIGJpbmQgcmVsYXRpb25zaGlwIGVuZCIsIHVzZXIuZ2V0VXNlcklkKCksIHZpbkRCKTsKCiAgICAgICAgLy8gZGVsZXRlIHVzZXIgc2Vzc2lvbgogICAgICAgIGRlbFVzZXJTZXNzaW9uKHZpbkRCLCBleGVjUmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQ01BIGFuZCBOb24tQ01BIGlzIGRpZmZlcmVudCBsb2dpYwoKICAgICAgICAgICAgaWYgKHBsYXRmb3JtU2hvcnQgPT0gVmVoaWNsZVBsYXRmb3JtRW51bS5DTUEuZ2V0Q29kZUludCgpKSB7CiAgICAgICAgICAgICAgICAvLyBDTUE6IHVzZXIgZG9lc24ndCBleGlzdCBpbiBEQiwgbmVlZCBhdXRoIGZyb20gQ0VQCiAgICAgICAgICAgICAgICBpZiAodHNjVXNlclByb2ZpbGUgPT0gbnVsbCkgewoKICAgICAgICAgICAgICAgICAgICBnZXRVc2VyVG9rZW5Gcm9tQ2VwUmVzcCA9IGdldFVzZXJUb2tlbkZyb21DZXAodXNlciwgdmluREIpOwoKICAgICAgICAgICAgICAgICAgICBpZiAoZXhlY1Jlc3VsdC5nZXRFcnJvckNvZGUoKSAhPSAwIHx8IGdldFVzZXJUb2tlbkZyb21DZXBSZXNwID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgTE9HLmVycm9yKCJPQXV0aCBleGNlcHRpb24gb2NjdXJlZCB3aGlsZSBsb2dpbjogdXNlciBkb2Vzbid0IGV4aXN0IGluIERCIGFuZCBhdXRoIGZyb20gQ0VQIGVycm9yLiIpOwoKICAgICAgICAgICAgICAgICAgICAgICAgTG9naW5SZXN1bHQgcmVzdWx0ID0gbG9naW5SZXN1bHRCdWlsZGVyKGV4ZWNSZXN1bHQsIHVzZXIsIHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ09wZXJhdGlvblJlc3V0bEVudW0uRkFJTFVSRS5nZXRWYWx1ZSgpLCBudWxsKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBpZiBuZWVkQXV0aEZyb21DZXAgaXMgdHJ1ZSwgZG8gbm90IG5lZWQgYXV0aCBmcm9tIFdTTzIKICAgICAgICAgICAgICAgICAgICAgICAgbmVlZEF1dGhGcm9tQ2VwID0gdHJ1ZTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdXNlcklkID0gVmVoaWNsZVBsYXRmb3JtRW51bS5DTUEuZ2V0Q29kZSgpICsgdXNlci5nZXRVc2VySWQoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChleGVjUmVzdWx0LmdldEVycm9yQ29kZSgpICE9IDApIHsKICAgICAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIk9BdXRoIGV4Y2VwdGlvbiBvY2N1cmVkIHdoaWxlIGxvZ2luOiB7fSIsIGV4ZWNSZXN1bHQuZ2V0RXJyb3JEZXNwKCkpOwoKICAgICAgICAgICAgICAgICAgICBMb2dpblJlc3VsdCByZXN1bHQgPSBsb2dpblJlc3VsdEJ1aWxkZXIoZXhlY1Jlc3VsdCwgdXNlciwgc3RhcnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dPcGVyYXRpb25SZXN1dGxFbnVtLkZBSUxVUkUuZ2V0VmFsdWUoKSwgbnVsbCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGV4ZWNSZXN1bHQuZ2V0RXJyb3JDb2RlKCkgIT0gMCB8fCBnZXRVc2VyVG9rZW5Gcm9tQ2VwUmVzcCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIk9BdXRoIGV4Y2VwdGlvbiBvY2N1cmVkIHdoaWxlIGxvZ2luOiB1c2VyIGRvZXNuJ3QgZXhpc3QgaW4gREIgYW5kIGF1dGggZnJvbSBDRVAgZXJyb3IuIik7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9naW5SZXN1bHQgcmVzdWx0ID0gbG9naW5SZXN1bHRCdWlsZGVyKGV4ZWNSZXN1bHQsIHVzZXIsIHN0YXJ0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dPcGVyYXRpb25SZXN1dGxFbnVtLkZBSUxVUkUuZ2V0VmFsdWUoKSwgbnVsbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICBPQXV0aENsaWVudFJlc3BvbnNlIG9BdXRoUmVzcG9uc2UgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb0F1dGhSZXNwb25zZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getUserTokenFromCep</last-search>
+      <last-search>getOAuthResponse</last-search>
       <last-offset />
-      <last-pattern>getUserTokenFromCep</last-pattern>
+      <last-pattern>getOAuthResponse</last-pattern>
       <last-replace>JedisCommands j</last-replace>
       <last-substitute>Jedis j</last-substitute>
       <last-dir>1</last-dir>
@@ -364,15 +364,8 @@
     </search>
     <history>
       <history-search>
-        <entry>oAuth</entry>
-        <entry>oAuthResponse</entry>
-        <entry>getUserTokenFromCepResp</entry>
-        <entry>checkUser</entry>
-        <entry>execResult</entry>
-        <entry>delUserSession</entry>
         <entry>loginResultBuilder</entry>
         <entry>vinDB</entry>
-        <entry>Internal</entry>
         <entry>operationLog</entry>
         <entry>loginInter</entry>
         <entry>SUCCESS</entry>
@@ -384,6 +377,13 @@
         <entry>needAuthFromCep</entry>
         <entry>userId</entry>
         <entry>getUserTokenFromCep</entry>
+        <entry>Internal</entry>
+        <entry>oAuthResponse</entry>
+        <entry>source</entry>
+        <entry>getUserTokenFromCepResp</entry>
+        <entry>tscUserProfile</entry>
+        <entry>platformEnum</entry>
+        <entry>getOAuthResponse</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lkL2UvZw==</entry>
