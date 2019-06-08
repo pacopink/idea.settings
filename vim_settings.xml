@@ -13,9 +13,24 @@
         <mark key="^" line="336" column="20" />
         <mark key="." line="336" column="20" />
       </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/redis.cluster.properties" timestamp="1559792730767">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
       <file name="/MillisecondClock.java" timestamp="1559896799293" />
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1559919948979">
-        <mark key="'" line="225" column="41" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/exception/LoginException.java" timestamp="1559957352403">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1559957529164">
+        <mark key="'" line="227" column="41" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
         <mark key="'" line="98" column="46" />
@@ -40,6 +55,12 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1559714741991">
         <mark key="'" line="73" column="4" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/VehicleEventCacheServiceRedisImpl.java" timestamp="1559612449076">
+        <mark key="[" line="11" column="103" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/command/RemoteControlCmdBase.java" timestamp="1559546438695">
         <mark key="'" line="559" column="38" />
       </file>
@@ -47,8 +68,32 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/GeoFenceCacheServiceImpl.java" timestamp="1559532913503">
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="70" />
+        <mark key="." line="30" column="70" />
+        <mark key="^" line="30" column="70" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jodis.xml" timestamp="1559785047215">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" timestamp="1559790880993">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="57" column="23" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" timestamp="1559789108837">
         <mark key="'" line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RequestIdServiceRedisImpl.java" timestamp="1559612403534">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/DmsVehicleService.java" timestamp="1559812879355">
         <mark key="'" line="361" column="32" />
@@ -64,6 +109,12 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSession.java" timestamp="1559893438119" />
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" timestamp="1559919187513" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJedisClusterImpl.java" timestamp="1559790876041">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
       </file>
@@ -73,10 +124,28 @@
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateUplinkServiceImpl.java" timestamp="1559204527988">
         <mark key="'" line="134" column="50" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/doc/tsg-mes-collector.md" timestamp="1559783621840">
+        <mark key="[" line="81" column="35" />
+        <mark key="]" line="87" column="1" />
+        <mark key="^" line="87" column="1" />
+        <mark key="." line="87" column="1" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisStringCache.java" timestamp="1559485211278">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendService.java" timestamp="1559788598518">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
+        <mark key="^" line="54" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jedisCluster.xml" timestamp="1559793064514">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559805448592">
         <mark key="[" line="0" column="0" />
@@ -114,7 +183,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/NotificationsPushServiceImpl.java" timestamp="1559549291139">
         <mark key="'" line="208" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1559786559498">
+      <file name="/fragment.java" timestamp="1559957536646">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -222,7 +291,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnaW5hdGlvbiBwYWdpbmF0aW9uKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -234,31 +303,31 @@
         <text encoding="base64">cHVibGljIGNsYXNzIFVzZXJTZXNzaW9uSWduaXRlIGltcGxlbWVudHMgamF2YS5pby5TZXJpYWxpemFibGUgewoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDM2NTE3MDUwMTU2MDEwNjM4NDZMOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdXNlcklkOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdmluOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgY2xpZW50SWRlbnRpdHk7CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBsb2dpblR5cGU7CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBub25jZTsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIGFjY2Vzc1Rva2VuOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcmVmZXJzaFRva2VuOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgaWRUb2tlbjsKCiAgICBwcml2YXRlIFN0cmluZyAgICAgICAgICAgIGxhbmd1YWdlOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcGxhdGZvcm07CgogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBhbGlhczsKCiAgICBwcml2YXRlIERhdGUgICAgICAgICAgICAgIGxvZ2luVGltZTsKCiAgICBwcml2YXRlIERhdGUgICAgICAgICAgICAgIGV4cGlyZWRUaW1lOwoKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgdHNjR3JhbnRzU3RyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFnaW5hdGlvbiBwYWdpbmF0aW9uKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yPFRzY0dyYW50PiBpdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0xvZ2luUmVxdWVzdCgpIHRocm93cyBMb2dpbkV4Y2VwdGlvbiB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjaGVja0xvZ2luUmVxdWVzdCgpIHRocm93cyBMb2dpblJlc3VsdCB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBzb3RpbWVvdXQgPSAzMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFnaW5hdGlvbiBwYWdpbmF0aW9uKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEl0ZXJhdG9yPFRzY0dyYW50PiBpdCA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8SG9zdEFuZFBvcnQ+IGhhcHMgPSB0aGlzLnBhcnNlSG9zdEFuZFBvcnQoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBzb3RpbWVvdXQgPSAzMDAwOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhhcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGF1dGggPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8SG9zdEFuZFBvcnQ+IGhhcHMgPSB0aGlzLnBhcnNlSG9zdEFuZFBvcnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>145</text>
