@@ -26,11 +26,10 @@
         <mark key="^" line="7" column="67" />
         <mark key="." line="7" column="67" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1560010445467">
-        <mark key="'" line="595" column="0" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="78" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1560133573425">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
         <mark key="'" line="98" column="46" />
@@ -184,12 +183,12 @@
         <mark key="." line="116" column="11" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1560071030994">
-        <mark key="'" line="145" column="26" />
-        <mark key="[" line="74" column="38" />
-        <mark key="]" line="226" column="96" />
-        <mark key="." line="226" column="96" />
-        <mark key="^" line="226" column="96" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1560133812053">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="224" column="96" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559814569242">
         <mark key="'" line="277" column="19" />
@@ -208,9 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
-      <jump line="139" column="31" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" />
-      <jump line="296" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="208" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="104" column="47" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="183" column="58" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
@@ -308,55 +304,58 @@
       <jump line="153" column="46" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="147" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="148" column="26" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="12" column="43" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="54" column="8" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="37" column="21" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwc1VSTENvbm5lY3Rpb24uc2V0RGVmYXVsdEhvc3RuYW1lVmVyaWZpZXIobmV3IEhvc3RuYW1lVmVyaWZpZXIoKSB7CiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIHZlcmlmeShTdHJpbmcgaG9zdG5hbWUsIFNTTFNlc3Npb24gc2Vzc2lvbikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLmF1dGguZXhjZXB0aW9uLkxvZ2luRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>checkAuth</text>
+        <text>HttpsURLConnection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBIdHRwc1VSTENvbm5lY3Rpb24uc2V0RGVmYXVsdEhvc3RuYW1lVmVyaWZpZXIobmV3IEhvc3RuYW1lVmVyaWZpZXIoKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwc1VSTENvbm5lY3Rpb24uc2V0RGVmYXVsdEhvc3RuYW1lVmVyaWZpZXIobmV3IEhvc3RuYW1lVmVyaWZpZXIoKSB7CiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIHZlcmlmeShTdHJpbmcgaG9zdG5hbWUsIFNTTFNlc3Npb24gc2Vzc2lvbikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLmF1dGguZXhjZXB0aW9uLkxvZ2luRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFVzZXJUb2tlbkZyb21DZXBSZXNwOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm5ldC5zc2wuU1NMU2Vzc2lvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9BdXRoUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm5ldC5zc2wuSG9zdG5hbWVWZXJpZmllcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiBhIG51bGwgT0F1dGhSZXNwb25zZSBpbiB0aGlzIGNhc2UK</text>
+        <text encoding="base64">ICAgICAgICBIdHRwc1VSTENvbm5lY3Rpb24uc2V0RGVmYXVsdEhvc3RuYW1lVmVyaWZpZXIobmV3IEhvc3RuYW1lVmVyaWZpZXIoKSB7CiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIHZlcmlmeShTdHJpbmcgaG9zdG5hbWUsIFNTTFNlc3Npb24gc2Vzc2lvbikgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBwYXJhbWV0ZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGdldFVzZXJUb2tlbkZyb21DZXBSZXNwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9BdXRoUmVzcG9uc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPQXV0aFJlc3BvbnNlIG9BdXRoUmVzcG9uc2UgPSBuZXcgT0F1dGhSZXNwb25zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiBhIG51bGwgT0F1dGhSZXNwb25zZSBpbiB0aGlzIGNhc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmluREIgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBwYXJhbWV0ZXJzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkAuth</last-search>
+      <last-search>HttpsURLConnection</last-search>
       <last-offset />
-      <last-pattern>checkAuth</last-pattern>
+      <last-pattern>HttpsURLConnection</last-pattern>
       <last-replace>JedisCommands j</last-replace>
       <last-substitute>Jedis j</last-substitute>
       <last-dir>1</last-dir>
@@ -364,8 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserTokenFromCep</entry>
-        <entry>Internal</entry>
         <entry>source</entry>
         <entry>getUserTokenFromCepResp</entry>
         <entry>platformEnum</entry>
@@ -384,6 +381,8 @@
         <entry>delUserSession</entry>
         <entry>OAuthResponse</entry>
         <entry>checkAuth</entry>
+        <entry>LoginException</entry>
+        <entry>HttpsURLConnection</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lkL2UvZw==</entry>
@@ -404,8 +403,8 @@
         <entry>184</entry>
         <entry>145</entry>
         <entry>109</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
