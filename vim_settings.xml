@@ -62,12 +62,12 @@
         <mark key="^" line="336" column="20" />
         <mark key="." line="336" column="20" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" timestamp="1560307233518">
-        <mark key="'" line="59" column="18" />
-        <mark key="[" line="82" column="56" />
-        <mark key="]" line="82" column="57" />
-        <mark key="." line="82" column="57" />
-        <mark key="^" line="82" column="57" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" timestamp="1560350359845">
+        <mark key="'" line="38" column="52" />
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="^" line="36" column="22" />
       </file>
       <file name="$USER_HOME$/code/tc/ngcvcTCAccess/src/main/java/com/ericsson/ngcvc/tc/service/AuthServiceImpl.java" timestamp="1560225248324" />
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1559290974912">
@@ -134,7 +134,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" timestamp="1559315739431">
         <mark key="'" line="128" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560306398032">
+      <file name="/Dummy.txt" timestamp="1560350413677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/ngcvcTCAccess/src/main/java/com/ericsson/ngcvc/tc/ignite/IgniteTool.java" timestamp="1560138226439">
@@ -155,12 +155,6 @@
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/testdata/MesVehicle.xml" timestamp="1560154942510" />
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/shiroFilter/FormLoginFilter.java" timestamp="1560135094651" />
-      <file name="$USER_HOME$/code/lbs_stream/test/NumberHomeInfoTester.scala" timestamp="1560308096033">
-        <mark key="[" line="10" column="82" />
-        <mark key="]" line="10" column="80" />
-        <mark key="." line="10" column="80" />
-        <mark key="^" line="10" column="80" />
-      </file>
       <file name="$USER_HOME$/code/tmp/dealer-portal/src/main/resources/application/applicationContext-ignite.xml" timestamp="1560134906799" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1560223502072">
         <mark key="'" line="45" column="75" />
@@ -175,7 +169,6 @@
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/util/IgniteCacheHandler.java" timestamp="1560135040674" />
     </filemarks>
     <jumps>
-      <jump line="102" column="19" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="441" column="37" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="468" column="13" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="154" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
@@ -275,46 +268,47 @@
       <jump line="161" column="54" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="44" column="31" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="57" column="41" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="37" column="52" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>wso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgbnVtYmVyID0gQXJyYXkoIjEzODA5Njc1NjExIiAsICIxMzYwMjg4NzkwNCIsICIxMzY3Nzc3Nzc3NyIsICIyMjIyMjIyMjIyMjIyMjIyIiwgIjEzNjAwMDAwMDAwIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVzdGFtcDxpbmZvLmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgICAgICBwb3NpdGlvbi09MTsKICAgICAgICAgICAgfSBlbHNlIGlmICh0aW1lc3RhbXA+aW5mby5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgICAgIHBvc2l0aW9uKz0xOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIGluZm87CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTxyZWYgYmVhbj0ibG9uZ0NvbnRleHRDYWNoZSIgLz42LTAxLjE5Lmd6ICB0c2MtcmVtb3RlLXN0YXR1cy0yMDE5LTA1LTEzLjExLmd6ICB0c2MtcmVtb3RlLXN0YXR1cy0yMDE5LTA1LTI0LjQ3Lmd6ICB0c2MtdGVtLTIwMTktMDUtMjAuMS5nego=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImJpbmFyeSBzZWFyY2ggZmlyc3QgZm91bmQge30iLCBpbmZvKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4xLmd6ICAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xMi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC40OC5neiAgdHNjLXRlbS0yMDE5LTA1LTIxLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yMC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xMy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC40OS5neiAgdHNjLXRlbS0yMDE5LTA1LTIxLjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yMS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xNC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC40Lmd6ICAgdHNjLXRlbS0yMDE5LTA1LTIyLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yMi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xNS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41MC5neiAgdHNjLXRlbS0yMDE5LTA1LTIyLjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yMy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xNi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41MS5neiAgdHNjLXRlbS0yMDE5LTA1LTIzLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yNC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xNy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41Mi5neiAgdHNjLXRlbS0yMDE5LTA1LTIzLjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yNS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xOC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41My5neiAgdHNjLXRlbS0yMDE5LTA1LTI0LjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yNi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xOS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41NC5neiAgdHNjLXRlbS0yMDE5LTA1LTI0LjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yNy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4xLmd6ICAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41NS5neiAgdHNjLXRlbS0yMDE5LTA1LTI1LjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yOC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yMC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC41Lmd6ICAgdHNjLXRlbS0yMDE5LTA1LTI1LjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yOS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yMS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC42Lmd6ICAgdHNjLXRlbS0yMDE5LTA1LTI2LjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4yLmd6ICAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yMi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC43Lmd6ICAgdHNjLXRlbS0yMDE5LTA1LTI2LjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zMC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yMy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC44Lmd6ICAgdHNjLXRlbS0yMDE5LTA1LTI3LjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zMS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yNC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNC45Lmd6ICAgdHNjLXRlbS0yMDE5LTA1LTI3LjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zMi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yNS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4wLmd6ICAgdHNjLXRlbS0yMDE5LTA1LTI4LjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zMy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yNi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xMC5neiAgdHNjLXRlbS0yMDE5LTA1LTI4LjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zNC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yNy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xMS5neiAgdHNjLXRlbS0yMDE5LTA1LTI5LjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zNS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yOC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xMi5neiAgdHNjLXRlbS0yMDE5LTA1LTI5LjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zNi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yOS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xMy5neiAgdHNjLXRlbS0yMDE5LTA1LTMwLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zNy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4yLmd6ICAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xNC5neiAgdHNjLXRlbS0yMDE5LTA1LTMwLjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zOC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4zMC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xNS5neiAgdHNjLXRlbS0yMDE5LTA1LTMxLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zOS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4zMS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xNi5neiAgdHNjLXRlbS0yMDE5LTA1LTMxLjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS4zLmd6ICAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4zMi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xNy5neiAgdHNjLXRlbS0yMDE5LTA2LTAxLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS40MC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4zMy5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xOC5neiAgdHNjLXRlbS0yMDE5LTA2LTAxLjEuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS40MS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4zNC5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xOS5neiAgdHNjLXRlbS0yMDE5LTA2LTAyLjAuZ3oKdHNjLWV2ZW50LWhhbmRsZXItMjAxOS0wNi0wMS40Mi5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0xMy4zNS5neiAgdHNjLXJlbW90ZS1zdGF0dXMtMjAxOS0wNS0yNS4xLmd6CnRzYy1ldmVudC1oYW5kbGVyLTIwMTktMDYtMDEuNC5neiAgIHRzYy1yZW1vdGUtc3RhdHVzLTIwMTktMDUtMTMuMzYuZ3ogIHRzYy1yZW1vdGUtc3RhdHVzLTIwMTktMDUtMjUuMjAuZ3oK</text>
+        <text encoding="base64">ICAvKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgdHMgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmjInliY3nvIDmib7liLDvvIzlj6/og73nm7jlkIznmoTliY3nvIDmnInlpJrmnaHorrDlvZXvvIznlLHkuo5wcmVmaXjmmK/kuLvmjpLluo/lrZfmrrXvvIzmiYDku6Xogq/lrprmmK/ov57lnKjkuIDotbfnmoTvvIzpnIDopoHmib7liLDlnKjnlJ/mlYjml6XmnJ/kuYvlhoXnmoTorrDlvZXmiY3og73ov5Tlm54K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcmludGxuKHMic2l6ZSBvZiBOdW1iZXJIb21lSW5mb01nciAke09iamVjdFNpemUuZ2V0U2l6ZU9mKHNlYXJjaGVyKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbyB7ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE9iamVjdFNpemUgewogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIGxvZyA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKE9iamVjdFNpemUuY2xhc3MpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVzdGFtcD49aW5mby5nZXRCZWdpblRpbWUoKSAmJiB0aW1lc3RhbXA8PWluZm8uZ2V0RW5kVGltZSgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaW5mbzsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
