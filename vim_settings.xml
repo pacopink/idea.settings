@@ -49,6 +49,10 @@
         <mark key="." line="54" column="36" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/test/resources/applicationContext-ignite.xml" timestamp="1560137708356" />
+      <file name="$USER_HOME$/code/tsc/VDS/1.3.9.0/cvc_vds_services.asn" timestamp="1560403559846">
+        <mark key="[" line="155" column="4" />
+        <mark key="]" line="155" column="7" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/resources/ignite-config/csp-tsc-ignite.xml" timestamp="1560221338240">
         <mark key="'" line="165" column="35" />
         <mark key="[" line="539" column="0" />
@@ -68,6 +72,7 @@
       <file name="/a.sql" timestamp="1560397437176">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/VDS/1.3.9.0/cvc_vds_rms.asn" timestamp="1560402591552" />
       <file name="$USER_HOME$/code/tmp/backend/backend-web/src/main/java/com/backend/service/boi/TmpBoiCsServiceImpl.java" timestamp="1560225907423" />
       <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendService.java" timestamp="1559788598518">
         <mark key="[" line="54" column="18" />
@@ -289,7 +294,7 @@
         <mark key="^" line="224" column="96" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/testdata/MesVehicle.xml" timestamp="1560154942510" />
-      <file name="$USER_HOME$/code/tsc/VDS/1.3.9.0/cvc_vds_core.asn" timestamp="1560399754692" />
+      <file name="$USER_HOME$/code/tsc/VDS/1.3.9.0/cvc_vds_core.asn" timestamp="1560404357739" />
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/shiroFilter/FormLoginFilter.java" timestamp="1560135094651" />
       <file name="$USER_HOME$/code/tmp/dealer-portal/src/main/resources/application/applicationContext-ignite.xml" timestamp="1560134906799" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1560223502072">
@@ -413,8 +418,8 @@
       <jump line="43" column="9" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+      <register name="&quot;" type="4">
+        <text>pois</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PA==</text>
@@ -422,8 +427,8 @@
       <register name="/" type="4">
         <text>wso</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJqc29uUmVkaXNTZXJpYWxpemVyIiBjbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhLnJlZGlzLnNlcmlhbGl6ZXIuR2VuZXJpY0phY2tzb24ySnNvblJlZGlzU2VyaWFsaXplciIvPgo=</text>
+      <register name="0" type="4">
+        <text>pois</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDwvYmVhbj4K</text>
@@ -534,6 +539,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
