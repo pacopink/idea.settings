@@ -5,6 +5,17 @@
     <filemarks>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/pojo/TcVerificationCode.java" timestamp="1560225662387" />
       <file name="/MillisecondClock.java" timestamp="1559896799293" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/exception/LoginException.java" timestamp="1559957352403">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="67" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/spring-test/applicationContext-redis.xml" timestamp="1560351650094">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1559545696083">
         <mark key="'" line="116" column="82" />
       </file>
@@ -12,10 +23,21 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1560232339906">
         <mark key="'" line="73" column="4" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1559893614176">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="34" column="43" />
+      </file>
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/user/UserController.java" timestamp="1560135111083">
         <mark key="'" line="69" column="22" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1560351632281">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteCacheBase.java" timestamp="1560137437808" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/spring-test/applicationContext-data.xml" timestamp="1560351334255">
+        <mark key="'" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/DmsVehicleService.java" timestamp="1559812879355">
         <mark key="'" line="361" column="32" />
       </file>
@@ -38,10 +60,41 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" timestamp="1560260654975" />
       <file name="$USER_HOME$/code/tmp/backend/backend-web/src/main/java/com/backend/service/boi/TmpBoiCsServiceImpl.java" timestamp="1560225907423" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendService.java" timestamp="1559788598518">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
+        <mark key="^" line="54" column="18" />
+      </file>
+      <file name="/Catch Statement Declaration.txt.ft" timestamp="1560169646082">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559805448592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1560351893711">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="54" column="50" />
+        <mark key="]" line="54" column="53" />
+        <mark key="." line="54" column="53" />
+        <mark key="^" line="54" column="53" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1560169636666">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1560169647903">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/TsgService.java" timestamp="1560154785312">
         <mark key="'" line="177" column="19" />
       </file>
       <file name="$USER_HOME$/code/tc/ngcvcTCAccess/src/test/resources/applicationContext-ignite.xml" timestamp="1560225112330" />
+      <file name="$USER_HOME$/code/lbs_stream/test/NumberHomeInfoTester.java" timestamp="1560170242097">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" timestamp="1560220060057">
         <mark key="'" line="139" column="31" />
         <mark key="[" line="116" column="12" />
@@ -52,8 +105,17 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559814569242">
         <mark key="'" line="277" column="19" />
       </file>
+      <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/NotificationsPushServiceImpl.java" timestamp="1559549291139">
         <mark key="'" line="208" column="35" />
+      </file>
+      <file name="/tscdb.public.csp_file_manage [tscdb@aws.test]" timestamp="1560352339328">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1559896061417">
         <mark key="'" line="272" column="35" />
@@ -61,6 +123,12 @@
         <mark key="]" line="336" column="20" />
         <mark key="^" line="336" column="20" />
         <mark key="." line="336" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/redis.cluster.properties" timestamp="1559792730767">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" timestamp="1560350359845">
         <mark key="'" line="38" column="52" />
@@ -77,12 +145,27 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1559629289514">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/redis/TestCacheService.java" timestamp="1560351425589">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/GeoFenceCacheServiceImpl.java" timestamp="1560224213603" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1559698035758">
         <mark key="'" line="607" column="28" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181499357">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/VehicleEventCacheServiceRedisImpl.java" timestamp="1559612449076">
+        <mark key="[" line="11" column="103" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/command/RemoteControlCmdBase.java" timestamp="1559546438695">
         <mark key="'" line="559" column="38" />
@@ -93,22 +176,52 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560352525618">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/GeoFenceCacheServiceImpl.java" timestamp="1560224179525">
         <mark key="[" line="30" column="53" />
         <mark key="]" line="30" column="70" />
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/app.properties" timestamp="1560351538772">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/spring-servlet.xml" timestamp="1560225581847" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jodis.xml" timestamp="1559785047215">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="15" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJodisImpl.java" timestamp="1559790880993">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="57" column="23" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/BaseSmsService.java" timestamp="1559789108837">
         <mark key="'" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/DateTimeUtil.java" timestamp="1560158107900" />
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1560169641717">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RequestIdServiceRedisImpl.java" timestamp="1560221211321">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="48" />
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
+      </file>
+      <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/applicationContext-ignite.xml" timestamp="1559376335282">
         <mark key="'" line="41" column="66" />
@@ -116,19 +229,45 @@
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSession.java" timestamp="1559893438119" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/applicationContext-ignite.xml" timestamp="1560225008131" />
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" timestamp="1559919187513" />
+      <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/service/SmsSendServiceJedisClusterImpl.java" timestamp="1559790876041">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="42" column="39" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559207921453">
         <mark key="'" line="444" column="38" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/VehicleEventHandler.java" timestamp="1560223225975" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoSearch.java" timestamp="1560160544667">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteTool.java" timestamp="1560137526618">
         <mark key="'" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1560224144216" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/doc/tsg-mes-collector.md" timestamp="1559783621840">
+        <mark key="[" line="81" column="35" />
+        <mark key="]" line="87" column="1" />
+        <mark key="^" line="87" column="1" />
+        <mark key="." line="87" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/sms_sender/src/main/resources/applicationContext-jedisCluster.xml" timestamp="1559793064514">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="49" />
+        <mark key="." line="28" column="49" />
+        <mark key="^" line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1560225597974">
         <mark key="'" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1560136983291">
         <mark key="'" line="31" column="81" />
+      </file>
+      <file name="/dummy.sql" timestamp="1560352343517">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tmp/cc-portal/src/main/java/com/cc/sso/SsoController.java" timestamp="1560135486308" />
       <file name="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" timestamp="1559315739431">
@@ -163,15 +302,18 @@
         <mark key="." line="142" column="77" />
         <mark key="^" line="142" column="77" />
       </file>
+      <file name="/Class.txt.ft" timestamp="1560169548411">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560260720262">
         <mark key="[" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/util/IgniteCacheHandler.java" timestamp="1560135040674" />
+      <file name="/fragment.java" timestamp="1560351774517">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="37" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="468" column="13" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="133" column="28" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="142" column="103" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="455" column="78" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
@@ -269,46 +411,49 @@
       <jump line="44" column="31" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="57" column="41" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="37" column="52" filename="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/test/resources/spring-test/applicationContext-data.xml" />
+      <jump line="129" column="65" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/redis/TestCacheService.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/spring-config/applicationContext-redis.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>wso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVzdGFtcDxpbmZvLmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgICAgICBwb3NpdGlvbi09MTsKICAgICAgICAgICAgfSBlbHNlIGlmICh0aW1lc3RhbXA+aW5mby5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgICAgIHBvc2l0aW9uKz0xOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIGluZm87CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicmVhZCBldmVudCA9IHt9IiwgZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oImJpbmFyeSBzZWFyY2ggZmlyc3QgZm91bmQge30iLCBpbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLmRhby5lbnRpdHkuVHNjR2VvRmVuY2VOZXc7CmltcG9ydCBjb20uZXJpY3Nzb24uY3NwLnRzYy5zZXJ2aWNlLkNhY2hlU2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwoKaW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydEVxdWFsczsKaW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydE51bGw7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmjInliY3nvIDmib7liLDvvIzlj6/og73nm7jlkIznmoTliY3nvIDmnInlpJrmnaHorrDlvZXvvIznlLHkuo5wcmVmaXjmmK/kuLvmjpLluo/lrZfmrrXvvIzmiYDku6Xogq/lrprmmK/ov57lnKjkuIDotbfnmoTvvIzpnIDopoHmib7liLDlnKjnlJ/mlYjml6XmnJ/kuYvlhoXnmoTorrDlvZXmiY3og73ov5Tlm54K</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0Q2FjaGUoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgIFN0cmluZyBrZXkgPSAia2V5IjsKICAgICAgICBTdHJpbmcgdmFsID0gInZhbHVlIjsKICAgICAgICBMb25nIHR0bCA9IDJMOwoKICAgICAgICBjYWNoZVNlcnZpY2Uuc2V0KGtleSwgdmFsKTsKICAgICAgICBhc3NlcnRFcXVhbHModmFsLCBjYWNoZVNlcnZpY2UuZ2V0KGtleSkpOwogICAgICAgIGNhY2hlU2VydmljZS5kZWwoa2V5KTsKICAgICAgICBhc3NlcnRFcXVhbHMobnVsbCwgY2FjaGVTZXJ2aWNlLmdldChrZXkpKTsKICAgICAgICBjYWNoZVNlcnZpY2Uuc2V0KGtleSwgdmFsLCB0dGwpOwogICAgICAgIGFzc2VydEVxdWFscyh2YWwsIGNhY2hlU2VydmljZS5nZXQoa2V5KSk7CiAgICAgICAgVGhyZWFkLnNsZWVwKHR0bCoxMDAwKTsKICAgICAgICBhc3NlcnRFcXVhbHMobnVsbCwgY2FjaGVTZXJ2aWNlLmdldChrZXkpKTsKICAgIH0KCgogICAgQEF1dG93aXJlZAogICAgRmFrZURhbyBmYWtlRGFvOwoKICAgIC8vQEF1dG93aXJlZAogICAgLy9DYWNoZWFibGVBb3AgY2FjaGU7CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RDYWNoZWFibGUoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgIC8vY2FjaGUuc3RhdDJMb2coKTsKICAgICAgICBsb2cuZGVidWcoImJlZ2luIik7CiAgICAgICAgUGVvcGxlIHggPSBudWxsOwogICAgICAgIGZvcihpbnQgbj0wO248MTtuKyspIHsgLy8gcmVwZWF0IHRlc3QgZm9yIHNvIG1hbnkgdGltZXMKICAgICAgICAgICAgZm9yKGludCBrPTA7IGs8MTA7IGsrKykgeyAvLyBmb3Igc28gbWFueSBrZXlzCiAgICAgICAgICAgICAgICBsb2cuaW5mbygiLS0tIHNob3VsZCBiZSBjbGVhbnVwIC0tLSIpOwogICAgICAgICAgICAgICAgZmFrZURhby5kZWwoIkFBQSIsIGspOwoKICAgICAgICAgICAgICAgIGludCB0aW1lcyA9IDU7IC8vIHZpc2l0IGEga2V5IGZvciBzbyBtYW55IHRpbWVzCiAgICAgICAgICAgICAgICBsb2cuaW5mbygiLS0tIHNob3VsZCBiZSBudWxsIC0tLSIpOwogICAgICAgICAgICAgICAgZm9yKGludCBqPTA7ajx0aW1lcztqKyspIHsKICAgICAgICAgICAgICAgICAgICB4ID0gZmFrZURhby5nZXQoIkFBQSIsIGssIDEpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydE51bGwoeCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgU3RyaW5nIHZhbCA9IFN0cmluZy5mb3JtYXQoIlZBTFVFJTA1ZCIsIGspOwogICAgICAgICAgICAgICAgUGVvcGxlIHAgPSBuZXcgUGVvcGxlKHZhbCwgayk7CiAgICAgICAgICAgICAgICBmYWtlRGFvLnNldCgiQUFBIiwgaywgcCk7CgogICAgICAgICAgICAgICAgbG9nLmluZm8oIi0tLSBzaG91bGQgYmUgc2V0IHRvIHZhbCAtLS0iKTsKICAgICAgICAgICAgICAgIGZvcihpbnQgaj0wO2o8dGltZXM7aisrKSB7CiAgICAgICAgICAgICAgICAgICAgeCA9IGZha2VEYW8uZ2V0KCJBQUEiLCBrLCAxKTsKICAgICAgICAgICAgICAgICAgICBhc3NlcnRFcXVhbHMocCwgeCk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcC5zZXROYW1lKHAuZ2V0TmFtZSgpKyJ4eHgiKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCItLS0gc2hvdWxkIGJlIHVwZGF0ZSB0byB2YWwyIC0tLSIpOwogICAgICAgICAgICAgICAgZmFrZURhby51cGRhdGUoIkFBQSIsIGssIHApOwogICAgICAgICAgICAgICAgZm9yKGludCBqPTA7ajx0aW1lcztqKyspIHsKICAgICAgICAgICAgICAgICAgICB4ID0gZmFrZURhby5nZXQoIkFBQSIsIGssIDEpOwogICAgICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyhwLCB4KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICB9CiAgICAgICAgbG9nLmRlYnVnKCJlbmQiKTsKICAgICAgICAvL2NhY2hlLnN0YXQyTG9nKCk7CiAgICAgICAgVGhyZWFkLnNsZWVwKDYwMDApOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0RXJyQ291bnQoKSB7CiAgICAgICAgU3RyaW5nIGtleSA9ICJrZXk6ZXJyIjsKICAgICAgICBsb25nIGRlbHRhID0wOwogICAgICAgIGNhY2hlU2VydmljZS5kZWwoa2V5KTsKCiAgICAgICAgbG9uZyByZXMgPSAwOwogICAgICAgIGZvcihpbnQgaT0wO2k8MTA7aSsrKSB7CiAgICAgICAgICAgIHJlcyA9IGNhY2hlU2VydmljZS5pbmNyKGtleSwgZGVsdGEpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoZGVsdGEqKGkrMSksIHJlcyk7CiAgICAgICAgfQogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SGFzaCgpIHsKICAgICAgIGludCBjb3VudCA9IDEwOwogICAgICAgaW50IGluaXRfdmFsID0gMjA7CiAgICAgICBTdHJpbmcga2V5ID0gImtleTEiOwogICAgICAgU3RyaW5nIHN1YmtleSA9ICJrZXkyIjsKICAgICAgIGNhY2hlU2VydmljZS5kZWwoa2V5LCBzdWJrZXkpOwogICAgICAgY2FjaGVTZXJ2aWNlLmhzZXQoa2V5LCBzdWJrZXksIEludGVnZXIudG9TdHJpbmcoaW5pdF92YWwpKTsKICAgICAgIGZvciAoaW50IGk9MDtpPGNvdW50O2krKykgewogICAgICAgICAgIGNhY2hlU2VydmljZS5pbmNyKGtleSwgc3Via2V5KTsKICAgICAgIH0KICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjYWNoZVNlcnZpY2UuaGdldChrZXksIHN1YmtleSkpOwogICAgICAgYXNzZXJ0RXF1YWxzKGNvdW50K2luaXRfdmFsLCBJbnRlZ2VyLnBhcnNlSW50KGNhY2hlU2VydmljZS5oZ2V0KGtleSwgc3Via2V5KSkpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0U2V0SWZFeGlzdHMoKSB0aHJvd3MgSW50ZXJydXB0ZWRFeGNlcHRpb24gewogICAgICAgIFN0cmluZyBrZXkgPSAia2trIjsKICAgICAgICBTdHJpbmcgdmFsID0gInZ2dnYiOwogICAgICAgIExvbmcgdHRsID0gMEw7CgogICAgICAgIGNhY2hlU2VydmljZS5kZWwoa2V5KTsKICAgICAgICBhc3NlcnQoY2FjaGVTZXJ2aWNlLnNldElmTm90RXhpc3RzV2l0aFRUTChrZXksIHZhbCwgdHRsKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKHZhbCwgY2FjaGVTZXJ2aWNlLmdldChrZXkpKTsKICAgICAgICBhc3NlcnQoIWNhY2hlU2VydmljZS5zZXRJZk5vdEV4aXN0c1dpdGhUVEwoa2V5LCB2YWwsIHR0bCkpOyAvL2FscmVhZHkgZXhpc3RzCiAgICAgICAgY2FjaGVTZXJ2aWNlLmRlbChrZXkpOwogICAgICAgIHR0bCA9IDEwMDBMOwogICAgICAgIGFzc2VydChjYWNoZVNlcnZpY2Uuc2V0SWZOb3RFeGlzdHNXaXRoVFRMKGtleSwgdmFsLCB0dGwpKTsKICAgICAgICBhc3NlcnRFcXVhbHModmFsLCBjYWNoZVNlcnZpY2UuZ2V0KGtleSkpOwogICAgICAgIGFzc2VydCghY2FjaGVTZXJ2aWNlLnNldElmTm90RXhpc3RzV2l0aFRUTChrZXksIHZhbCwgdHRsKSk7IC8vYWxyZWFkeSBleGlzdHMKICAgICAgICBUaHJlYWQuc2xlZXAodHRsKTsKICAgICAgICBhc3NlcnQoY2FjaGVTZXJ2aWNlLnNldElmTm90RXhpc3RzV2l0aFRUTChrZXksIHZhbCwgdHRsKSk7IC8vaXQgc2hvdWxkIGJlIGV4cGlyZWQKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmluID0gIjc3NzciOwogICAgICAgIGxvZy5pbmZvKCJmZW5jZToge30iLCB0c2NHZW9GZW5jZU5ld0Rhby5xdWVyeUZlbmNlKHZpbikpOwogICAgICAgIFRzY0dlb0ZlbmNlTmV3IGdlbyA9IG5ldyBUc2NHZW9GZW5jZU5ldygpOwogICAgICAgIGdlby5zZXRDZW50ZXJOYW1lKCJjZW50ZXIiKTsKICAgICAgICBnZW8uc2V0TmFtZSgibmFtZSIpOwogICAgICAgIGdlby5zZXRDcmVhdGVUaW1lKG5ldyBEYXRlKCkpOwogICAgICAgIGdlby5zZXRVcGRhdGVUaW1lKG5ldyBEYXRlKCkpOwogICAgICAgIGdlby5zZXRTdGFydFRpbWUobmV3IERhdGUoKSk7CiAgICAgICAgZ2VvLnNldEVuZFRpbWUobmV3IERhdGUoKSk7CiAgICAgICAgZ2VvLnNldEV4cGlyZWQoZmFsc2UpOwogICAgICAgIGdlby5zZXRMYXRpdHVkZSgxMCk7CiAgICAgICAgZ2VvLnNldExvbmdpdHVkZSgxMCk7CiAgICAgICAgZ2VvLnNldFZpbih2aW4pOwogICAgICAgIGdlby5zZXRJbk91dChmYWxzZSk7CiAgICAgICAgZ2VvLnNldFJhZGl1cygxMCk7CiAgICAgICAgZ2VvLnNldFN0YXR1cyh0cnVlKTsKICAgICAgICB0c2NHZW9GZW5jZU5ld0Rhby5zYXZlR2VvRmVuY2UodmluLCBnZW8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkbyB7ICAgIAo=</text>
+        <text encoding="base64">ICAgIFRzY0dlb0ZlbmNlTmV3RGFvIHRzY0dlb0ZlbmNlTmV3RGFvOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIENhY2hlU2VydmljZSBjYWNoZVNlcnZpY2U7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVzdGFtcD49aW5mby5nZXRCZWdpblRpbWUoKSAmJiB0aW1lc3RhbXA8PWluZm8uZ2V0RW5kVGltZSgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gaW5mbzsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLmV2ZW50aGFuZGxlci5kYW8uVHNjR2VvRmVuY2VOZXdEYW87CmltcG9ydCBjb20uZXJpY3Nzb24uY3NwLnRzYy5ldmVudGhhbmRsZXIudGVzdC5lbnRpdHkuUGVvcGxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
