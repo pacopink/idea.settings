@@ -263,12 +263,12 @@
       <file name="/Class.txt.ft" timestamp="1560169548411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560522212674">
-        <mark key="'" line="392" column="43" />
-        <mark key="[" line="247" column="40" />
-        <mark key="]" line="247" column="40" />
-        <mark key="." line="247" column="40" />
-        <mark key="^" line="247" column="40" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560523120663">
+        <mark key="'" line="388" column="43" />
+        <mark key="[" line="243" column="70" />
+        <mark key="]" line="243" column="70" />
+        <mark key="." line="243" column="70" />
+        <mark key="^" line="243" column="71" />
       </file>
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/util/IgniteCacheHandler.java" timestamp="1560135040674" />
       <file name="/fragment.java" timestamp="1560500792267">
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>pagination</text>
@@ -391,31 +391,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhLmdldFZhbHVlKCkuZ2V0TG9naW5UaW1lKCkuY29tcGFyZVRvKGIuZ2V0VmFsdWUoKS5nZXRMb2dpblRpbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJTZXNzaW9uPiBzZXNzaW9uTGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9ucy5zdWJMaXN0KHN0YXJ0LCBlbmQpLmZvckVhY2goZS0+ewogICAgICAgICAgICBzZXNzaW9uTGlzdC5hZGQoZS5nZXRWYWx1ZSgpKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgoMSwyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAvL1RPRE8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgc3RhcnQ9IHBhZ2luYXRpb24uZ2V0UGFnZUluZGV4KCkqcGFnaW5hdGlvbi5nZXRQYWdlU2l6ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJTZXNzaW9uPiBzZXNzaW9uTGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJTZXNzaW9uPiBzZXNzaW9uTGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsK</text>
+        <text encoding="base64">CgoKICAgICAgICBmb3IoaW50IGk9MDtpPHN0YXJ0CiAgICAgICAgZm9yKGludCBpPXBhZ2luYXRpb24uZ2V0U3RhcnQoKTsgaTxwYWdpbmF0aW9uLmdldFBhZ2VTaXplKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiLmdldExvZ2luVGltZSgpLmNvbXBhcmVUbyhhLmdldExvZ2luVGltZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGk9c3RhcnQ7aTxlbmQ7aSsrKSB7CiAgICAgICAgICAgIHNlc3Npb25zLnN1Ykxpc3Qoc3RhcnQsIGVuZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
