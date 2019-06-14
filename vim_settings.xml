@@ -91,10 +91,10 @@
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/NotificationsPushServiceImpl.java" timestamp="1559549291139">
         <mark key="'" line="208" column="35" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560489684189">
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560492354026">
         <mark key="'" line="74" column="23" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="85" column="29" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="133" column="0" />
         <mark key="^" line="336" column="20" />
         <mark key="." line="336" column="20" />
       </file>
@@ -212,18 +212,16 @@
         <mark key="^" line="132" column="14" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560489908069">
-        <mark key="'" line="0" column="34" />
-        <mark key="[" line="52" column="50" />
-        <mark key="]" line="52" column="51" />
-        <mark key="." line="52" column="51" />
-        <mark key="^" line="52" column="51" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560492877694">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/util/IgniteCacheHandler.java" timestamp="1560135040674" />
     </filemarks>
     <jumps>
-      <jump line="138" column="69" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
-      <jump line="190" column="24" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="189" column="30" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="121" column="16" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="194" column="16" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
@@ -322,55 +320,57 @@
       <jump line="41" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="74" column="23" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="0" column="34" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" />
+      <jump line="72" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getUserId() + &quot;|&quot; + userSessionIgnite.getNonce();</text>
+        <text>()+&quot;:&quot;+</text>
       </register>
       <register name="-" type="4">
-        <text>.getUserId() + &quot;|&quot; + userSessionIgnite.getNonce();</text>
+        <text>()+&quot;:&quot;+</text>
       </register>
       <register name="/" type="4">
-        <text>Error</text>
+        <text>serviceResult</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FjaGVLZXkgPSB1c2VyU2Vzc2lvbklnbml0ZS5nZXRVc2VySWQoKSArICJ8IiArIHVzZXJTZXNzaW9uSWduaXRlLmdldE5vbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tb25VdGlsLmNvcHlFbnRpdHkodXNlclNlc3Npb25JZ25pdGUsIHVzZXJTZXNzaW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlZGlzIHR0bCAtMiBtZWFucyBrZXkgbm90IGV4aXN0CiAgICAgICAgLy8gQ0FVVElPTjogYmVmb3JlIHJlZGlzIHYyLjgsIHR0bCByZXR1cm4gLTEgaW4gY2FzZSBvZiBub3QgZXhpc3Qgb3IgZXhpc3QgYnV0IG5vIHR0bAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXNUZW1wbGF0ZS5nZXRFeHBpcmUoa2V5KT4tMjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclNlc3Npb24uZ2V0VXNlcklkKCkgKyAifCIgKyB1c2VyU2Vzc2lvbi5nZXROb25jZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb3B5IHVzZXJTZXNzaW9uJ3MgdmFsdWUgdG8gdXNlclNlc3Npb25JZ25pdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZVRva2VuKSB7CiAgICAgICAgICAgIHVzZXJTZXNzaW9uLnNldEFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRJZFRva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRSZWZlcnNoVG9rZW4obnVsbCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZVRva2VuKSB7CiAgICAgICAgICAgIHVzZXJTZXNzaW9uLnNldEFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRJZFRva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRSZWZlcnNoVG9rZW4obnVsbCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VydmljZVJlc3VsdC5nZXRPcGVyYXRpb25SZXN1bHQoKSA9PSBPcGVyYXRpb25SZXN1bHQuT1BFUkFUSU9OX0ZBSUxVUkUuZ2V0VmFsdWUoKSkgewogICAgICAgICAgICByZXR1cm4gc2VydmljZVJlc3VsdDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgbm9uY2UgZnJvbSB1c2VyU2Vzc2lvbgogICAgICAgIFVzZXJTZXNzaW9uVG9rZW4gdXNlclNlc3Npb25Ub2tlbiA9IENvbW1vblV0aWwucGFyc2VVc2VyU2Vzc2lvblRva2VuKHVzZXJTZXNzaW9uLmdldFNlc3Npb25Ub2tlbigpLAogICAgICAgICAgICAgICAgc2VydmljZVJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Error</last-search>
+      <last-search>serviceResult</last-search>
       <last-offset />
-      <last-pattern>Error</last-pattern>
+      <last-pattern>serviceResult</last-pattern>
       <last-replace>log</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
@@ -378,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OAuthResponse</entry>
         <entry>checkAuth</entry>
         <entry>LoginException</entry>
         <entry>HttpsURLConnection</entry>
@@ -395,9 +394,10 @@
         <entry>wso</entry>
         <entry>GLPIE</entry>
         <entry>tsgType</entry>
-        <entry>LOGGER</entry>
         <entry>checkUserIn</entry>
         <entry>Error</entry>
+        <entry>LOGGER</entry>
+        <entry>serviceResult</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static public/public static/g</entry>
@@ -417,8 +417,8 @@
         <entry>189</entry>
         <entry>133</entry>
         <entry>82</entry>
-        <entry>%s/LOGGER/log/g</entry>
         <entry>0</entry>
+        <entry>%s/LOGGER/log/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
