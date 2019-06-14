@@ -109,7 +109,7 @@
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560510243771">
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560521599578">
         <mark key="'" line="622" column="61" />
         <mark key="[" line="158" column="0" />
         <mark key="]" line="214" column="33" />
@@ -263,12 +263,12 @@
       <file name="/Class.txt.ft" timestamp="1560169548411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560510441900">
-        <mark key="'" line="380" column="43" />
-        <mark key="[" line="239" column="70" />
-        <mark key="]" line="239" column="69" />
-        <mark key="." line="239" column="69" />
-        <mark key="^" line="239" column="69" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560522212674">
+        <mark key="'" line="392" column="43" />
+        <mark key="[" line="247" column="40" />
+        <mark key="]" line="247" column="40" />
+        <mark key="." line="247" column="40" />
+        <mark key="^" line="247" column="40" />
       </file>
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/util/IgniteCacheHandler.java" timestamp="1560135040674" />
       <file name="/fragment.java" timestamp="1560500792267">
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UserSession</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>UserSession</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>pagination</text>
@@ -391,31 +391,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhLmdldFZhbHVlKCkuZ2V0TG9naW5UaW1lKCkuY29tcGFyZVRvKGIuZ2V0VmFsdWUoKS5nZXRMb2dpblRpbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiLmdldExvZ2luVGltZSgpLmNvbXBhcmVUbyhhLmdldExvZ2luVGltZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYXgoMSwyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc3RhcnQ9IHBhZ2luYXRpb24uZ2V0UGFnZUluZGV4KCkqcGFnaW5hdGlvbi5nZXRQYWdlU2l6ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhZ2luYXRpb24uZ2V0RGlyZWN0aW9uKCkpIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJTZXNzaW9uPiBzZXNzaW9uTGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uPFVzZXJTZXNzaW9uPiBzID0gcmVzdWx0LmdldFVzZXJTZXNzaW9uTWFwKCkudmFsdWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJTZXNzaW9uPiBzZXNzaW9uTGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdpbmF0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiLmdldExvZ2luVGltZSgpLmNvbXBhcmVUbyhhLmdldExvZ2luVGltZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
