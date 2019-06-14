@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/NotificationsPushServiceImpl.java" timestamp="1559549291139">
         <mark key="'" line="208" column="35" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560437424304">
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560489684189">
         <mark key="'" line="74" column="23" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="85" column="29" />
@@ -211,12 +211,12 @@
         <mark key="^" line="132" column="14" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560437395221">
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560489908069">
         <mark key="'" line="0" column="34" />
-        <mark key="[" line="62" column="29" />
-        <mark key="]" line="62" column="29" />
-        <mark key="." line="62" column="29" />
-        <mark key="^" line="62" column="42" />
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="52" column="51" />
+        <mark key="." line="52" column="51" />
+        <mark key="^" line="52" column="51" />
       </file>
       <file name="$USER_HOME$/code/tmp/monitor-portal/src/main/java/com/monitor/util/IgniteCacheHandler.java" timestamp="1560135040674" />
     </filemarks>
@@ -324,43 +324,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.getUserId() + &quot;|&quot; + userSessionIgnite.getNonce();</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.getUserId() + &quot;|&quot; + userSessionIgnite.getNonce();</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiVFRMOiB7fSIsIHJ0Mi5nZXRFeHBpcmUoImxvbmciKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FjaGVLZXkgPSB1c2VyU2Vzc2lvbklnbml0ZS5nZXRVc2VySWQoKSArICJ8IiArIHVzZXJTZXNzaW9uSWduaXRlLmdldE5vbmNlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JlZGlzIHR0bCAtMiBtZWFucyBrZXkgbm90IGV4aXN0CiAgICAgICAgLy8gQ0FVVElPTjogYmVmb3JlIHJlZGlzIHYyLjgsIHR0bCByZXR1cm4gLTEgaW4gY2FzZSBvZiBub3QgZXhpc3Qgb3IgZXhpc3QgYnV0IG5vIHR0bAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXNUZW1wbGF0ZS5nZXRFeHBpcmUoa2V5KT4tMjsK</text>
+        <text encoding="base64">ICAgICAgICAvL3JlZGlzIHR0bCAtMiBtZWFucyBrZXkgbm90IGV4aXN0CiAgICAgICAgLy8gQ0FVVElPTjogYmVmb3JlIHJlZGlzIHYyLjgsIHR0bCByZXR1cm4gLTEgaW4gY2FzZSBvZiBub3QgZXhpc3Qgb3IgZXhpc3QgYnV0IG5vIHR0bAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXNUZW1wbGF0ZS5nZXRFeHBpcmUoa2V5KT4tMjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb3B5IHVzZXJTZXNzaW9uJ3MgdmFsdWUgdG8gdXNlclNlc3Npb25JZ25pdGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZVRva2VuKSB7CiAgICAgICAgICAgIHVzZXJTZXNzaW9uLnNldEFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRJZFRva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRSZWZlcnNoVG9rZW4obnVsbCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb3B5IHVzZXJTZXNzaW9uJ3MgdmFsdWUgdG8gdXNlclNlc3Npb25JZ25pdGUK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc2F2ZVRva2VuKSB7CiAgICAgICAgICAgIHVzZXJTZXNzaW9uLnNldEFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRJZFRva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRSZWZlcnNoVG9rZW4obnVsbCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZVRva2VuKSB7CiAgICAgICAgICAgIHVzZXJTZXNzaW9uLnNldEFjY2Vzc1Rva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRJZFRva2VuKG51bGwpOwogICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRSZWZlcnNoVG9rZW4obnVsbCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FcnJvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGJvb2wgPSBjaGVja1VzZXJJbkNhY2hlKGNhY2hlS2V5KTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FcnJvcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -417,8 +417,8 @@
         <entry>133</entry>
         <entry>82</entry>
         <entry>%s/LOGGER/log/g</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
