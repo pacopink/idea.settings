@@ -3,10 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/resources/spring-test/applicationContext-redis.xml" timestamp="1560351650094">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/app.properties" timestamp="1560397461329">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
+      </file>
+      <file name="/a.dummy" timestamp="1560676967107">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/sendToCar/service/impl/IhuSendToCarImpl.java" timestamp="1560587299062">
         <mark key="'" line="116" column="51" />
@@ -21,12 +25,11 @@
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/DmsVehicleService.java" timestamp="1559812879355">
         <mark key="'" line="361" column="32" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/pojo/ExecResult.java" timestamp="1559958876758">
-        <mark key="'" line="36" column="12" />
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="36" />
-        <mark key="^" line="54" column="45" />
-        <mark key="." line="54" column="36" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/PubSubMsgHandler.java" timestamp="1560677942442">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="44" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
@@ -65,13 +68,6 @@
       <file name="$USER_HOME$/code/tg/tsg-dms/src/main/java/com/ericsson/tsg/dms/core/pref/PrefUnit.java" timestamp="1560416048911">
         <mark key="'" line="43" column="23" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" timestamp="1560220060057">
-        <mark key="'" line="139" column="31" />
-        <mark key="[" line="116" column="12" />
-        <mark key="]" line="116" column="11" />
-        <mark key="." line="116" column="11" />
-        <mark key="^" line="116" column="11" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559814569242">
         <mark key="'" line="277" column="19" />
       </file>
@@ -88,20 +84,6 @@
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1560525794714">
-        <mark key="'" line="430" column="26" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="505" column="29" />
-        <mark key="^" line="549" column="37" />
-        <mark key="." line="549" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" timestamp="1560350359845">
-        <mark key="'" line="38" column="52" />
-        <mark key="[" line="36" column="18" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-      </file>
       <file name="$USER_HOME$/code/sms_sender/src/main/java/com/ericsson/lbs/smgw/comm/PSocketConnection.java" timestamp="1560503019439">
         <mark key="'" line="165" column="18" />
       </file>
@@ -115,36 +97,36 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1559629289514">
         <mark key="'" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/redis/TestCacheService.java" timestamp="1560351425589">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1559698035758">
         <mark key="'" line="607" column="28" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1559181499357">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1560434448725">
-        <mark key="'" line="62" column="55" />
-        <mark key="[" line="101" column="57" />
-        <mark key="]" line="101" column="59" />
-        <mark key="^" line="101" column="59" />
-        <mark key="." line="101" column="59" />
-      </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/TscGrantInnerServiceImpl.java" timestamp="1560499461747">
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="53" />
-        <mark key="." line="305" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/command/RemoteControlCmdBase.java" timestamp="1559546438695">
         <mark key="'" line="559" column="38" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560672105169">
-        <mark key="'" line="69" column="30" />
-        <mark key="[" line="100" column="23" />
-        <mark key="]" line="100" column="24" />
-        <mark key="." line="100" column="24" />
-        <mark key="^" line="100" column="24" />
+      <file name="$USER_HOME$/code/lbs_stream/test/ObjectSize.java" timestamp="1560176800920">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560678393456">
+        <mark key="'" line="106" column="30" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="91" column="50" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/GeoFenceCacheServiceImpl.java" timestamp="1560672031441">
         <mark key="[" line="8" column="0" />
@@ -178,11 +160,6 @@
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1559207921453">
         <mark key="'" line="444" column="38" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoSearch.java" timestamp="1560160544667">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1560225597974">
         <mark key="'" line="44" column="31" />
       </file>
@@ -192,17 +169,17 @@
       <file name="$USER_HOME$/code/tsc/tsc-fota/src/test/resources/applicationContext-ignite.xml" timestamp="1559315739431">
         <mark key="'" line="128" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560500761061">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/QueryVehicleServiceImpl.java" timestamp="1559958840861">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="61" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1560243515762">
-        <mark key="'" line="57" column="41" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="224" column="96" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/spring-config/applicationContext-bean.xml" timestamp="1560678221944">
+        <mark key="[" line="28" column="67" />
+        <mark key="]" line="28" column="68" />
+        <mark key="." line="28" column="68" />
+        <mark key="^" line="28" column="71" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1560611898978">
         <mark key="'" line="57" column="44" />
@@ -213,6 +190,12 @@
       </file>
       <file name="/Class.txt.ft" timestamp="1560169548411">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/PubSubJedis.java" timestamp="1560676941190">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="74" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560584858364">
         <mark key="'" line="327" column="4" />
@@ -329,43 +312,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>XXXXX</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>XXXXX</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>ops</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZmV0Y2hlZCBieSB2aW4gYW5kIHNlcnZpY2VJZCBhbmQgZXZlbnRJZDoge30iLCB0ZWxlQ3R4Uy5xdWVyeUNvbnRleHQodGN0eC5nZXRWaW4oKSwgdGN0eC5nZXRTZXJ2aWNlSWQoKSwgdGN0eC5nZXRFdmVudElkKCkpKTsKICAgICAgICBsb2cuaW5mbygiZmV0Y2hlZCBieSB2aW4gYW5kIHNlc3Npb25JZDoge30iLCB0ZWxlQ3R4Uy5xdWVyeUNvbnRleHRCeVNlc3Npb25JZCh0Y3R4LmdldFZpbigpLCB0Y3R4LmdldFNlc3Npb25JZCgpKSk7CiAgICAgICAgbG9nLmluZm8oImZldGNoZWQgYnkgdmluIGFuZCBldmVudElkICA6IHt9IiwgdGVsZUN0eFMucXVlcnlDb250ZXh0KHRjdHguZ2V0VmluKCksIHRjdHguZ2V0RXZlbnRJZCgpKSk7CiAgICAgICAgbG9nLmluZm8oImZldGNoZWQgYnkgdmluIGFuZCBzZXJ2aWNlSWQgIDoge30iLCB0ZWxlQ3R4Uy5xdWVyeUNvbnRleHQodGN0eC5nZXRWaW4oKSwgdGN0eC5nZXRTZXJ2aWNlSWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgcG9vbCAgPSBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDEpOwogICAgICAgIHBvb2wuZXhlY3V0ZSgoKS0+ewogICAgICAgICAgICBsaXN0ZW4oKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB0ZXN0KCkgewogICAgICAgIHJlZGlzVGVtcGxhdGUuc3ViCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZmV0Y2hlZCBieSB2aW4gYW5kIHNlcnZpY2VJZCBhbmQgZXZlbnRJZDoge30iLCB0ZWxlQ3R4Uy5xdWVyeUNvbnRleHQodGN0eC5nZXRWaW4oKSwgdGN0eC5nZXRTZXJ2aWNlSWQoKSwgdGN0eC5nZXRFdmVudElkKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdCgKICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZmV0Y2hlZCBieSB2aW4gYW5kIHNlcnZpY2VJZCAgOiB7fSIsIHRlbGVDdHhTLnF1ZXJ5Q29udGV4dCh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgtPnsKICAgICAgICAgICAgbGlzdGVuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAqCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBydDIuZXhwaXJlKCJsb25nIiwgMywgVGltZVVuaXQuU0VDT05EUyk7CiAgICAgICAgbG9nLmluZm8oIlRUTDoge30iLCBydDIuZ2V0RXhwaXJlKCJsb25nIikpOwogICAgICAgIFRocmVhZC5zbGVlcCgyOTk5KTsKICAgICAgICBsb2cuaW5mbygiVFRMOiB7fSIsIHJ0Mi5nZXRFeHBpcmUoImxvbmciKSk7CiAgICAgICAgbG9nLmluZm8oIlRUTDoge30iLCBydDIuZ2V0RXhwaXJlKCJsb25nIikpOwoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLnNlcnZpY2UuY2FjaGUyLlJlcXVlc3RJZFNlcnZpY2VSZWRpc0ltcGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlhYjmib7liLDkuIrkuIvmlofvvIznhLblkI7moLnmja7kuIrkuIvmlofmnoTpgKDlh7prZXnlkozmiYDmnInntKLlvJXvvIzlhajpg6jliKDpmaTmjokK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi50aHJlYWRwb29sLnN1cHBvcnQuZml4ZWQuRml4ZWRUaHJlYWRQb29sOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0dGVybiArICI9IiArIGNoYW5uZWwgKyAiPSIgKyBtZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gbWFrZUtleSh2aW4sICgoTG9uZylldmVudElkLmdldFRpbWUoKSkudG9TdHJpbmcoKSwgbnVsbCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIOWPluW+l+aMieihqOi+vuW8j+eahOaWueW8j+iuoumYheeahOa2iOaBr+WQjueahOWkhOeQhgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
