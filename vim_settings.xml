@@ -25,11 +25,11 @@
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/DmsVehicleService.java" timestamp="1559812879355">
         <mark key="'" line="361" column="32" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/PubSubMsgHandler.java" timestamp="1560677942442">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="44" />
-        <mark key="^" line="18" column="44" />
-        <mark key="." line="18" column="44" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/PubSubMsgHandler.java" timestamp="1560679071095">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/RequestIdServiceRedisImpl.java" timestamp="1559483919002">
         <mark key="'" line="46" column="25" />
@@ -311,8 +311,8 @@
       <jump line="57" column="44" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygib25QU3Vic2NyaWJlIHBhdHRlcm49e30sIGNoYW5uZWxzPXt9IiwgcGF0dGVybiwgc3Vic2NyaWJlZENoYW5uZWxzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
@@ -321,34 +321,34 @@
         <text>ops</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFeGVjdXRvclNlcnZpY2UgcG9vbCAgPSBFeGVjdXRvcnMubmV3Rml4ZWRUaHJlYWRQb29sKDEpOwogICAgICAgIHBvb2wuZXhlY3V0ZSgoKS0+ewogICAgICAgICAgICBsaXN0ZW4oKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygib25QU3Vic2NyaWJlIHBhdHRlcm49e30sIGNoYW5uZWxzPXt9IiwgcGF0dGVybiwgc3Vic2NyaWJlZENoYW5uZWxzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdCgKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHgtPnsKICAgICAgICAgICAgbGlzdGVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlLnN1Ym1pdCgKICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgtPnsKICAgICAgICAgICAgbGlzdGVuKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLnNlcnZpY2UuY2FjaGUyLlJlcXVlc3RJZFNlcnZpY2VSZWRpc0ltcGw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi50aHJlYWRwb29sLnN1cHBvcnQuZml4ZWQuRml4ZWRUaHJlYWRQb29sOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudHNjLnNlcnZpY2UuY2FjaGUyLlJlcXVlc3RJZFNlcnZpY2VSZWRpc0ltcGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0dGVybiArICI9IiArIGNoYW5uZWwgKyAiPSIgKyBtZXNzYWdlKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi50aHJlYWRwb29sLnN1cHBvcnQuZml4ZWQuRml4ZWRUaHJlYWRQb29sOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOWPluW+l+aMieihqOi+vuW8j+eahOaWueW8j+iuoumYheeahOa2iOaBr+WQjueahOWkhOeQhgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGF0dGVybiArICI9IiArIGNoYW5uZWwgKyAiPSIgKyBtZXNzYWdlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
