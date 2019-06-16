@@ -89,12 +89,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560681943199">
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560694418951">
         <mark key="'" line="130" column="30" />
-        <mark key="[" line="90" column="28" />
-        <mark key="]" line="90" column="29" />
-        <mark key="^" line="90" column="29" />
-        <mark key="." line="90" column="29" />
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="115" column="31" />
+        <mark key="^" line="115" column="31" />
+        <mark key="." line="115" column="31" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/GeoFenceCacheServiceImpl.java" timestamp="1560672031441">
         <mark key="[" line="8" column="0" />
@@ -261,11 +261,11 @@
       <jump line="57" column="44" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>ops</text>
