@@ -25,6 +25,9 @@
         <mark key="^" line="152" column="61" />
         <mark key="." line="152" column="61" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560761092253">
+        <mark key="'" line="102" column="19" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CommonUtil.java" timestamp="1560740384533">
         <mark key="'" line="298" column="51" />
       </file>
@@ -74,14 +77,11 @@
         <mark key="^" line="115" column="31" />
         <mark key="." line="115" column="31" />
       </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1560761292889">
+        <mark key="'" line="35" column="19" />
+      </file>
       <file name="/postgres.public.service_frequency_record [postgres@localhost]" timestamp="1560609541789">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1560738267049">
-        <mark key="'" line="338" column="25" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
       </file>
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
         <mark key="[" line="0" column="0" />
@@ -142,10 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="100" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="273" column="43" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="295" column="56" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="345" column="31" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="349" column="24" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="608" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="613" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
@@ -242,6 +238,10 @@
       <jump line="18" column="22" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/Header.class" />
       <jump line="27" column="14" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/Header.class" />
       <jump line="50" column="14" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/Header.class" />
+      <jump line="16" column="15" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
+      <jump line="37" column="24" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
+      <jump line="102" column="19" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
+      <jump line="35" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -251,7 +251,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>Header</text>
+        <text>it.s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIm9uUE1lc3NhZ2UgKioqKioqKioqKioqKioqIHBhdHRlcm49e30sIGNoYW5uZWw9e30sIG1lc3NhZ2U9e30iKTsK</text>
@@ -288,9 +288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Header</last-search>
+      <last-search>it.s</last-search>
       <last-offset />
-      <last-pattern>Header</last-pattern>
+      <last-pattern>it.s</last-pattern>
       <last-replace>log</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
@@ -298,12 +298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>makeKey</entry>
-        <entry>evt</entry>
-        <entry>history</entry>
-        <entry>UUID</entry>
-        <entry>ops</entry>
-        <entry>sequence</entry>
         <entry>jwt</entry>
         <entry>Jwt</entry>
         <entry>sessionToken</entry>
@@ -318,6 +312,12 @@
         <entry>getCont</entry>
         <entry>this.cty</entry>
         <entry>Header</entry>
+        <entry>it.</entry>
+        <entry>it\.</entry>
+        <entry>javabase64</entry>
+        <entry>saur</entry>
+        <entry>sau</entry>
+        <entry>it.s</entry>
       </history-search>
       <history-cmd>
         <entry>141</entry>
