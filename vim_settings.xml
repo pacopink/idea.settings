@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserServiceImpl.java" timestamp="1560780885183">
-        <mark key="'" line="1106" column="16" />
-      </file>
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +26,9 @@
         <mark key="^" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1560825475223" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" timestamp="1560838736818">
+        <mark key="'" line="145" column="12" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
       </file>
@@ -133,12 +133,6 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/redis/RedisNodeSet.java" timestamp="1560825015181" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/applicationContext-ignite.xml" timestamp="1560822671987" />
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1560829073695">
-        <mark key="'" line="117" column="99" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/CspUserSessionResourceImpl.java" timestamp="1560829168021">
-        <mark key="'" line="216" column="23" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/UserSessionCacheServiceRedisImpl.java" timestamp="1560821522456">
         <mark key="[" line="36" column="46" />
         <mark key="]" line="36" column="51" />
@@ -275,7 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="21" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/CspUserSessionResourceImpl.java" />
       <jump line="216" column="23" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/CspUserSessionResourceImpl.java" />
       <jump line="29" column="11" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" />
       <jump line="40" column="77" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" />
@@ -375,6 +368,7 @@
       <jump line="163" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="44" column="31" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="121" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
+      <jump line="145" column="12" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -384,7 +378,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>igniteCacheBase</text>
+        <text>current</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBzaGFyZWQga2V5CnNoYXJlZEtleT1lcmljc3Nvbgo=</text>
@@ -421,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>igniteCacheBase</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern>igniteCacheBase</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>jedis</entry>
         <entry>remove</entry>
         <entry>cleanIndex</entry>
@@ -451,6 +444,7 @@
         <entry>shared</entry>
         <entry>jdbc.url</entry>
         <entry>igniteCacheBase</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Jedis j/JedisCommands j/g</entry>
