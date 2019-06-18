@@ -3,36 +3,48 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserServiceImpl.java" timestamp="1560780885183">
+        <mark key="'" line="1106" column="16" />
+      </file>
       <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1559182686039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/Header.class" timestamp="1560749574056">
         <mark key="'" line="50" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1560748854310">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/UserSessionCacheServiceRedisImpl.java" timestamp="1560821522456">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="36" column="51" />
+        <mark key="^" line="36" column="51" />
+      </file>
+      <file name="/a.dummy" timestamp="1560820980058">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteTool.java" timestamp="1560750150539">
-        <mark key="'" line="198" column="32" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/java/com/ericsson/csp/tsc/ignite/listener/IgniteLocalListener.java" timestamp="1560609831669">
-        <mark key="'" line="145" column="12" />
-        <mark key="[" line="152" column="59" />
-        <mark key="]" line="152" column="61" />
-        <mark key="^" line="152" column="61" />
-        <mark key="." line="152" column="61" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteTool.java" timestamp="1560781410770">
+        <mark key="'" line="25" column="32" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/UserSessionCacheServiceIgniteImpl.java" timestamp="1560821020475">
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CommonUtil.java" timestamp="1560740384533">
         <mark key="'" line="298" column="51" />
       </file>
       <file name="/a.sql" timestamp="1560397437176">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1560781651824">
+        <mark key="'" line="397" column="21" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="400" column="21" />
       </file>
       <file name="/Catch Statement Declaration.txt.ft" timestamp="1560169646082">
         <mark key="[" line="0" column="0" />
@@ -43,12 +55,10 @@
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559805448592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1560591032657">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="72" column="25" />
-        <mark key="^" line="72" column="25" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/UserSessionCacheService.java" timestamp="1560821081459">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/IgniteTool.java" timestamp="1560748807566">
         <mark key="[" line="29" column="0" />
@@ -59,10 +69,16 @@
       <file name="/HTML File.txt.ft" timestamp="1560169636666">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1560749957974">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="29" column="47" />
-        <mark key="." line="29" column="47" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/pom.xml" timestamp="1560781759583">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="199" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1560781235711">
+        <mark key="'" line="106" column="22" />
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="47" />
       </file>
       <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1560169647903">
         <mark key="[" line="0" column="0" />
@@ -70,22 +86,38 @@
       <file name="/dummy.sql" timestamp="1560609545260">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560694418951">
-        <mark key="'" line="130" column="30" />
-        <mark key="[" line="115" column="30" />
-        <mark key="]" line="115" column="31" />
-        <mark key="^" line="115" column="31" />
-        <mark key="." line="115" column="31" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1560821266016">
+        <mark key="'" line="136" column="30" />
+        <mark key="[" line="74" column="55" />
+        <mark key="]" line="75" column="27" />
+        <mark key="." line="75" column="27" />
+        <mark key="^" line="75" column="27" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1560761292889">
-        <mark key="'" line="35" column="19" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1560781761036">
+        <mark key="'" line="31" column="30" />
+        <mark key="[" line="594" column="0" />
+        <mark key="]" line="598" column="21" />
+        <mark key="^" line="31" column="27" />
+        <mark key="." line="594" column="0" />
       </file>
       <file name="/postgres.public.service_frequency_record [postgres@localhost]" timestamp="1560609541789">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteToolRedisImpl.java" timestamp="1560781906929">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="48" column="60" />
+        <mark key="." line="48" column="60" />
+        <mark key="^" line="48" column="60" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteCacheBase.java" timestamp="1560780622526" />
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/UserSessionCacheServiceImpl.java" timestamp="1560782037797">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1560169641717">
         <mark key="[" line="0" column="0" />
@@ -98,22 +130,8 @@
       <file name="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" timestamp="1560749504116">
         <mark key="'" line="150" column="33" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1560611898978">
-        <mark key="'" line="57" column="44" />
-        <mark key="[" line="165" column="33" />
-        <mark key="]" line="165" column="35" />
-        <mark key="^" line="165" column="35" />
-        <mark key="." line="165" column="35" />
-      </file>
       <file name="/Class.txt.ft" timestamp="1560169548411">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" timestamp="1560744420743">
-        <mark key="'" line="25" column="19" />
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="64" column="21" />
-        <mark key="^" line="64" column="21" />
-        <mark key="." line="64" column="21" />
       </file>
       <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
         <mark key="[" line="0" column="0" />
@@ -127,7 +145,7 @@
         <mark key="^" line="29" column="49" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1560749146146">
+      <file name="/fragment.java" timestamp="1560781429839">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/CspUserSessionResourceImpl.java" timestamp="1560745385847">
@@ -143,23 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="24" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="608" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="613" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="614" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="617" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="618" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="622" column="61" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="279" column="6" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="333" column="6" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" />
-      <jump line="433" column="6" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="464" column="20" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="481" column="24" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="331" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionServiceRedisImpl.java" />
-      <jump line="643" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="661" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="664" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
-      <jump line="698" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="700" column="22" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="705" column="26" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
       <jump line="430" column="26" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
@@ -243,55 +244,72 @@
       <jump line="37" column="24" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
       <jump line="102" column="19" filename="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" />
       <jump line="35" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
+      <jump line="933" column="16" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserServiceImpl.java" />
+      <jump line="935" column="104" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserServiceImpl.java" />
+      <jump line="1106" column="16" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserServiceImpl.java" />
+      <jump line="105" column="22" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" />
+      <jump line="34" column="30" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
+      <jump line="396" column="19" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
+      <jump line="397" column="21" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
+      <jump line="589" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
+      <jump line="591" column="23" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
+      <jump line="592" column="23" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
+      <jump line="31" column="30" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
+      <jump line="195" column="19" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
+      <jump line="197" column="36" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
+      <jump line="217" column="36" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
+      <jump line="220" column="20" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
+      <jump line="33" column="21" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>it.s</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIm9uUE1lc3NhZ2UgKioqKioqKioqKioqKioqIHBhdHRlcm49e30sIGNoYW5uZWw9e30sIG1lc3NhZ2U9e30iKTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5kYXRhPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctZGF0YS1yZWRpczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS44LjUuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50ICAgICAgICAgICBzZXF1ZW5jZSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5lcmljc3Nvbi5jc3AudGMudW5pZmllZHNlcnZpY2UudXRpbHMuTG9jYWxlTWVzc2FnZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uaW1idXNkcy5qb3NlLkpPU0VFeGNlcHRpb247CmltcG9ydCBjb20ubmltYnVzZHMuam9zZS5KV1NBbGdvcml0aG07CmltcG9ydCBjb20ubmltYnVzZHMuam9zZS5KV1NIZWFkZXI7CmltcG9ydCBjb20ubmltYnVzZHMuam9zZS5KV1NPYmplY3Q7CmltcG9ydCBjb20ubmltYnVzZHMuam9zZS5KV1NTaWduZXI7CmltcG9ydCBjb20ubmltYnVzZHMuam9zZS5KV1NWZXJpZmllcjsKaW1wb3J0IGNvbS5uaW1idXNkcy5qb3NlLlBheWxvYWQ7CmltcG9ydCBjb20ubmltYnVzZHMuam9zZS5jcnlwdG8uTUFDU2lnbmVyOwppbXBvcnQgY29tLm5pbWJ1c2RzLmpvc2UuY3J5cHRvLk1BQ1ZlcmlmaWVyOwoKaW1wb3J0IG5ldC5taW5pZGV2Lmpzb24uSlNPTk9iamVjdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVzZXJTZXNzaW9uSWduaXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHBhcnNlVXNlclNlc3Npb25Ub2tlbihTdHJpbmcgc2Vzc2lvblRva2VuLCBTZXJ2aWNlUmVzdWx0IHNlcnZpY2VSZXN1bHQpIHsKICAgICAgICAvLyBwYXJzZSBzZXNzaW9uIHRva2VuIHRvIEpXU09iamVjdAogICAgICAgIEpXU09iamVjdCBqd3NPYmplY3QgPSBwYXJzZVNlc3Npb25Ub2tlbjJKd3NPYmplY3Qoc2Vzc2lvblRva2VuLCBzZXJ2aWNlUmVzdWx0KTsKCiAgICAgICAgLy8gdmVyaWZpZWQgdGhlIFNpZ25hdHVyZQogICAgICAgIGJvb2xlYW4gdmVyaWZpZWRTaWduYXR1cmUgPSB2ZXJpZmllZFNpZ25hdHVyZShzZXNzaW9uVG9rZW4sIGp3c09iamVjdCwgc2VydmljZVJlc3VsdCk7CgogICAgICAgIGlmIChzZXJ2aWNlUmVzdWx0LmdldE9wZXJhdGlvblJlc3VsdCgpID09IE9wZXJhdGlvblJlc3VsdC5PUEVSQVRJT05fRkFJTFVSRS5nZXRWYWx1ZSgpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgaWYgKCF2ZXJpZmllZFNpZ25hdHVyZSkgewogICAgICAgICAgICBzZXJ2aWNlUmVzdWx0LnNldEFsbChPcGVyYXRpb25SZXN1bHQuT1BFUkFUSU9OX0ZBSUxVUkUuZ2V0VmFsdWUoKSwgbnVsbCk7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcigicXVlcnlVc2VyU2Vzc2lvbiBmYWlsZWQ6IHZlcmlmaWVkU2lnbmF0dXJlIGlzIGZhbHNlIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgSlNPTk9iamVjdCBvYmogPSBqd3NPYmplY3QuZ2V0UGF5bG9hZCgpLnRvSlNPTk9iamVjdCgpOwoKICAgICAgICBpZiAob2JqID09IG51bGwgfHwgIW9iai5jb250YWluc0tleSgic3ViIikgfHwgIW9iai5jb250YWluc0tleSgibm9uY2UiKSkgewogICAgICAgICAgICAKICAgICAgICAgICAgc2VydmljZVJlc3VsdC5zZXRBbGwoT3BlcmF0aW9uUmVzdWx0Lk9QRVJBVElPTl9GQUlMVVJFLmdldFZhbHVlKCksIG51bGwpOwogICAgICAgICAgICBMT0dHRVIuZXJyb3IoInF1ZXJ5VXNlclNlc3Npb24gZmFpbGVkOiBvYmogaXMgbnVsbCBvciBubyB1c2VySWQgaW4gb2JqIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICAKICAgICAgICBTdHJpbmcgY2FjaGVLZXkgPSBvYmouZ2V0KCJzdWIiKS50b1N0cmluZygpICsgInwiICsgb2JqLmdldCgibm9uY2UiKS50b1N0cmluZygpOwogICAgICAgIAogICAgICAgIHJldHVybiBjYWNoZUtleTsKCiAgICB9CgogICAgcHJpdmF0ZSBzdGF0aWMgSldTT2JqZWN0IHBhcnNlU2Vzc2lvblRva2VuMkp3c09iamVjdChTdHJpbmcgc2Vzc2lvblRva2VuLCBTZXJ2aWNlUmVzdWx0IHNlcnZpY2VSZXN1bHQpIHsKICAgICAgICBKV1NPYmplY3QgandzT2JqZWN0ID0gbnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICBqd3NPYmplY3QgPSBKV1NPYmplY3QucGFyc2Uoc2Vzc2lvblRva2VuKTsKICAgICAgICB9IGNhdGNoIChQYXJzZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNlcnZpY2VSZXN1bHQuc2V0QWxsKE9wZXJhdGlvblJlc3VsdC5PUEVSQVRJT05fRkFJTFVSRS5nZXRWYWx1ZSgpLCBudWxsKTsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJxdWVyeVVzZXJTZXNzaW9uIGZhaWxlZDogIiwgZSk7CgogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGp3c09iamVjdDsKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIHZlcmlmaWVkU2lnbmF0dXJlKFN0cmluZyBzZXNzaW9uVG9rZW4sIEpXU09iamVjdCBqd3NPYmplY3QsIFNlcnZpY2VSZXN1bHQgc2VydmljZVJlc3VsdCkgewogICAgICAgIC8vIENyZWF0ZSBITUFDIHNpZ25lcgogICAgICAgIFN0cmluZyBzaGFyZWRLZXkgPSBMb2NhbGVNZXNzYWdlLmdldFZhbHVlQnlLZXkoInNoYXJlZEtleSIpOwogICAgICAgIGJvb2xlYW4gdmVyaWZpZWRTaWduYXR1cmUgPSBmYWxzZTsKICAgICAgICB0cnkgewogICAgICAgICAgICBKV1NWZXJpZmllciB2ZXJpZmllciA9IG5ldyBNQUNWZXJpZmllcihzaGFyZWRLZXkuZ2V0Qnl0ZXMoKSk7CiAgICAgICAgICAgIHZlcmlmaWVkU2lnbmF0dXJlID0gandzT2JqZWN0LnZlcmlmeSh2ZXJpZmllcik7CiAgICAgICAgfSBjYXRjaCAoSk9TRUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHNlcnZpY2VSZXN1bHQuc2V0QWxsKE9wZXJhdGlvblJlc3VsdC5PUEVSQVRJT05fRkFJTFVSRS5nZXRWYWx1ZSgpLCBudWxsKTsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJxdWVyeVVzZXJTZXNzaW9uIGZhaWxlZDogIiwgZSk7CgogICAgICAgIH0KICAgICAgICByZXR1cm4gdmVyaWZpZWRTaWduYXR1cmU7CgogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGNyZWF0ZVNlc3Npb25Ub2tlbihTdHJpbmcgdXNlcklkLCBEYXRlIGNyZWF0ZVRpbWUsIERhdGUgZXhwVGltZSwgU3RyaW5nIG5vbmNlLCBTdHJpbmcgdHNjR3JhbnRzKQogICAgICAgICAgICB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBKU09OT2JqZWN0IHRva2VuSW5mbyA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgdG9rZW5JbmZvLnB1dCgic3ViIiwgdXNlcklkKTsKICAgICAgICB0b2tlbkluZm8ucHV0KCJleHAiLCBleHBUaW1lLmdldFRpbWUoKSAvIDEwMDApOwogICAgICAgIHRva2VuSW5mby5wdXQoImlhdCIsIGNyZWF0ZVRpbWUuZ2V0VGltZSgpIC8gMTAwMCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzQmxhbmsobm9uY2UpKSB7CiAgICAgICAgICAgIHRva2VuSW5mby5wdXQoIm5vbmNlIiwgZ2V0Rmlyc3ROZXR3b3JrSW50ZXJmYWNlSWQoKSArIG5leHRTZXF1ZW5jZSgpKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB0b2tlbkluZm8ucHV0KCJub25jZSIsIG5vbmNlKTsKICAgICAgICB9CiAgICAgICAgdG9rZW5JbmZvLnB1dCgidHNjR3JhbnRzIiwgdHNjR3JhbnRzKTsKCiAgICAgICAgUGF5bG9hZCBwYXlsb2FkID0gbmV3IFBheWxvYWQodG9rZW5JbmZvKTsKCiAgICAgICAgLy8gQ3JlYXRlIEpXUyBoZWFkZXIgd2l0aCBIUzI1NiBhbGdvcml0aG0KICAgICAgICBKV1NIZWFkZXIgaGVhZGVyID0gbmV3IEpXU0hlYWRlcihKV1NBbGdvcml0aG0uSFMyNTYpOwogICAgICAgIGhlYWRlci5zZXRDb250ZW50VHlwZSgiand0Iik7CiAgICAgICAgLy8gQ3JlYXRlIEpXUyBvYmplY3QKICAgICAgICBKV1NPYmplY3QgandzT2JqZWN0ID0gbmV3IEpXU09iamVjdChoZWFkZXIsIHBheWxvYWQpOwogICAgICAgIC8vIENyZWF0ZSBITUFDIHNpZ25lcgogICAgICAgIFN0cmluZyBzaGFyZWRLZXkgPSBMb2NhbGVNZXNzYWdlLmdldFZhbHVlQnlLZXkoInNoYXJlZEtleSIpOwogICAgICAgIEpXU1NpZ25lciBzaWduZXIgPSBuZXcgTUFDU2lnbmVyKHNoYXJlZEtleS5nZXRCeXRlcygpKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBqd3NPYmplY3Quc2lnbihzaWduZXIpOwogICAgICAgIH0gY2F0Y2ggKEpPU0VFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBlOwogICAgICAgIH0KICAgICAgICAvLyBTZXJpYWxpc2UgSldTIG9iamVjdCB0byBjb21wYWN0IGZvcm1hdAogICAgICAgIFN0cmluZyB0b2tlbiA9IGp3c09iamVjdC5zZXJpYWxpemUoKTsKICAgICAgICBMT0dHRVIuZGVidWcoInRva2VuOiB7fSBjcmVhdGVkLiIsIHRva2VuKTsKCiAgICAgICAgcmV0dXJuIHRva2VuOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgaW50IG5leHRTZXF1ZW5jZSgpIHsKICAgICAgICBpZiAoc2VxdWVuY2UgPj0gMTAwMDApIHsKICAgICAgICAgICAgc2VxdWVuY2UgPSAwOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc2VxdWVuY2UrKzsKICAgIH0KICAgIAogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgZ2V0Rmlyc3ROZXR3b3JrSW50ZXJmYWNlSWQoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgZmluYWwgRW51bWVyYXRpb248TmV0d29ya0ludGVyZmFjZT4gaW50ZXJmYWNlcyA9IE5ldHdvcmtJbnRlcmZhY2UuZ2V0TmV0d29ya0ludGVyZmFjZXMoKTsKICAgICAgICAgICAgd2hpbGUgKGludGVyZmFjZXMuaGFzTW9yZUVsZW1lbnRzKCkpIHsKICAgICAgICAgICAgICAgIGZpbmFsIE5ldHdvcmtJbnRlcmZhY2UgbmV0SW50ZXJmYWNlID0gaW50ZXJmYWNlcy5uZXh0RWxlbWVudCgpOwoKICAgICAgICAgICAgICAgIGZpbmFsIGJ5dGVbXSBoYXJkd2FyZUFkZHJlc3MgPSBuZXRJbnRlcmZhY2UuZ2V0SGFyZHdhcmVBZGRyZXNzKCk7CiAgICAgICAgICAgICAgICBpZiAoKGhhcmR3YXJlQWRkcmVzcyAhPSBudWxsKSAmJiAoaGFyZHdhcmVBZGRyZXNzLmxlbmd0aCA+IDApKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGJ5dGVzVG9IZXhTdHJpbmcoaGFyZHdhcmVBZGRyZXNzKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGZpbmFsIEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcigiIiwgZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiAiMTIzNDU2NzgiOwogICAgfQogICAgCgogICAgcHVibGljIHN0YXRpYyBTdHJpbmcgYnl0ZXNUb0hleFN0cmluZyhmaW5hbCBieXRlW10gYkFycmF5KSB7CiAgICAgICAgZmluYWwgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKGJBcnJheS5sZW5ndGgpOwogICAgICAgIGZvciAoZmluYWwgYnl0ZSBlbGVtZW50IDogYkFycmF5KSB7CiAgICAgICAgICAgIFN0cmluZyBzID0gSW50ZWdlci50b0hleFN0cmluZygweEZGICYgZWxlbWVudCk7CiAgICAgICAgICAgIGlmIChzLmxlbmd0aCgpIDwgMikgewogICAgICAgICAgICAgICAgc2IuYXBwZW5kKDApOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHNiLmFwcGVuZChzLnRvVXBwZXJDYXNlKCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmRlYnVnKCJxdWVyeVVzZXJTZXNzaW9uIHBhZ2luYXRpb24gZW5kIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKV1NIZWFkZXIuYnVpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIuCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChzZXJ2aWNlUmVzdWx0LmdldE9wZXJhdGlvblJlc3VsdCgpID09IE9wZXJhdGlvblJlc3VsdC5PUEVSQVRJT05fRkFJTFVSRS5nZXRWYWx1ZSgpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>it.s</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>it.s</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>log</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
@@ -299,14 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jwt</entry>
-        <entry>Jwt</entry>
-        <entry>sessionToken</entry>
-        <entry>userId</entry>
-        <entry>Ignite</entry>
-        <entry>getKey</entry>
-        <entry>userSessionService</entry>
-        <entry>queryUserSession</entry>
         <entry>Content</entry>
         <entry>ContentType</entry>
         <entry>cty</entry>
@@ -319,9 +329,16 @@
         <entry>saur</entry>
         <entry>sau</entry>
         <entry>it.s</entry>
+        <entry>reqJson</entry>
+        <entry>expTime</entry>
+        <entry>spring-data</entry>
+        <entry>data</entry>
+        <entry>jedis</entry>
+        <entry>jedis_version</entry>
+        <entry>jedis.version</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
         <entry>94</entry>
         <entry>367</entry>
         <entry>447</entry>
@@ -339,6 +356,7 @@
         <entry>157</entry>
         <entry encoding="base64">JzwsJz5zL2UuZ2V0VmFsdWUoKS91c2kvZw==</entry>
         <entry>%s/LOGGER/log/g</entry>
+        <entry>71</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
