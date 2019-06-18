@@ -157,12 +157,12 @@
         <mark key="." line="72" column="25" />
         <mark key="^" line="72" column="25" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1560846109380">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1560846763274">
         <mark key="'" line="48" column="42" />
-        <mark key="[" line="125" column="75" />
-        <mark key="]" line="125" column="97" />
-        <mark key="." line="125" column="97" />
-        <mark key="^" line="125" column="97" />
+        <mark key="[" line="125" column="77" />
+        <mark key="]" line="125" column="78" />
+        <mark key="." line="125" column="78" />
+        <mark key="^" line="124" column="32" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1560842913447">
         <mark key="[" line="16" column="102" />
@@ -418,8 +418,8 @@
         <entry>%s/ignite/redis/g</entry>
         <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
         <entry>%s/UserSessionIgnite2/UserSessionIgnite/g</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
