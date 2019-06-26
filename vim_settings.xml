@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1561526827366">
+        <mark key="'" line="288" column="38" />
+      </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
         <mark key="[" line="0" column="0" />
       </file>
@@ -124,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="48" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/test/resources/app.properties" />
       <jump line="141" column="25" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/app.properties" />
       <jump line="51" column="35" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
@@ -224,6 +226,7 @@
       <jump line="302" column="42" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="234" column="74" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="217" column="37" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="288" column="38" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
