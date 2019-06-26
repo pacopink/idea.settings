@@ -30,6 +30,9 @@
       <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1561541823551">
+        <mark key="[" line="133" column="62" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1560834431851">
         <mark key="'" line="9" column="0" />
       </file>
@@ -79,6 +82,7 @@
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559805448592">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1561539576437" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1561456325457">
         <mark key="'" line="59" column="4" />
       </file>
@@ -104,7 +108,7 @@
       <file name="/Dummy.txt" timestamp="1560850748656">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1561527102784">
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1561539431500">
         <mark key="'" line="217" column="37" />
       </file>
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
