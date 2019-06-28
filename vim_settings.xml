@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTSigner.java" timestamp="1561216197119">
         <mark key="'" line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" timestamp="1561702228637">
-        <mark key="'" line="14" column="24" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" timestamp="1561706275346">
+        <mark key="'" line="139" column="4" />
       </file>
       <file name="/Catch Statement Declaration.txt.ft" timestamp="1560169646082">
         <mark key="[" line="0" column="0" />
@@ -118,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="71" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="158" column="21" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="163" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="145" column="12" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" />
@@ -218,6 +217,7 @@
       <jump line="14" column="24" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" />
       <jump line="48" column="0" filename="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/UserSessionService.java" />
       <jump line="91" column="36" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" />
+      <jump line="139" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -227,7 +227,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>userSession</text>
+        <text>query</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIyMjcmVkaXMgY29uZmlnICMjIyMjIwpyZWRpcy5taW5JZGxlPTQKcmVkaXMubWF4SWRsZT00CnJlZGlzLm1heFRvdGFsPTE2CnJlZGlzLm1heFdhaXRNaWxsaXM9MzAwMAoKcmVkaXMuY2x1c3Rlci5tYXhSZWRpcmVjdD0zCnJlZGlzLmNsdXN0ZXIuaG9zdHM9MTI3LjAuMC4xOjcwMTAsMTI3LjAuMC4xOjcwMTEsMTI3LjAuMC4xOjcwMTIKcmVkaXMudGltZW91dD01MDAwMApyZWRpcy5kYj0wCnJlZGlzLmF1dGg9ZXJpY3Nzb24K</text>
@@ -264,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>userSession</last-search>
+      <last-search>query</last-search>
       <last-offset />
-      <last-pattern>userSession</last-pattern>
+      <last-pattern>query</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
       <last-dir>1</last-dir>
@@ -274,7 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
         <entry>saveMessage</entry>
         <entry>map</entry>
         <entry>sessionToken</entry>
@@ -294,6 +293,7 @@
         <entry>tsc</entry>
         <entry>update</entry>
         <entry>userSession</entry>
+        <entry>query</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Jedis j/JedisCommands j/g</entry>
