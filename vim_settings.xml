@@ -55,6 +55,12 @@
       <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1561967756801">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1560848555676">
         <mark key="'" line="148" column="112" />
       </file>
@@ -228,11 +234,11 @@
       <jump line="270" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
@@ -268,7 +274,7 @@
         <text encoding="base64">CQkJTG9uZyB0dGwgPSBMb25nLnBhcnNlTG9uZyhMb2NhbGVNZXNzYWdlLmdldFZhbHVlQnlLZXkoInZlcmlmaWNhdGlvbl9jb2RlX2V4cGlyZXNfaW4iKSkqNS8xMDAwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>259</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -321,9 +327,9 @@
         <entry>%s/ignite/redis/g</entry>
         <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
         <entry>%s/UserSessionIgnite2/UserSessionIgnite/g</entry>
-        <entry>w</entry>
         <entry>259</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
