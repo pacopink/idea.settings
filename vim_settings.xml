@@ -57,7 +57,7 @@
         <mark key="." line="155" column="18" />
         <mark key="^" line="158" column="32" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1560834431851">
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1562060293495">
         <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/engine/ServiceHandler.java" timestamp="1561604083832" />
@@ -151,8 +151,8 @@
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscVehicleService.java" timestamp="1561708387102">
         <mark key="'" line="112" column="7" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1561625660106">
-        <mark key="'" line="217" column="37" />
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1562060260730">
+        <mark key="'" line="321" column="31" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcServiceStoreServiceImpl.java" timestamp="1562039405682">
         <mark key="[" line="85" column="121" />
@@ -179,9 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="41" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
-      <jump line="125" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
-      <jump line="96" column="46" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="124" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="75" column="32" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="66" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
@@ -279,6 +276,9 @@
       <jump line="30" column="55" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" />
       <jump line="139" column="32" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/2.20/nimbus-jose-jwt-2.20.jar!/com/nimbusds/jose/JWSObject.class" />
       <jump line="148" column="27" filename="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/2.20/nimbus-jose-jwt-2.20.jar!/com/nimbusds/jose/JWSObject.class" />
+      <jump line="328" column="4" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="391" column="55" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
+      <jump line="321" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -288,7 +288,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>var5</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCXJlc3Auc2V0T3BlcmF0aW9uUmVzdWx0KENvbnN0YW50cy5PUEVSQVRJT05fUkVTVUxUX0ZBSUxVUkUpOwoJCQkJcmVzcC5zZXRFcnJvcihuZXcgRXJyb3IoVGNFcnJvci5KV1RUT0tFTl9DT0RFX0VSUk9SLmdldENvZGUoKSwgVGNFcnJvci5KV1RUT0tFTl9DT0RFX0VSUk9SLmdldE1lc3NhZ2UoKSkpOwoJCQkJTE9HR0VSLmVycm9yKCJbY3NwXSBbdXBkYXRlIFVzZXJTZXNzaW9uXSBbe31dIFtGYWlsdXJlXSBbV2hlbiB1cGRhdGUgVXNlclNlc3Npb24gZmFpbGVkOiB7fV0iLCB0Y1VzZXJTZXNzaW9uLmdldFVzZXJJZCgpLCBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHJlc3ApKTsKCQkJCXJldHVybiByZXNwOwo=</text>
@@ -325,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>var5</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>var5</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oAuthResponse</entry>
         <entry>needAuth</entry>
         <entry>needAuthFrom</entry>
         <entry>getUserTokenFromCepResp</entry>
@@ -348,13 +347,14 @@
         <entry>authenToken</entry>
         <entry>tsc</entry>
         <entry>userSession</entry>
-        <entry>save</entry>
         <entry>saveUserSession</entry>
         <entry>query</entry>
         <entry>update</entry>
         <entry>ignite</entry>
         <entry>userId</entry>
         <entry>var5</entry>
+        <entry>expir</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
