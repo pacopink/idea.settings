@@ -110,12 +110,12 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTSigner.java" timestamp="1561216197119">
         <mark key="'" line="47" column="22" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" timestamp="1562046149246">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" timestamp="1562048742553">
         <mark key="'" line="227" column="15" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="160" column="58" />
-        <mark key="." line="162" column="0" />
+        <mark key="[" line="206" column="15" />
+        <mark key="]" line="206" column="14" />
+        <mark key="^" line="206" column="14" />
+        <mark key="." line="206" column="14" />
       </file>
       <file name="/Catch Statement Declaration.txt.ft" timestamp="1560169646082">
         <mark key="[" line="0" column="0" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nVXRpbC5pc05vdEJsYW5rCg==</text>
       </register>
       <register name="-" type="4">
-        <text>failed</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>var5</text>
@@ -294,31 +294,31 @@
         <text encoding="base64">CQkJCXJlc3Auc2V0T3BlcmF0aW9uUmVzdWx0KENvbnN0YW50cy5PUEVSQVRJT05fUkVTVUxUX0ZBSUxVUkUpOwoJCQkJcmVzcC5zZXRFcnJvcihuZXcgRXJyb3IoVGNFcnJvci5KV1RUT0tFTl9DT0RFX0VSUk9SLmdldENvZGUoKSwgVGNFcnJvci5KV1RUT0tFTl9DT0RFX0VSUk9SLmdldE1lc3NhZ2UoKSkpOwoJCQkJTE9HR0VSLmVycm9yKCJbY3NwXSBbdXBkYXRlIFVzZXJTZXNzaW9uXSBbe31dIFtGYWlsdXJlXSBbV2hlbiB1cGRhdGUgVXNlclNlc3Npb24gZmFpbGVkOiB7fV0iLCB0Y1VzZXJTZXNzaW9uLmdldFVzZXJJZCgpLCBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHJlc3ApKTsKCQkJCXJldHVybiByZXNwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJU3RyaW5nVXRpbC5pc05vdEJsYW5rCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRWaW4odGNVc2VyU2Vzc2lvbi5nZXRWaW4oKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCgkJCVN0cmluZyB1c2VySWQgPSBqd3RVdGlscy5nZXRVc2VySWQoaHR0cEhlYWRlcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTE9HR0VSLmVycm9yKCkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCgkJCVN0cmluZyB1c2VySWQgPSBqd3RVdGlscy5nZXRVc2VySWQoaHR0cEhlYWRlcnMpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJTE9HR0VSLmVycm9yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>92</text>
