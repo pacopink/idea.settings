@@ -34,11 +34,11 @@
         <mark key="." line="36" column="29" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/TscVehicleResourceImpl.java" timestamp="1561703519546" />
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1561971256298">
-        <mark key="[" line="155" column="21" />
-        <mark key="]" line="156" column="7" />
-        <mark key="." line="156" column="7" />
-        <mark key="^" line="156" column="7" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1561973341833">
+        <mark key="[" line="155" column="18" />
+        <mark key="]" line="155" column="18" />
+        <mark key="." line="155" column="18" />
+        <mark key="^" line="158" column="32" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1560834431851">
         <mark key="'" line="9" column="0" />
@@ -188,11 +188,11 @@
       <jump line="28" column="47" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>ignite</text>
@@ -201,31 +201,31 @@
         <text encoding="base64">ICAgICAgICA8aWduaXRlX3ZlcnNpb24+MS45LjA8L2lnbml0ZV92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicXVlcnkgZnJvbSBsaXN0OiB7fSIsIHVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>(UserSession)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobyBpbnN0YW5jZW9mICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsgICAgICAgIG9wbC5sZWZ0UHVzaCgiTElTVCIsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcGwubGVmdFB1c2goIkxJU1QiLCApCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygicXVlcnkgZnJvbSBsaXN0OiB7fSIsIHVzKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>(UserSession)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB2aW4gPSAoU3RyaW5nKW9iai5maWVsZCgidmluIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsgICAgICAgIG9wbC5sZWZ0UHVzaCgiTElTVCIsICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
