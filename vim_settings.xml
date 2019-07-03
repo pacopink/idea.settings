@@ -26,7 +26,7 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1561523198342">
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1562124093201">
         <mark key="'" line="234" column="74" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" timestamp="1560838736818">
@@ -42,8 +42,8 @@
         <mark key="." line="103" column="27" />
         <mark key="^" line="103" column="27" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1561708401952">
-        <mark key="'" line="45" column="13" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1562124003592">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
         <mark key="[" line="0" column="0" />
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="65" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="47" column="42" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
@@ -290,6 +289,7 @@
       <jump line="105" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="31" column="22" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="88" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -299,7 +299,7 @@
         <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>saveUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgYWxpYXNLZXkgPSBnZXRJbmRleEtleShVc2VyU2Vzc2lvblF1ZXJ5Q3JpdGVyaWEuQUxJQVMsIHVzaS5nZXRBbGlhcygpKTsKICAgICAgICBTdHJpbmcgY2xpZW50SWRLZXkgPSBnZXRJbmRleEtleShVc2VyU2Vzc2lvblF1ZXJ5Q3JpdGVyaWEuQ0xJRU5USURFTlRJVFksIHVzaS5nZXRDbGllbnRJZGVudGl0eSgpKTsK</text>
@@ -336,9 +336,9 @@
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>saveUser</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>saveUser</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
       <last-dir>1</last-dir>
@@ -346,7 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserTokenFromCepResp</entry>
         <entry>userSessionService</entry>
         <entry>checkAuth</entry>
         <entry>buildUserSession</entry>
@@ -366,6 +365,7 @@
         <entry>save</entry>
         <entry>index</entry>
         <entry>refresh</entry>
+        <entry>saveUser</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
@@ -385,9 +385,9 @@
         <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
         <entry>%s/UserSessionIgnite2/UserSessionIgnite/g</entry>
         <entry>259</entry>
-        <entry>0</entry>
         <entry>92</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
