@@ -35,8 +35,12 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1562117639176">
-        <mark key="'" line="105" column="4" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1562119050006">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="102" column="13" />
+        <mark key="]" line="103" column="27" />
+        <mark key="." line="103" column="27" />
+        <mark key="^" line="103" column="27" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1561708401952">
         <mark key="'" line="45" column="13" />
@@ -104,12 +108,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" timestamp="1562117885215">
-        <mark key="'" line="20" column="35" />
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="55" column="36" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" timestamp="1562118256819">
+        <mark key="'" line="90" column="12" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="65" column="15" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/a.sql" timestamp="1560397437176">
         <mark key="[" line="0" column="0" />
@@ -186,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
-      <jump line="211" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="137" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="65" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
@@ -286,55 +288,57 @@
       <jump line="321" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="20" column="35" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" />
       <jump line="105" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
+      <jump line="88" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXJlc3Auc2V0T3BlcmF0aW9uUmVzdWx0KENvbnN0YW50cy5PUEVSQVRJT05fUkVTVUxUX0ZBSUxVUkUpOwoJCQkJcmVzcC5zZXRFcnJvcihuZXcgRXJyb3IoVGNFcnJvci5KV1RUT0tFTl9DT0RFX0VSUk9SLmdldENvZGUoKSwgVGNFcnJvci5KV1RUT0tFTl9DT0RFX0VSUk9SLmdldE1lc3NhZ2UoKSkpOwoJCQkJTE9HR0VSLmVycm9yKCJbY3NwXSBbdXBkYXRlIFVzZXJTZXNzaW9uXSBbe31dIFtGYWlsdXJlXSBbV2hlbiB1cGRhdGUgVXNlclNlc3Npb24gZmFpbGVkOiB7fV0iLCB0Y1VzZXJTZXNzaW9uLmdldFVzZXJJZCgpLCBtYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHJlc3ApKTsKCQkJCXJldHVybiByZXNwOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWxpYXNLZXkgPSBnZXRJbmRleEtleShVc2VyU2Vzc2lvblF1ZXJ5Q3JpdGVyaWEuQUxJQVMsIHVzaS5nZXRBbGlhcygpKTsKICAgICAgICBTdHJpbmcgY2xpZW50SWRLZXkgPSBnZXRJbmRleEtleShVc2VyU2Vzc2lvblF1ZXJ5Q3JpdGVyaWEuQ0xJRU5USURFTlRJVFksIHVzaS5nZXRDbGllbnRJZGVudGl0eSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJU3RyaW5nVXRpbC5pc05vdEJsYW5rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBFeHBpcnkgQ29udHJvbAogICAgICAgIGZvcihNYXAuRW50cnk8U3RyaW5nLCBVc2VyU2Vzc2lvbklnbml0ZT4gZW50cnk6cmVzdWx0LmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgcmVmcmVzaFR0bChlbnRyeS5nZXRLZXkoKSwgZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRWaW4odGNVc2VyU2Vzc2lvbi5nZXRWaW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZyZXNoVHRsKGNhY2hlS2V5LCB1c2kpOyAvL0V4cGlyeSBDb250cm9sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNUZW1wbGF0ZS5leHBpcmUoa2V5LCBnZXRUdGwoKSwgVGltZVVuaXQuU0VDT05EUyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCgkJCVN0cmluZyB1c2VySWQgPSBqd3RVdGlscy5nZXRVc2VySWQoaHR0cEhlYWRlcnMpOwo=</text>
+        <text encoding="base64">CQkJU3RyaW5nVXRpbC5pc05vdEJsYW5rCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJTE9HR0VSLmVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRWaW4odGNVc2VyU2Vzc2lvbi5nZXRWaW4oKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>92</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>needAuthFrom</entry>
         <entry>getUserTokenFromCepResp</entry>
         <entry>userSessionService</entry>
         <entry>checkAuth</entry>
@@ -362,6 +365,7 @@
         <entry>expir</entry>
         <entry>save</entry>
         <entry>index</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
@@ -382,8 +386,8 @@
         <entry>%s/UserSessionIgnite2/UserSessionIgnite/g</entry>
         <entry>259</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>92</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
