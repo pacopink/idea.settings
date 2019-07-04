@@ -48,18 +48,9 @@
       <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/TscVehicleResourceImpl.java" timestamp="1561703519546" />
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1561973341833">
-        <mark key="[" line="155" column="18" />
-        <mark key="]" line="155" column="18" />
-        <mark key="." line="155" column="18" />
-        <mark key="^" line="158" column="32" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1562078567526">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/engine/ServiceHandler.java" timestamp="1561604083832" />
-      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/GlpieTBoxService.java" timestamp="1561603739570" />
       <file name="/postgres.public.service_frequency_record [postgres@localhost]" timestamp="1560609541789">
         <mark key="[" line="0" column="0" />
       </file>
@@ -77,6 +68,9 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1560848555676">
         <mark key="'" line="148" column="112" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" timestamp="1562220456094">
+        <mark key="'" line="67" column="25" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/resource/CspUserSessionResourceImpl.java" timestamp="1560829168021">
         <mark key="'" line="216" column="23" />
@@ -119,6 +113,7 @@
       <file name="/Catch Statement Declaration.txt.ft" timestamp="1560169646082">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/misc/csp-backup-py/conf/backup.yml" timestamp="1562221420488" />
       <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559805448592">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,30 +141,31 @@
       <file name="/Dummy.txt" timestamp="1562047506989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1562215462781" />
-      <file name="$USER_HOME$/code/tg/tsg-rt/src/main/java/com/ericsson/tsg/rt/service/TsgService.java" timestamp="1561604007444" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1562220391507">
+        <mark key="[" line="120" column="16" />
+        <mark key="]" line="120" column="16" />
+        <mark key="^" line="120" column="13" />
+        <mark key="." line="120" column="16" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscVehicleService.java" timestamp="1561708387102">
         <mark key="'" line="112" column="7" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/impl/TsgVehicleMesUpdateServiceImpl.java" timestamp="1562213148151" />
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1562060260730">
         <mark key="'" line="321" column="31" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/service/impl/CspUserSessionServiceImpl.java" timestamp="1562125339078" />
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/testdata/MesVehicle.xml" timestamp="1562220551761" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcServiceStoreServiceImpl.java" timestamp="1562039405682">
         <mark key="[" line="85" column="121" />
       </file>
       <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/test/NumberHomeInfoTester.scala" timestamp="1561701644380" />
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" timestamp="1560749504116">
         <mark key="'" line="150" column="33" />
       </file>
       <file name="/Class.txt.ft" timestamp="1560169548411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" timestamp="1562039428440" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" timestamp="1562215803334">
         <mark key="'" line="30" column="27" />
         <mark key="[" line="24" column="0" />
@@ -188,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="68" filename="$USER_HOME$/code/tsc/tsc-ignite-service/src/main/resources/spring-config/applicationContext-bean.xml" />
       <jump line="662" column="25" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="431" column="56" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="477" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
@@ -288,19 +283,20 @@
       <jump line="28" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
       <jump line="23" column="29" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
       <jump line="30" column="27" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
+      <jump line="67" column="25" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>MAX_DAYS</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWxpYXNLZXkgPSBnZXRJbmRleEtleShVc2VyU2Vzc2lvblF1ZXJ5Q3JpdGVyaWEuQUxJQVMsIHVzaS5nZXRBbGlhcygpKTsKICAgICAgICBTdHJpbmcgY2xpZW50SWRLZXkgPSBnZXRJbmRleEtleShVc2VyU2Vzc2lvblF1ZXJ5Q3JpdGVyaWEuQ0xJRU5USURFTlRJVFksIHVzaS5nZXRDbGllbnRJZGVudGl0eSgpKTsK</text>
+        <text encoding="base64">ICAgIGZpZWxkVmFsaWRhdGlvbnM6CiAgICAgIC0gZmllbGQ6IFRFTV9JRAogICAgICAgIG1heExlbjogMTI4ICAgIyDmnIDlpKfplb/luqYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
@@ -334,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MAX_DAYS</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>MAX_DAYS</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
       <last-dir>1</last-dir>
@@ -344,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buildUserSession</entry>
         <entry>buildUser</entry>
         <entry>TSp</entry>
         <entry>TSP</entry>
@@ -364,6 +359,7 @@
         <entry>saveUser</entry>
         <entry>MAX_DAYS_IN_A_FECTCH</entry>
         <entry>MAX_DAYS</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>145</entry>
