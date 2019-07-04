@@ -35,12 +35,11 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1562125171647">
-        <mark key="'" line="31" column="22" />
-        <mark key="[" line="102" column="13" />
-        <mark key="]" line="103" column="27" />
-        <mark key="." line="103" column="27" />
-        <mark key="^" line="103" column="27" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1562231699064">
+        <mark key="[" line="55" column="94" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1562124003592">
         <mark key="'" line="0" column="0" />
@@ -90,13 +89,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" timestamp="1562118256819">
-        <mark key="'" line="90" column="12" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="65" column="15" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="/a.sql" timestamp="1560397437176">
         <mark key="[" line="0" column="0" />
@@ -289,16 +281,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>Token</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>Token</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpZWxkVmFsaWRhdGlvbnM6CiAgICAgIC0gZmllbGQ6IFRFTV9JRAogICAgICAgIG1heExlbjogMTI4ICAgIyDmnIDlpKfplb/luqYK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FjaGVLZXkgPSBnZXRLZXkodXNlclNlc3Npb24uZ2V0VXNlcklkKCksIHVzZXJTZXNzaW9uVG9rZW4uZ2V0Tm9uY2UoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
