@@ -9,14 +9,8 @@
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/Header.class" timestamp="1560749574056">
         <mark key="'" line="50" column="14" />
       </file>
-      <file name="/postgres.public.tsg_vehicle_mes [postgres@localhost]" timestamp="1561002368841">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/2.20/nimbus-jose-jwt-2.20.jar!/com/nimbusds/jose/JWSObject.class" timestamp="1562047998910">
         <mark key="'" line="148" column="27" />
-      </file>
-      <file name="/a.dummy" timestamp="1560827542471">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1561702412095">
         <mark key="'" line="91" column="36" />
@@ -35,36 +29,25 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1562231699064">
-        <mark key="[" line="55" column="94" />
-        <mark key="]" line="56" column="7" />
-        <mark key="." line="56" column="7" />
-        <mark key="^" line="56" column="7" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1562234201282">
+        <mark key="'" line="70" column="12" />
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="16" />
+        <mark key="." line="70" column="16" />
+        <mark key="^" line="70" column="16" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1562124003592">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/util/FileAccess.java" timestamp="1562227951699" />
-      <file name="/Catch Statement Body.txt.ft" timestamp="1560169647137">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1562078567526">
         <mark key="'" line="9" column="0" />
-      </file>
-      <file name="/postgres.public.service_frequency_record [postgres@localhost]" timestamp="1560609541789">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1560169641717">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/app.properties" timestamp="1560848707946">
         <mark key="'" line="141" column="25" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="161" column="19" />
         <mark key="." line="151" column="0" />
-      </file>
-      <file name="/tsc_geo_fence_new [postgres@localhost]" timestamp="1559180849728">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1560848555676">
         <mark key="'" line="148" column="112" />
@@ -90,9 +73,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1560397437176">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTSigner.java" timestamp="1561216197119">
         <mark key="'" line="47" column="22" />
       </file>
@@ -103,36 +83,15 @@
         <mark key="^" line="206" column="14" />
         <mark key="." line="206" column="14" />
       </file>
-      <file name="/Catch Statement Declaration.txt.ft" timestamp="1560169646082">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/misc/csp-backup-py/conf/backup.yml" timestamp="1562221420488" />
-      <file name="/tsg_vehicle_mes [postgres@localhost]" timestamp="1559805448592">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1561456325457">
         <mark key="'" line="59" column="4" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1560169636666">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1560842913447">
-        <mark key="[" line="16" column="102" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1562043357386">
         <mark key="'" line="30" column="55" />
         <mark key="[" line="30" column="47" />
         <mark key="]" line="30" column="47" />
         <mark key="." line="30" column="47" />
-      </file>
-      <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1560169647903">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1561002476556">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562047506989">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1562220391507">
         <mark key="[" line="120" column="16" />
@@ -148,17 +107,8 @@
         <mark key="'" line="321" column="31" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/testdata/MesVehicle.xml" timestamp="1562220551761" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcServiceStoreServiceImpl.java" timestamp="1562039405682">
-        <mark key="[" line="85" column="121" />
-      </file>
-      <file name="/postgres.public.tsc_event_rule [postgres@localhost]" timestamp="1559291921359">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" timestamp="1560749504116">
         <mark key="'" line="150" column="33" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1560169548411">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" timestamp="1562215803334">
         <mark key="'" line="30" column="27" />
@@ -170,16 +120,8 @@
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/tsa/service/RemoteControlActivationServiceImpl.java" timestamp="1560745061168">
         <mark key="'" line="58" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1560834292800">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb.public.csp_file_manage [tscdb@aws.test]" timestamp="1560352339328">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="662" column="25" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
-      <jump line="431" column="56" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="477" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="520" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="557" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
@@ -270,7 +212,6 @@
       <jump line="391" column="55" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="321" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" />
       <jump line="20" column="35" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" />
-      <jump line="105" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="31" column="22" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="88" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/RedisCache.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" />
@@ -278,63 +219,65 @@
       <jump line="23" column="29" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
       <jump line="30" column="27" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" />
       <jump line="67" column="25" filename="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/pojo/MesVehicleRecord.java" />
+      <jump line="105" column="21" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
+      <jump line="80" column="23" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Token</text>
+        <text>或者更新二级索引</text>
       </register>
       <register name="-" type="4">
-        <text>Token</text>
+        <text>或者更新二级索引</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>serviceResult</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FjaGVLZXkgPSBnZXRLZXkodXNlclNlc3Npb24uZ2V0VXNlcklkKCksIHVzZXJTZXNzaW9uVG9rZW4uZ2V0Tm9uY2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZpY2VSZXN1bHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFeHBpcnkgQ29udHJvbAogICAgICAgIGZvcihNYXAuRW50cnk8U3RyaW5nLCBVc2VyU2Vzc2lvbklnbml0ZT4gZW50cnk6cmVzdWx0LmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgcmVmcmVzaFR0bChlbnRyeS5nZXRLZXkoKSwgZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZyZXNoVHRsKGNhY2hlS2V5LCB1c2kpOyAvL0V4cGlyeSBDb250cm9sCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzVXBkYXRlIHx8IGlzRm9yY2UpIHsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmcmVzaFR0bCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNUZW1wbGF0ZS5leHBpcmUoa2V5LCBnZXRUdGwoKSwgVGltZVVuaXQuU0VDT05EUyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBFeHBpcnkgQ29udHJvbAogICAgICAgIGZvcihNYXAuRW50cnk8U3RyaW5nLCBVc2VyU2Vzc2lvbklnbml0ZT4gZW50cnk6cmVzdWx0LmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgcmVmcmVzaFR0bChlbnRyeS5nZXRLZXkoKSwgZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJU3RyaW5nVXRpbC5pc05vdEJsYW5rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZyZXNoVHRsKGNhY2hlS2V5LCB1c2kpOyAvL0V4cGlyeSBDb250cm9sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH1lbHNlewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyU2Vzc2lvbi5zZXRWaW4odGNVc2VyU2Vzc2lvbi5nZXRWaW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>69</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>serviceResult</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>serviceResult</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buildUser</entry>
         <entry>TSp</entry>
         <entry>TSP</entry>
         <entry>authenToken</entry>
@@ -354,6 +297,7 @@
         <entry>MAX_DAYS_IN_A_FECTCH</entry>
         <entry>MAX_DAYS</entry>
         <entry>set</entry>
+        <entry>serviceResult</entry>
       </history-search>
       <history-cmd>
         <entry>109</entry>
@@ -373,9 +317,9 @@
         <entry>%s/UserSessionIgnite2/UserSessionIgnite/g</entry>
         <entry>259</entry>
         <entry>92</entry>
-        <entry>w</entry>
         <entry>0</entry>
         <entry>69</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
