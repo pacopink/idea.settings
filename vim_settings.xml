@@ -9,12 +9,6 @@
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/Header.class" timestamp="1560749574056">
         <mark key="'" line="50" column="14" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcSent2CarServiceImpl.java" timestamp="1560946516771">
-        <mark key="'" line="92" column="33" />
-        <mark key="[" line="114" column="13" />
-        <mark key="]" line="114" column="16" />
-        <mark key="." line="114" column="16" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/2.20/nimbus-jose-jwt-2.20.jar!/com/nimbusds/jose/JWSObject.class" timestamp="1562047998910">
         <mark key="'" line="148" column="27" />
       </file>
@@ -36,12 +30,6 @@
         <mark key="]" line="74" column="20" />
         <mark key="^" line="74" column="20" />
         <mark key="." line="74" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/ignite/IgniteTool.java" timestamp="1560781410770">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/ExecutorPool.java" timestamp="1562554212360" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" timestamp="1560838736818">
@@ -78,8 +66,8 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1561456325457">
         <mark key="'" line="59" column="4" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1562043357386">
-        <mark key="'" line="30" column="55" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1562556107330">
+        <mark key="'" line="75" column="36" />
         <mark key="[" line="30" column="47" />
         <mark key="]" line="30" column="47" />
         <mark key="." line="30" column="47" />
@@ -108,12 +96,6 @@
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" timestamp="1560749504116">
         <mark key="'" line="150" column="33" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/resources/app.properties" timestamp="1560848707946">
-        <mark key="'" line="141" column="25" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="161" column="19" />
-        <mark key="." line="151" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/java/com/ericsson/csp/tsg/mes/service/CollectorHandler.java" timestamp="1562215803334">
         <mark key="'" line="30" column="27" />
         <mark key="[" line="24" column="0" />
@@ -135,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="520" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="557" column="60" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
       <jump line="600" column="56" filename="$USER_HOME$/code/tsc/tsc-uvc-profile/pom.xml" />
@@ -235,6 +216,7 @@
       <jump line="105" column="21" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="80" column="23" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="64" column="12" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
+      <jump line="75" column="36" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -244,7 +226,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>serviceResult</text>
+        <text>expTime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBydC5vcHNGb3JWYWx1ZSgpLnNldChrZXksICImJiYmJiYmJiIpOwo=</text>
@@ -281,17 +263,16 @@
       </register>
     </registers>
     <search>
-      <last-search>serviceResult</last-search>
+      <last-search>expTime</last-search>
       <last-offset />
-      <last-pattern>serviceResult</last-pattern>
+      <last-pattern>expTime</last-pattern>
       <last-replace>UserSessionIgnite</last-replace>
       <last-substitute>UserSessionIgnite2</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TSp</entry>
         <entry>TSP</entry>
         <entry>authenToken</entry>
         <entry>tsc</entry>
@@ -311,6 +292,7 @@
         <entry>MAX_DAYS</entry>
         <entry>set</entry>
         <entry>serviceResult</entry>
+        <entry>expTime</entry>
       </history-search>
       <history-cmd>
         <entry>109</entry>
