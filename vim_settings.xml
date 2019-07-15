@@ -26,33 +26,12 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1562561918902">
         <mark key="'" line="91" column="36" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1562550734735">
-        <mark key="'" line="235" column="74" />
-        <mark key="[" line="73" column="78" />
-        <mark key="]" line="74" column="20" />
-        <mark key="^" line="74" column="20" />
-        <mark key="." line="74" column="20" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/ExecutorPool.java" timestamp="1562554212360" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" timestamp="1560838736818">
         <mark key="'" line="145" column="12" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/tc/JDDeliveryTCAccess/pom.xml" timestamp="1563169582687">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1563091021370">
-        <mark key="'" line="161" column="29" />
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="70" column="16" />
-        <mark key="." line="70" column="16" />
-        <mark key="^" line="70" column="16" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/spring-redis.xml" timestamp="1563155039773" />
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryStatusInfo.java" timestamp="1563173971593">
@@ -62,21 +41,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1562124003592">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" timestamp="1563167686036">
-        <mark key="'" line="35" column="53" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="54" />
-        <mark key="." line="86" column="71" />
-        <mark key="^" line="86" column="71" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1562561530477" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcIDSServiceImpl.java" timestamp="1563168479605">
-        <mark key="'" line="69" column="53" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="70" column="4" />
-        <mark key="^" line="69" column="53" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/jms/impl/TcJmsServiceImpl.java" timestamp="1563167634884">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="54" />
@@ -92,13 +57,6 @@
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1562078567526">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1563168259904">
-        <mark key="'" line="201" column="13" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="197" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/UserSessionCacheServiceRedisImpl.java" timestamp="1563158713339" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/JWTUtils.java" timestamp="1563167419720">
         <mark key="[" line="25" column="21" />
@@ -111,13 +69,6 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryInfo.java" timestamp="1563174075279">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCspCacheMessageServiceImpl.java" timestamp="1563168079365">
-        <mark key="'" line="29" column="33" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="54" />
-        <mark key="^" line="49" column="67" />
-        <mark key="." line="49" column="67" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryPosition.java" timestamp="1563178175798">
         <mark key="[" line="9" column="43" />
@@ -188,13 +139,6 @@
       <file name="/Dummy.txt" timestamp="1563170080716">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcIhuQRLoginServiceImpl.java" timestamp="1563168599322">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="76" column="105" />
-        <mark key="]" line="77" column="7" />
-        <mark key="^" line="77" column="7" />
-        <mark key="." line="77" column="7" />
-      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1562220391507">
         <mark key="[" line="120" column="16" />
         <mark key="]" line="120" column="16" />
@@ -212,6 +156,7 @@
         <mark key="'" line="321" column="31" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/enums/TscDeliveryErrorCodeEnum.java" timestamp="1563175392576" />
+      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/resources/WeatherResource.java" timestamp="1563179828948" />
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" timestamp="1560749504116">
         <mark key="'" line="150" column="33" />
       </file>
@@ -220,13 +165,6 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/TelematicsContextServiceRedisImpl.java" timestamp="1562558543647" />
       <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/java/com/ericsson/csp/tsc/schedule/service/impl/DeliveryErrorChecker.java" timestamp="1563174944947" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" timestamp="1563167861041">
-        <mark key="'" line="52" column="12" />
-        <mark key="[" line="757" column="0" />
-        <mark key="]" line="757" column="0" />
-        <mark key="^" line="68" column="67" />
-        <mark key="." line="757" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1563168368008">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
