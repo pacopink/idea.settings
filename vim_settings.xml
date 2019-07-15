@@ -15,9 +15,9 @@
       <file name="$MAVEN_REPOSITORY$/com/nimbusds/nimbus-jose-jwt/2.20/nimbus-jose-jwt-2.20.jar!/com/nimbusds/jose/JWSObject.class" timestamp="1562047998910">
         <mark key="'" line="148" column="27" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/AccountController.java" timestamp="1563173424569">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="24" />
+      <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/AccountController.java" timestamp="1563199770639">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="17" />
         <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/ExecutorPool.java" timestamp="1562554212360" />
@@ -45,10 +45,6 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/VehicleEventCacheServiceImpl.java" timestamp="1562559206737" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/enums/EnumDeliveryErrorStatus.java" timestamp="1563175028131" />
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryInfo.java" timestamp="1563174075279">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="29" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryPosition.java" timestamp="1563183237577">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="60" />
@@ -162,6 +158,12 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl2.java" timestamp="1562060260730">
         <mark key="'" line="321" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderController.java" timestamp="1563200110162">
+        <mark key="[" line="20" column="110" />
+        <mark key="]" line="20" column="109" />
+        <mark key="." line="20" column="109" />
+        <mark key="^" line="20" column="109" />
       </file>
       <file name="$USER_HOME$/.m2/repository/com/nimbusds/nimbus-jose-jwt/4.3/nimbus-jose-jwt-4.3.jar!/com/nimbusds/jose/JWSHeader.class" timestamp="1560749504116">
         <mark key="'" line="150" column="33" />
@@ -288,44 +290,44 @@
       <jump line="41" column="44" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/DeliveryOrderStatusJson.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLnRvSnNvblN0cmluZyhsKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVzcG9uc2Ug</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">UmVzcG9uc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>orderId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLnRvSnNvblN0cmluZyhsKSk7Cg==</text>
+        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvYWNjb3VudCIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKCUBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLnRvSnNvblN0cmluZyhsKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLnRvSnNvblN0cmluZyhsKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU9yZGVyU3RhdHVzIHN0YXR1czIgPSBuZXcgRGVsaXZlcnlPcmRlclN0YXR1cygpOwogICAgICAgIENvbW1vblV0aWwuY29weUVudGl0eShzdGF0dXMsIHN0YXR1czIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25VdGlsLmNvcHlFbnRpdHkoc3RhdHVzLCBzdGF0dXMyKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU9yZGVyU3RhdHVzIHN0YXR1czIgPSBuZXcgRGVsaXZlcnlPcmRlclN0YXR1cygpOwogICAgICAgIENvbW1vblV0aWwuY29weUVudGl0eShzdGF0dXMsIHN0YXR1czIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDb21tb25VdGlsLmNvcHlFbnRpdHkoc3RhdHVzLCBzdGF0dXMyKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXMuc2V0U3RhdHVzKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
