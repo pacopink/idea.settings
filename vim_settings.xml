@@ -157,7 +157,7 @@
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563169329765">
+      <file name="/Dummy.txt" timestamp="1563170080716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcIhuQRLoginServiceImpl.java" timestamp="1563168599322">
@@ -198,9 +198,6 @@
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1563167350967">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
