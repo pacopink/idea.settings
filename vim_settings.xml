@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/RedisNodeSet.java" timestamp="1563159011483">
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="9" column="66" />
-        <mark key="^" line="9" column="66" />
-        <mark key="." line="9" column="66" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryError.java" timestamp="1563174906110">
         <mark key="'" line="69" column="2" />
       </file>
@@ -30,6 +24,12 @@
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleMaintenanceRemindServiceImpl.java" timestamp="1560838736818">
         <mark key="'" line="145" column="12" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscDeliveryOrderService.java" timestamp="1563181751212">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="65" />
+        <mark key="." line="19" column="65" />
+        <mark key="^" line="19" column="65" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1560763968399">
         <mark key="'" line="102" column="19" />
       </file>
@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/UserSessionInternalService.java" timestamp="1562124003592">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ericsson/csp/tsc-api/0.35.0-SNAPSHOT/tsc-api-0.35.0-SNAPSHOT-sources.jar!/com/ericsson/csp/tsc/api/service/TscDeliveryCarLocatingService.java" timestamp="1563181445701" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1562561530477" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/jms/impl/TcJmsServiceImpl.java" timestamp="1563167634884">
         <mark key="[" line="28" column="0" />
@@ -48,29 +49,21 @@
         <mark key="^" line="72" column="67" />
         <mark key="." line="72" column="67" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/TestCacheService.java" timestamp="1562401889495">
-        <mark key="[" line="145" column="52" />
-        <mark key="]" line="145" column="52" />
-        <mark key="." line="145" column="52" />
-        <mark key="^" line="145" column="52" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1563180679051">
+        <mark key="'" line="109" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSessionIgnite.java" timestamp="1562078567526">
         <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/UserSessionCacheServiceRedisImpl.java" timestamp="1563158713339" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/JWTUtils.java" timestamp="1563167419720">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/TscDeliveryCarLocatingServiceImpl.java" timestamp="1563181472539" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/VehicleEventCacheServiceImpl.java" timestamp="1562559206737" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/enums/EnumDeliveryErrorStatus.java" timestamp="1563175028131" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryInfo.java" timestamp="1563174075279">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="29" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryPosition.java" timestamp="1563178175798">
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryPosition.java" timestamp="1563180523180">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="11" column="33" />
         <mark key="^" line="11" column="33" />
@@ -94,12 +87,6 @@
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/UserSessionService.java" timestamp="1561702305737">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/code/dubbox/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/proxy/InvokerInvocationHandler.java" timestamp="1562485875857">
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="52" column="7" />
-        <mark key="." line="52" column="7" />
-        <mark key="^" line="52" column="7" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/VehicleEventHandler.java" timestamp="1562558850104" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryStatus.java" timestamp="1563174276242">
         <mark key="'" line="65" column="22" />
@@ -109,16 +96,14 @@
         <mark key="'" line="47" column="22" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/TcDeliveryAuthService.java" timestamp="1563173028859" />
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscDeliveryInfoService.java" timestamp="1563181570466">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="49" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1561456325457">
         <mark key="'" line="59" column="4" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/pojo/VehicleEvent.java" timestamp="1562558823050" />
-      <file name="$USER_HOME$/code/tc/pom.xml" timestamp="1563091359544">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1563167296998">
         <mark key="[" line="33" column="44" />
         <mark key="]" line="33" column="44" />
@@ -135,15 +120,6 @@
         <mark key="]" line="87" column="67" />
         <mark key="." line="87" column="67" />
         <mark key="^" line="87" column="67" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563170080716">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/tasks.yml" timestamp="1562220391507">
-        <mark key="[" line="120" column="16" />
-        <mark key="]" line="120" column="16" />
-        <mark key="^" line="120" column="13" />
-        <mark key="." line="120" column="16" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscVehicleService.java" timestamp="1561708387102">
         <mark key="'" line="112" column="7" />
@@ -176,16 +152,9 @@
       <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/tsa/service/RemoteControlActivationServiceImpl.java" timestamp="1560745061168">
         <mark key="'" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcVehicleStatusServiceImpl.java" timestamp="1563167936670">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tc/JDDeliveryTCAccess/src/main/java/com/ericsson/csp/tc/controller/DeliveryAccountController.java" timestamp="1563172011269" />
     </filemarks>
     <jumps>
-      <jump line="559" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" />
       <jump line="613" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" />
       <jump line="661" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" />
       <jump line="709" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" />
@@ -285,19 +254,20 @@
       <jump line="45" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" />
       <jump line="65" column="22" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryStatus.java" />
       <jump line="69" column="2" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryError.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgbG9uZ2l0dWRlOwogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBsYXRpdHVkZTsKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcG9zaXRpb25EZXNjOwoK</text>
+      <register name="&quot;" type="4">
+        <text>orderId</text>
       </register>
       <register name="-" type="4">
-        <text>phone</text>
+        <text>orderId</text>
       </register>
       <register name="/" type="4">
-        <text>setStatus</text>
+        <text>longitude</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICBwcml2YXRlIERhdGUgY3JlYXRlVGltZTsK</text>
+        <text encoding="base64">ICAgIEBHRVQKICAgIEBQYXRoKCJ7b3JkZXJJZH0iKQogICAgcHVibGljIERlbGl2ZXJ5T3JkZXJTdGF0dXMgZ2V0QnlPcmRlcklkKEBQYXRoUGFyYW0oIm9yZGVySWQiKSBTdHJpbmcgb3JkZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgbG9uZ2l0dWRlOwogICAgcHJpdmF0ZSBTdHJpbmcgICAgICAgICAgICBsYXRpdHVkZTsKICAgIHByaXZhdGUgU3RyaW5nICAgICAgICAgICAgcG9zaXRpb25EZXNjOwoK</text>
@@ -331,9 +301,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setStatus</last-search>
+      <last-search>longitude</last-search>
       <last-offset />
-      <last-pattern>setStatus</last-pattern>
+      <last-pattern>longitude</last-pattern>
       <last-replace>jwtValidationService</last-replace>
       <last-substitute>jwtUtils</last-substitute>
       <last-dir>1</last-dir>
@@ -341,8 +311,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userSessionService</entry>
-        <entry>JWTVa</entry>
         <entry>JWTValidation</entry>
         <entry>jwt</entry>
         <entry>JWTU</entry>
@@ -361,6 +329,8 @@
         <entry>tscDeliveryCar</entry>
         <entry>request</entry>
         <entry>setStatus</entry>
+        <entry>long</entry>
+        <entry>longitude</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
