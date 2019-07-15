@@ -62,6 +62,7 @@
         <mark key="^" line="70" column="16" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/spring-redis.xml" timestamp="1563155039773" />
+      <file name="/TcUserSessionServiceImpl.java" timestamp="1563163865052" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/CspCacheMessageServiceRedisImpl.java" timestamp="1562561530477" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/pojo/VehicleEvent.java" timestamp="1562558823050" />
       <file name="$USER_HOME$/code/tc/pom.xml" timestamp="1563091359544">
