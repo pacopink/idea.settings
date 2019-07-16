@@ -15,11 +15,11 @@
         <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/ExecutorPool.java" timestamp="1562554212360" />
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscDeliveryOrderService.java" timestamp="1563241961008">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-        <mark key="." line="21" column="35" />
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscDeliveryOrderService.java" timestamp="1563243236289">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ericsson/csp/tsc-api/0.35.0-SNAPSHOT/tsc-api-0.35.0-SNAPSHOT-sources.jar!/com/ericsson/csp/tsc/api/service/TscDeliveryCarLocatingService.java" timestamp="1563181445701" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/jms/impl/TcJmsServiceImpl.java" timestamp="1563167634884">
@@ -248,11 +248,11 @@
       <jump line="41" column="44" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/DeliveryOrderStatusJson.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IOWPguaVsOajgOafpe+8jOWvueWHuumUmeeahOWFiOi/lOWbnueJueWumuWTjeW6lOeggeWSjOWHuumUmeS/oeaBrwo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGVsaXZlcnlPcmRlclN0YXR1cyA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>orderId</text>
