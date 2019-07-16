@@ -76,6 +76,9 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="48" column="44" />
       </file>
+      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/application.properties" timestamp="1563277088939">
+        <mark key="'" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcIhuQRLoginServiceImpl.java" timestamp="1563168599322">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="76" column="105" />
@@ -88,7 +91,7 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/enums/EnumDeliveryStatus.java" timestamp="1563177310617" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/enums/TscDeliveryErrorCodeEnum.java" timestamp="1563175392576" />
-      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/resources/WeatherResource.java" timestamp="1563179828948" />
+      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/resources/WeatherResource.java" timestamp="1563277049161" />
       <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/java/com/ericsson/csp/tsc/schedule/service/impl/DeliveryErrorChecker.java" timestamp="1563174944947" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" timestamp="1563167861041">
         <mark key="'" line="52" column="12" />
@@ -96,6 +99,13 @@
         <mark key="]" line="757" column="0" />
         <mark key="^" line="68" column="67" />
         <mark key="." line="757" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManagerTester.java" timestamp="1563279572880">
+        <mark key="'" line="38" column="40" />
+        <mark key="[" line="61" column="50" />
+        <mark key="]" line="58" column="35" />
+        <mark key="^" line="58" column="48" />
+        <mark key="." line="58" column="35" />
       </file>
       <file name="$USER_HOME$/code/tc/JDDeliveryTCAccess/src/main/java/com/ericsson/csp/tc/controller/DeliveryAccountController.java" timestamp="1563172011269" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1562561918902">
@@ -205,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="50" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" />
-      <jump line="52" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteStatusServiceImpl.java" />
       <jump line="45" column="53" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcVehicleStatusServiceImpl.java" />
       <jump line="49" column="48" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCspCacheMessageServiceImpl.java" />
       <jump line="29" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCspCacheMessageServiceImpl.java" />
@@ -305,55 +313,57 @@
       <jump line="39" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/DeliveryOrderStatusJson.java" />
       <jump line="40" column="43" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/DeliveryOrderStatusJson.java" />
       <jump line="41" column="44" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/DeliveryOrderStatusJson.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/application.properties" />
+      <jump line="34" column="40" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManagerTester.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlcnZpY2Xov5Tlm57nqbrvvIzov5Tlm540MDQgbm90IGZvdW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>非</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>orderId</text>
+        <text>mngr1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlcnZpY2Xov5Tlm57nqbrvvIzov5Tlm540MDQgbm90IGZvdW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJyZXNwb25zZToge30iLCBib2R5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5zZXRTdGF0dXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBCVUZGX1NJWkU9MjA7CiAgICAgICAgICAgICAgICBieXRlW10gYnVmZiA9IG5ldyBieXRlW0JVRkZfU0laRV07CiAgICAgICAgICAgICAgICBpbnQgbGwgPSAwOwogICAgICAgICAgICAgICAgaW50IGwgPSAwOwogICAgICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgICAgIGwgPSByZXNwLmdldEVudGl0eSgpLmdldENvbnRlbnQoKS5yZWFkKGJ1ZmYsIDAsIEJVRkZfU0laRSk7CiAgICAgICAgICAgICAgICAgICAgbGwgKz0gbDsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoYnVmZik7CiAgICAgICAgICAgICAgICAgICAgc2Iuc2V0TGVuZ3RoKGxsKTsKICAgICAgICAgICAgICAgIH0gd2hpbGUobD49QlVGRl9TSVpFKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERlbGl2ZXJ5T3JkZXJRdWVyeUNvbnRyb2xsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAw77yaIOafpeivouaIkOWKnwogICAgMe+8miDmn6Xor6LlpLHotKUKICAgICAqLwogICAgcHJpdmF0ZSBJbnRlZ2VyIGNvZGU7CiAgICAvKgogICAg5p+l6K+i5oiQ5Yqf5Li6bnVsbAogICAg5p+l6K+i5aSx6LSl5aGr5YaZ5aSx6LSl5Y6f5ZugCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIG1zZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZWxpdmVyeU9yZGVyUXVlcnlSZXN1bHQuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgc2IgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJbXSBjYyA9IG5ldyBjaGFyWzIwNDhdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBsID0gcmVzcC5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCkucmVhZChidWZmKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLnRvSnNvblN0cmluZyhsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>orderId</last-search>
+      <last-search>mngr1</last-search>
       <last-offset />
-      <last-pattern>orderId</last-pattern>
+      <last-pattern>mngr1</last-pattern>
       <last-replace>jwtValidationService</last-replace>
       <last-substitute>jwtUtils</last-substitute>
       <last-dir>1</last-dir>
@@ -361,8 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jwt</entry>
-        <entry>JWTU</entry>
         <entry>jwtUtil</entry>
         <entry>userId</entry>
         <entry>delCustomer</entry>
@@ -381,6 +389,8 @@
         <entry>long</entry>
         <entry>longitude</entry>
         <entry>orderId</entry>
+        <entry>map</entry>
+        <entry>mngr1</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
