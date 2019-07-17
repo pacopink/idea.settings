@@ -439,7 +439,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>aspect</text>
+        <text>geely</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2u6auY5b635Z2Q5qCH57O757uP57qs5bqm77yM5p+l6K+i5aSn6Ie05Y+v5o+P6L+w5L2N572uCiAgICAgKiBAcGFyYW0gbG9uZ2l0dWRlCiAgICAgKiBAcGFyYW0gbGF0aXR1ZGUKICAgICAqIEByZXR1cm4gIOWPr+aPj+i/sOS9jee9ruWtl+espuS4siwg5aaC5p6c5om+5LiN5Yiw5oiW6ICF5aSx6LSl5LqG77yM6L+U5ZuebnVsbAogICAgICovCg==</text>
@@ -476,9 +476,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aspect</last-search>
+      <last-search>geely</last-search>
       <last-offset />
-      <last-pattern>aspect</last-pattern>
+      <last-pattern>geely</last-pattern>
       <last-replace>jwtValidationService</last-replace>
       <last-substitute>jwtUtils</last-substitute>
       <last-dir>1</last-dir>
@@ -486,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tscDeliveryCar</entry>
         <entry>request</entry>
         <entry>setStatus</entry>
         <entry>long</entry>
@@ -506,6 +505,7 @@
         <entry>spring</entry>
         <entry>junit</entry>
         <entry>aspect</entry>
+        <entry>geely</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
