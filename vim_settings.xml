@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/GaoDeUtil.java" timestamp="1563333148018">
+        <mark key="'" line="27" column="32" />
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="64" column="27" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/AccountController.java" timestamp="1563199770639">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="36" column="17" />
@@ -203,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCspCacheMessageServiceImpl.java" />
       <jump line="39" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCspInterestCollectionServiceImpl.java" />
       <jump line="47" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" />
       <jump line="31" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcDealerServiceImpl.java" />
@@ -303,43 +309,44 @@
       <jump line="34" column="40" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManagerTester.java" />
       <jump line="16" column="2" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/RegeoResult.java" />
       <jump line="104" column="4" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManagerTester.java" />
+      <jump line="22" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/GaoDeUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>mngr1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJyZXNwb25zZToge30iLCBib2R5KTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGxvbmdpdHVkZQogICAgICogQHBhcmFtIGxhdGl0dWRlCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOagueaNrumrmOW+t+WdkOagh+ezu+e7j+e6rOW6pu+8jOafpeivouWcsOeCuQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihSZWdlb1Jlc3VsdC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihHYW9EZVV0aWwuY2xhc3MpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEphY2tzb25VdGlsLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBCVUZGX1NJWkU9MjA7CiAgICAgICAgICAgICAgICBieXRlW10gYnVmZiA9IG5ldyBieXRlW0JVRkZfU0laRV07CiAgICAgICAgICAgICAgICBpbnQgbGwgPSAwOwogICAgICAgICAgICAgICAgaW50IGwgPSAwOwogICAgICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgICAgIGwgPSByZXNwLmdldEVudGl0eSgpLmdldENvbnRlbnQoKS5yZWFkKGJ1ZmYsIDAsIEJVRkZfU0laRSk7CiAgICAgICAgICAgICAgICAgICAgbGwgKz0gbDsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoYnVmZik7CiAgICAgICAgICAgICAgICAgICAgc2Iuc2V0TGVuZ3RoKGxsKTsKICAgICAgICAgICAgICAgIH0gd2hpbGUobD49QlVGRl9TSVpFKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
