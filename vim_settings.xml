@@ -54,16 +54,17 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/main/resources/logback.xml" timestamp="1563437866303">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscDeliveryOrderService.java" timestamp="1563247122611">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="18" column="7" />
         <mark key="^" line="30" column="46" />
         <mark key="." line="30" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/pom.xml" timestamp="1563344638931">
-        <mark key="'" line="72" column="31" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="279" column="21" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1563343858179">
         <mark key="'" line="7" column="0" />
@@ -133,6 +134,12 @@
         <mark key="]" line="21" column="65" />
         <mark key="." line="21" column="65" />
       </file>
+      <file name="$USER_HOME$/code/streaming/bin/env.sh" timestamp="1563437357041">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="32" />
+        <mark key="." line="22" column="32" />
+        <mark key="^" line="22" column="32" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/JwtTokenUtil.java" timestamp="1563436528034">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -148,11 +155,6 @@
         <mark key="[" line="45" column="11" />
         <mark key="]" line="45" column="11" />
         <mark key="." line="45" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1563418993392">
-        <mark key="'" line="348" column="30" />
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="352" column="21" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/redis/RedisNodeSet.java" timestamp="1563346073959">
         <mark key="[" line="10" column="78" />
@@ -174,6 +176,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1563342477687">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/assembly/default.xml" timestamp="1563437836762" />
       <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" timestamp="1563336469121">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="36" />
@@ -346,11 +349,6 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" timestamp="1563173124495">
         <mark key="'" line="45" column="8" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/app.properties" timestamp="1563341266287">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="172" column="19" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManagerTester.java" timestamp="1563339639715">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="33" />
@@ -463,43 +461,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>local[4]</text>
+        <text>INFO</text>
       </register>
       <register name="-" type="4">
-        <text>local[4]</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>queryUserSession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8IS0tIGNvbmZpZyAtLT4KCQk8ZmlsZVNldD4KCQkJPGRpcmVjdG9yeT50YXJnZXQvY2xhc3NlczwvZGlyZWN0b3J5PgoJCQk8b3V0cHV0RGlyZWN0b3J5PmNvbmZpZzwvb3V0cHV0RGlyZWN0b3J5PgoJCQk8aW5jbHVkZXM+CgkJCQk8aW5jbHVkZT5yZXNvdXJjZTwvaW5jbHVkZT4KCQkJCTxpbmNsdWRlPioucHJvcGVydGllczwvaW5jbHVkZT4KCQkJCTxpbmNsdWRlPioueG1sPC9pbmNsdWRlPgoJCQkJPGluY2x1ZGU+Ki55bWw8L2luY2x1ZGU+CgkJCQk8aW5jbHVkZT5zcHJpbmctY29uZmlnLyoueG1sPC9pbmNsdWRlPgoJCQk8L2luY2x1ZGVzPgoJCTwvZmlsZVNldD4K</text>
+        <text encoding="base64">CQk8bGV2ZWwgdmFsdWU9IklORk8iIC8+CgkJPGFwcGVuZGVyLXJlZiByZWY9IlNURE9VVCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFwcENvbmZpZ3VyYXRpb24uc2FkZgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwcENvbmZpZ3VyYXRpb24uc2FkZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS1maWxlcyAke0ZJTEVTfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JvdXAtc3RyZWFtCg==</text>
+        <text encoding="base64">LS1maWxlcyAke0ZJTEVTfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTxpbmNsdWRlPioucHJvcGVydGllczwvaW5jbHVkZT4KCQkJCTxpbmNsdWRlPioueG1sPC9pbmNsdWRlPgoJCQkJPGluY2x1ZGU+Ki55bWw8L2luY2x1ZGU+CgkJCQk8aW5jbHVkZT5zcHJpbmctY29uZmlnLyoueG1sPC9pbmNsdWRlPgo=</text>
+        <text encoding="base64">Z3JvdXAtc3RyZWFtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJKgo=</text>
+        <text encoding="base64">CQkJCTxpbmNsdWRlPioucHJvcGVydGllczwvaW5jbHVkZT4KCQkJCTxpbmNsdWRlPioueG1sPC9pbmNsdWRlPgoJCQkJPGluY2x1ZGU+Ki55bWw8L2luY2x1ZGU+CgkJCQk8aW5jbHVkZT5zcHJpbmctY29uZmlnLyoueG1sPC9pbmNsdWRlPgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJKgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">cmVkaXMuZGI9MAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">MS4gSldUVXRpbHMgaXMgbW92ZSB0byBKV1RWYWxpZGF0aW9uU2VydmljZSwgYW5kIG1ha2UgaXQgYXMgYSBzcHJpbmcgYmVhbiB0byBiZSBhdXRvd2lyZWQgaW4gbWFzc2l2ZSBzZXJ2aWNlcywgc28gdGhhdCBubyBtb3JlIG5lZWQgdG8gaGF2ZSBzbyBtYXkgJ25ldyBKV1RVdGlscycKMi4gVXBncmFkZSBzcHJpbmcgZnJhbXdvcmsgdmVyc2lvbiB0byA0LjMuMjQsIHNwcmluZyBib290IHRvIDEuNS4yMSB3aGljaCBhcmUgdGhlIGxhdGVzdCBHQSB2ZXJzaW9ucywgdG8gZml4IHZ1bG5lcmFiaWxpdGVzIHJlcG9ydGVkIGZyb20gUiZEIHNjYW5uaW5nLgozLiByZW5hbWUgSkREZWxpdmVyeVRDQWNjZXNzIG1vZHVsZSBhcnRpZmFjdCBuYW1lIGZyb20gdGVsZW1hdGljcy1jbGllbnQgdG8gamREZWxpdmVyeVRDQWNjZXNzIHRvIGJldHRlciByZWZsZWN0IGl0cyB1c2FnZS4=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
