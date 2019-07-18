@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1563180679051">
         <mark key="'" line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/app.properties" timestamp="1563450716707">
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/app.properties" timestamp="1563452081629">
         <mark key="'" line="37" column="61" />
       </file>
       <file name="$USER_HOME$/code/spark/src/test/scala/com/ericsson/csp/bigdata/AppTest.scala" timestamp="1563355500082">
@@ -197,6 +197,7 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/test/resources/applicationContext-test-dubbo.xml" timestamp="1563452153476" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/RegeoResult.java" timestamp="1563280813552">
         <mark key="[" line="242" column="17" />
         <mark key="]" line="206" column="31" />
