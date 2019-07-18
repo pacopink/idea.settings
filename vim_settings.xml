@@ -22,13 +22,6 @@
         <mark key="^" line="74" column="20" />
         <mark key="." line="74" column="20" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-regeo.xml" timestamp="1563345166731">
-        <mark key="'" line="46" column="7" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="72" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-      </file>
       <file name="$USER_HOME$/code/spark/src/main/scala/com/ericsson/csp/bigdata/App.scala" timestamp="1563354806818">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
@@ -48,13 +41,6 @@
         <mark key="]" line="70" column="16" />
         <mark key="." line="70" column="16" />
         <mark key="^" line="70" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext.xml" timestamp="1563342629755">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="33" column="47" />
-        <mark key="]" line="33" column="47" />
-        <mark key="." line="33" column="47" />
-        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/code/tsc/misc/smbus/pom.xml" timestamp="1563357634541">
         <mark key="[" line="33" column="0" />
@@ -88,19 +74,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="12" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/spring-config/applicationContext-bean.xml" timestamp="1563345175503">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="117" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/spark/pom.xml" timestamp="1563372143720">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+      <file name="$USER_HOME$/code/spark/pom.xml" timestamp="1563413315852">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcIhuQRLoginServiceImpl.java" timestamp="1563168599322">
         <mark key="'" line="35" column="0" />
@@ -133,13 +112,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManagerTester.java" timestamp="1563339639715">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="33" />
-        <mark key="^" line="55" column="42" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/test/java/com/ericsson/csp/tsc/eventhandler/test/GeoUtilTester.java" timestamp="1563341108389">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="34" />
@@ -151,6 +123,12 @@
         <mark key="]" line="42" column="65" />
         <mark key="." line="42" column="65" />
         <mark key="^" line="41" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/spark/src/main/scala/com/ericsson/csp/bigdata/main/TestStream.scala" timestamp="1563413883627">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/DeliveryOrderStatusJson.java" timestamp="1563247501616">
         <mark key="'" line="39" column="44" />
@@ -212,13 +190,6 @@
         <mark key="[" line="10" column="78" />
         <mark key="]" line="10" column="78" />
         <mark key="." line="10" column="78" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/app.properties" timestamp="1563345062257">
-        <mark key="'" line="25" column="14" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="73" column="55" />
-        <mark key="." line="70" column="19" />
-        <mark key="^" line="73" column="15" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-delivery/target/test-classes/app.properties" timestamp="1563342782843">
         <mark key="[" line="73" column="0" />
@@ -375,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">QXBwIA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">QXBwIA==</text>
       </register>
       <register name="/" type="4">
         <text>jboss.versio</text>
@@ -387,34 +358,34 @@
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcGFyay1zcWxfMi4xMjwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Mi40LjI8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB4LnZhCg==</text>
+        <text encoding="base64">ICA8cHJvcGVydGllcz4KICA8L3Byb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzcGFyay52ZXJzaW9uPjIuNC4yPC9zcGFyay52ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxsb2dnZXIgbmFtZT0iY29tLmVyaWNzc29uIj4KCQk8bGV2ZWwgdmFsdWU9IklORk8iIC8+CgkJPGFwcGVuZGVyLXJlZiByZWY9IkZJTEUiIC8+Cgk8L2xvZ2dlcj4KCgk8IS0tPGxvZ2dlciBuYW1lPSJjb20uYWxpYmFiYSI+CgkJPGxldmVsIHZhbHVlPSJXQVJOIiAvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJGSUxFIiAvPgoJPC9sb2dnZXI+LS0+CgkKCTxsb2dnZXIgbmFtZT0iY29tLmFsaWJhYmEuZHViYm8ucnBjLnByb3RvY29sLnJlc3Quc3VwcG9ydCI+CgkJPGxldmVsIHZhbHVlPSJJTkZPIiAvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJGSUxFIiAvPgoJPC9sb2dnZXI+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJGSUxFIgoJCWNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLnJvbGxpbmcuUm9sbGluZ0ZpbGVBcHBlbmRlciI+CgkJPGZpbGU+L29wdC9lcmljc3Nvbi9jc3AvbG9ncy90c2MtZGVsaXZlcnkubG9nPC9maWxlPgoJCTxyb2xsaW5nUG9saWN5IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLnJvbGxpbmcuVGltZUJhc2VkUm9sbGluZ1BvbGljeSI+CgkJCTxGaWxlTmFtZVBhdHRlcm4+L29wdC9lcmljc3Nvbi9jc3AvaGlzdG9yeS1sb2dzL3RzYy1kZWxpdmVyeS0lZHt5eXl5LU1NLWRkfS4laS5nejwvRmlsZU5hbWVQYXR0ZXJuPgoJCQk8TWF4SGlzdG9yeT42MDwvTWF4SGlzdG9yeT4KCQkJPHRpbWVCYXNlZEZpbGVOYW1pbmdBbmRUcmlnZ2VyaW5nUG9saWN5CgkJCQljbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlNpemVBbmRUaW1lQmFzZWRGTkFUUCI+CgkJCQk8bWF4RmlsZVNpemU+NTEyTUI8L21heEZpbGVTaXplPgoJCQk8L3RpbWVCYXNlZEZpbGVOYW1pbmdBbmRUcmlnZ2VyaW5nUG9saWN5PgoJCTwvcm9sbGluZ1BvbGljeT4KCQk8bGF5b3V0IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLlBhdHRlcm5MYXlvdXQiPgoJCQk8UGF0dGVybj5bJWR7eXl5eS1NTS1kZCBISDptbTpzcy5TU1N9XSBbVFNDX0RFTElWRVJZXSBbJWxldmVsXSBbJWxvZ2dlcnszNn1dICVtc2clbjwvUGF0dGVybj4KCQk8L2xheW91dD4KCTwvYXBwZW5kZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB4LnZhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTxhcHBlbmRlciBuYW1lPSJTVEFUIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlJvbGxpbmdGaWxlQXBwZW5kZXIiPgoJCTxmaWxlPi9vcHQvZXJpY3Nzb24vY3NwL2xvZ3MvVFNDLmxvZzwvZmlsZT4KCQk8cm9sbGluZ1BvbGljeSBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlRpbWVCYXNlZFJvbGxpbmdQb2xpY3kiPgoJCQk8RmlsZU5hbWVQYXR0ZXJuPi9vcHQvZXJpY3Nzb24vY3NwL2hpc3RvcnktbG9ncy9UU0MtJWR7eXl5eS1NTS1kZH0uJWkuZ3o8L0ZpbGVOYW1lUGF0dGVybj4KCQkJPE1heEhpc3Rvcnk+NjA8L01heEhpc3Rvcnk+CgkJCTx0aW1lQmFzZWRGaWxlTmFtaW5nQW5kVHJpZ2dlcmluZ1BvbGljeSBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5yb2xsaW5nLlNpemVBbmRUaW1lQmFzZWRGTkFUUCI+CgkJCQk8bWF4RmlsZVNpemU+NTEyTUI8L21heEZpbGVTaXplPgoJCQk8L3RpbWVCYXNlZEZpbGVOYW1pbmdBbmRUcmlnZ2VyaW5nUG9saWN5PgoJCTwvcm9sbGluZ1BvbGljeT4KCQk8bGF5b3V0IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jbGFzc2ljLlBhdHRlcm5MYXlvdXQiPgoJCQk8UGF0dGVybj5bJWR7eXl5eS1NTS1kZCBISDptbTpzcy5TU1N9XSBbVFNDX0RFTElWRVJZXSBbJWxldmVsXSBbJWxvZ2dlcnszNn1dICVtc2clbjwvUGF0dGVybj4KCQk8L2xheW91dD4KCTwvYXBwZW5kZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">CTxsb2dnZXIgbmFtZT0iY29tLmVyaWNzc29uIj4KCQk8bGV2ZWwgdmFsdWU9IklORk8iIC8+CgkJPGFwcGVuZGVyLXJlZiByZWY9IkZJTEUiIC8+Cgk8L2xvZ2dlcj4KCgk8IS0tPGxvZ2dlciBuYW1lPSJjb20uYWxpYmFiYSI+CgkJPGxldmVsIHZhbHVlPSJXQVJOIiAvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJGSUxFIiAvPgoJPC9sb2dnZXI+LS0+CgkKCTxsb2dnZXIgbmFtZT0iY29tLmFsaWJhYmEuZHViYm8ucnBjLnByb3RvY29sLnJlc3Quc3VwcG9ydCI+CgkJPGxldmVsIHZhbHVlPSJJTkZPIiAvPgoJCTxhcHBlbmRlci1yZWYgcmVmPSJGSUxFIiAvPgoJPC9sb2dnZXI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzIuNC4yLyR7c3BhcmsudmVyc2lvbn0vZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -467,9 +438,9 @@
         <entry>%s/jwtUtils/jwtValidationService</entry>
         <entry>%s/jwtUtils/jwtValidationService/g</entry>
         <entry>25</entry>
-        <entry>w</entry>
         <entry>0</entry>
         <entry encoding="base64">JzwsJz5zLzIuNC4yLyR7c3BhcmsudmVyc2lvbn0vZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
