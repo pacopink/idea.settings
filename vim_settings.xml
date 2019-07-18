@@ -41,7 +41,7 @@
         <mark key="." line="20" column="47" />
         <mark key="^" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-common/pom.xml" timestamp="1563442032753">
+      <file name="$USER_HOME$/code/tg/tsg-common/pom.xml" timestamp="1563442765560">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="27" column="21" />
         <mark key="." line="21" column="0" />
@@ -132,6 +132,7 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/UserSessionCacheServiceRedisImpl.java" timestamp="1563434986157">
         <mark key="'" line="26" column="50" />
       </file>
+      <file name="$USER_HOME$/code/tg/esb_lib/Geely-EsbAPI-1.0.2.jar!/META-INF/MANIFEST.MF" timestamp="1563443103938" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-base.xml" timestamp="1563343427922">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -177,6 +178,7 @@
         <mark key="^" line="130" column="64" />
         <mark key="." line="130" column="64" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/ericsson/csp/csp-key-tool/0.0.1-SNAPSHOT/csp-key-tool-0.0.1-SNAPSHOT.jar!/META-INF/MANIFEST.MF" timestamp="1563443229512" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtil.java" timestamp="1563345352139">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="17" />
@@ -302,7 +304,7 @@
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/application.properties" timestamp="1563277088939">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563435378150">
+      <file name="/Dummy.txt" timestamp="1563444072502">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,6 +340,7 @@
         <mark key="]" line="68" column="63" />
         <mark key="." line="68" column="63" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/assembly/default.xml" timestamp="1563443806454" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-bean.xml" timestamp="1563343424406">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="24" column="11" />
@@ -488,7 +491,7 @@
         <text>INFO</text>
       </register>
       <register name="/" type="4">
-        <text>esb_lib</text>
+        <text>mani</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8bGV2ZWwgdmFsdWU9IklORk8iIC8+CgkJPGFwcGVuZGVyLXJlZiByZWY9IlNURE9VVCIgLz4K</text>
@@ -525,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>esb_lib</last-search>
+      <last-search>mani</last-search>
       <last-offset />
-      <last-pattern>esb_lib</last-pattern>
+      <last-pattern>mani</last-pattern>
       <last-replace>${spark.version}</last-replace>
       <last-substitute>2.4.2</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aop</entry>
-        <entry>spring</entry>
         <entry>aspect</entry>
         <entry>geely</entry>
         <entry>scala-plugin</entry>
@@ -555,6 +556,8 @@
         <entry>flag</entry>
         <entry>queryUserSession</entry>
         <entry>esb_lib</entry>
+        <entry>meni</entry>
+        <entry>mani</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
