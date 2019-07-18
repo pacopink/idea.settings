@@ -142,10 +142,11 @@
         <mark key="^" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/code/spark/src/main/scala/com/ericsson/csp/bigdata/example/DirectKafkaWordCount.scala" timestamp="1563415685859">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/code/spark/src/main/scala/com/ericsson/csp/bigdata/example/DirectKafkaWordCount.scala" timestamp="1563420391579">
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+        <mark key="^" line="68" column="40" />
       </file>
       <file name="$USER_HOME$/code/tsc/pom.xml" timestamp="1563091096324">
         <mark key="'" line="33" column="0" />
@@ -443,11 +444,11 @@
       <jump line="348" column="30" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWFzc2VtYmx5LXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjIuMjwvdmVyc2lvbj4KCQkJCTxleGVjdXRpb25zPgoJCQkJCTxleGVjdXRpb24+CgkJCQkJCTxpZD5nZW5lcmF0ZS1kaXN0cmlidXRpb248L2lkPgoJCQkJCQk8cGhhc2U+cGFja2FnZTwvcGhhc2U+CgkJCQkJCTxnb2Fscz4KCQkJCQkJCTxnb2FsPnNpbmdsZTwvZ29hbD4KCQkJCQkJPC9nb2Fscz4KCQkJCQk8L2V4ZWN1dGlvbj4KCQkJCTwvZXhlY3V0aW9ucz4KCQkJCTxjb25maWd1cmF0aW9uPgoJCQkJCTxmaW5hbE5hbWU+JHtwcm9qZWN0LmFydGlmYWN0SWR9PC9maW5hbE5hbWU+CgkJCQkJPGRlc2NyaXB0b3JzPgoJCQkJCQk8ZGVzY3JpcHRvcj4ke2Jhc2VkaXJ9L3NyYy9hc3NlbWJseS9kZWZhdWx0LnhtbDwvZGVzY3JpcHRvcj4KCQkJCQk8L2Rlc2NyaXB0b3JzPgoJCQkJCTxhdHRhY2g+JHthdHRhY2gtZGlzdHJpYnV0aW9ufTwvYXR0YWNoPgoJCQkJCTxhcHBlbmRBc3NlbWJseUlkPnRydWU8L2FwcGVuZEFzc2VtYmx5SWQ+CgkJCQkJPHRhckxvbmdGaWxlTW9kZT5nbnU8L3RhckxvbmdGaWxlTW9kZT4KCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJPC9wbHVnaW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PreferConsistent</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>PreferConsistent</text>
       </register>
       <register name="/" type="4">
         <text>attach-distribution</text>
