@@ -7,6 +7,12 @@
         <mark key="[" line="396" column="0" />
         <mark key="]" line="400" column="21" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1563180679051">
+        <mark key="'" line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tg/tsg-rt/pom.xml" timestamp="1563441333590">
+        <mark key="'" line="37" column="46" />
+      </file>
       <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/common/Topic.java" timestamp="1563500967017" />
       <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1563461215605">
         <mark key="'" line="120" column="21" />
@@ -16,18 +22,49 @@
         <mark key="^" line="102" column="26" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/JdbcPool.scala" timestamp="1563439751379" />
+      <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" timestamp="1563506612037">
+        <mark key="'" line="17" column="28" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-fota/pom.xml" timestamp="1563460805702">
         <mark key="'" line="16" column="36" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ericsson/csp/csp-key-tool/0.0.1-SNAPSHOT/csp-key-tool-0.0.1-SNAPSHOT.jar!/META-INF/MANIFEST.MF" timestamp="1563443229512" />
+      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1563342477687">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/JodisPoolWrap.scala" timestamp="1563439680394" />
+      <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/resources/app.properties" timestamp="1563450680860">
+        <mark key="'" line="35" column="56" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/test/resources/applicationContext-test-dubbo.xml" timestamp="1563452153476" />
       <file name="$USER_HOME$/code/lbs_stream/sbin/submit-local.sh" timestamp="1563439424793" />
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/GeoFenceNewExecServiceImpl.java" timestamp="1563509140749">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/ui/MQTTFrame.java" timestamp="1563501017533" />
-      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/app.properties" timestamp="1563452081629">
-        <mark key="'" line="37" column="61" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/pom.xml" timestamp="1563416749538">
+        <mark key="'" line="78" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/application.properties" timestamp="1563277088939">
+        <mark key="'" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/pom.xml" timestamp="1563091096324">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1562561918902">
+        <mark key="'" line="91" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1563343858179">
+        <mark key="'" line="7" column="0" />
+      </file>
+      <file name="/GeoFenceNewExecServiceImpl.java" timestamp="1563508750041" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/UserSessionCacheServiceRedisImpl.java" timestamp="1563434986157">
+        <mark key="'" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/code/tg/esb_lib/Geely-EsbAPI-1.0.2.jar!/META-INF/MANIFEST.MF" timestamp="1563443103938" />
       <file name="$USER_HOME$/code/tg/tsg-pki/log4j.properties" timestamp="1563438363166" />
@@ -39,17 +76,18 @@
       </file>
       <file name="$USER_HOME$/code/tsc/misc/mqtt-client/mqtt.properties" timestamp="1563500837971" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/assembly/default.xml" timestamp="1563499408399" />
+      <file name="$USER_HOME$/code/tc/JDDeliveryTCAccess/src/main/java/com/ericsson/csp/tc/service/impl/DeliveryAccountServiceImpl.java" timestamp="1563172100184">
+        <mark key="'" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" timestamp="1563173124495">
+        <mark key="'" line="45" column="8" />
+      </file>
       <file name="$USER_HOME$/code/tsc/misc/mqtt-client/mqtt-sample.properties" timestamp="1563500888510" />
       <file name="/fragment.java" timestamp="1563461347066">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="30" filename="$USER_HOME$/code/tc/JDDeliveryTCAccess/src/main/java/com/ericsson/csp/tc/service/impl/DeliveryAccountServiceImpl.java" />
-      <jump line="20" column="42" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" />
-      <jump line="22" column="79" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" />
-      <jump line="23" column="45" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" />
-      <jump line="45" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" />
       <jump line="65" column="22" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryStatus.java" />
       <jump line="69" column="2" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/entity/TscDeliveryError.java" />
       <jump line="109" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" />
@@ -145,55 +183,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/streaming/pom.xml" />
       <jump line="98" column="21" filename="$USER_HOME$/code/streaming/pom.xml" />
       <jump line="16" column="36" filename="$USER_HOME$/code/tsc/tsc-fota/pom.xml" />
+      <jump line="126" column="34" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/GeoFenceNewExecServiceImpl.java" />
+      <jump line="174" column="18" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/GeoFenceNewExecServiceImpl.java" />
+      <jump line="112" column="16" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/GeoFenceNewExecServiceImpl.java" />
+      <jump line="17" column="28" filename="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" />
+      <jump line="66" column="12" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/GeoFenceNewExecServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZW9GZW5jZU5ldy5nZXQnJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>maven.compiler.source</text>
+        <text>vehicleP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5pby5jb2Rpcy5qb2RpczwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+am9kaXM8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjAuMy4xPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNsdXN0ZXIgPSBuZXcgSmVkaXNDbHVzdGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBnZW9GZW5jZU5ldy5nZXQnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxyZXBvc2l0b3J5PgogICAgICA8aWQ+YWxpbWF2ZW48L2lkPgogICAgICA8bmFtZT5hbGl5dW4gbWF2ZW48L25hbWU+CiAgICAgIDx1cmw+aHR0cDovL21hdmVuLmFsaXl1bi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgogICAgPC9yZXBvc2l0b3J5Pgo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGNsdXN0ZXIgPSBuZXcgSmVkaXNDbHVzdGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3J5PgogICAgICA8aWQ+YWxpbWF2ZW48L2lkPgogICAgICA8bmFtZT5hbGl5dW4gbWF2ZW48L25hbWU+CiAgICAgIDx1cmw+aHR0cDovL21hdmVuLmFsaXl1bi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLzwvdXJsPgogICAgPC9yZXBvc2l0b3J5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPG1pcnJvck9mPmNlbnRyYWw8L21pcnJvck9mPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jM3AwPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5jM3AwPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4wLjkuMS4yPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgoK</text>
+        <text encoding="base64">ICAgICAgPG1pcnJvck9mPmNlbnRyYWw8L21pcnJvck9mPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+R2VlbHlFc2JBUEk8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmVzYi5hcGk8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuMDwvdmVyc2lvbj4KCQkJPHNjb3BlPnN5c3RlbTwvc2NvcGU+CgkJCTxzeXN0ZW1QYXRoPiR7cHJvamVjdC5iYXNlZGlyfS8uLi9lc2JfbGliL0dlZWx5LUVzYkFQSS0xLjAuMi5qYXI8L3N5c3RlbVBhdGg+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jM3AwPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5jM3AwPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4wLjkuMS4yPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nNGoubG9nZ2VyLgo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+R2VlbHlFc2JBUEk8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmVzYi5hcGk8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuMDwvdmVyc2lvbj4KCQkJPHNjb3BlPnN5c3RlbTwvc2NvcGU+CgkJCTxzeXN0ZW1QYXRoPiR7cHJvamVjdC5iYXNlZGlyfS8uLi9lc2JfbGliL0dlZWx5LUVzYkFQSS0xLjAuMi5qYXI8L3N5c3RlbVBhdGg+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">bG9nNGoubG9nZ2VyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFwcENvbmZpZ3VyYXRpb24uc2FkZgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maven.compiler.source</last-search>
+      <last-search>vehicleP</last-search>
       <last-offset />
-      <last-pattern>maven.compiler.source</last-pattern>
+      <last-pattern>vehicleP</last-pattern>
       <last-replace>${spark.version}</last-replace>
       <last-substitute>2.4.2</last-substitute>
       <last-dir>1</last-dir>
@@ -201,10 +244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logback</entry>
-        <entry>2.4.2</entry>
-        <entry>jboss.versio</entry>
-        <entry>jar</entry>
         <entry>ass</entry>
         <entry>assem</entry>
         <entry>asse</entry>
@@ -221,6 +260,10 @@
         <entry>vds</entry>
         <entry>depen</entry>
         <entry>maven.compiler.source</entry>
+        <entry>isCurrentPositionOutOfCircle</entry>
+        <entry>comparePosition</entry>
+        <entry>RWS</entry>
+        <entry>vehicleP</entry>
       </history-search>
       <history-cmd>
         <entry>34</entry>
