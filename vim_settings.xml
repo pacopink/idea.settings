@@ -3,31 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/AccountController.java" timestamp="1563199770639">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="17" />
-        <mark key="." line="26" column="24" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1563459215344">
         <mark key="[" line="396" column="0" />
         <mark key="]" line="400" column="21" />
       </file>
-      <file name="$USER_HOME$/code/spark/bin/submit-local.sh" timestamp="1563433696670">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/cassandra/CassandraInstance.java" timestamp="1563180679051">
-        <mark key="'" line="109" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-rt/pom.xml" timestamp="1563441333590">
-        <mark key="'" line="37" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-base.xml" timestamp="1563343427922">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/common/Topic.java" timestamp="1563500967017" />
       <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1563461215605">
         <mark key="'" line="120" column="21" />
         <mark key="[" line="103" column="15" />
@@ -36,122 +16,30 @@
         <mark key="^" line="102" column="26" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/JdbcPool.scala" timestamp="1563439751379" />
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryPosition.java" timestamp="1563240771825">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/CertificateRequestServiceMock.java" timestamp="1563346054879">
-        <mark key="[" line="45" column="11" />
-        <mark key="]" line="45" column="11" />
-        <mark key="." line="45" column="11" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-fota/pom.xml" timestamp="1563460805702">
         <mark key="'" line="16" column="36" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/ericsson/csp/csp-key-tool/0.0.1-SNAPSHOT/csp-key-tool-0.0.1-SNAPSHOT.jar!/META-INF/MANIFEST.MF" timestamp="1563443229512" />
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1563342477687">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/JodisPoolWrap.scala" timestamp="1563439680394" />
-      <file name="$USER_HOME$/code/spark/bin/env.sh" timestamp="1563433346130">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/resources/app.properties" timestamp="1563450680860">
-        <mark key="'" line="35" column="56" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/test/resources/applicationContext-test-dubbo.xml" timestamp="1563452153476" />
       <file name="$USER_HOME$/code/lbs_stream/sbin/submit-local.sh" timestamp="1563439424793" />
-      <file name="$USER_HOME$/code/tsc/tsc-service/pom.xml" timestamp="1563416749538">
-        <mark key="'" line="78" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/application.properties" timestamp="1563277088939">
-        <mark key="'" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/pom.xml" timestamp="1563091096324">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/impl/UserSessionInternalServiceImpl.java" timestamp="1562561918902">
-        <mark key="'" line="91" column="36" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1563343858179">
-        <mark key="'" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/spark/src/test/scala/com/ericsson/csp/bigdata/MyTest.scala" timestamp="1563371770747">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/ui/MQTTFrame.java" timestamp="1563501017533" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/resources/app.properties" timestamp="1563452081629">
         <mark key="'" line="37" column="61" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/UserSessionCacheServiceRedisImpl.java" timestamp="1563434986157">
-        <mark key="'" line="26" column="50" />
-      </file>
       <file name="$USER_HOME$/code/tg/esb_lib/Geely-EsbAPI-1.0.2.jar!/META-INF/MANIFEST.MF" timestamp="1563443103938" />
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/java/com/ericsson/csp/tsc/delivery/DeliveryTester.java" timestamp="1563346381197">
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="65" />
-        <mark key="." line="21" column="65" />
-      </file>
       <file name="$USER_HOME$/code/tg/tsg-pki/log4j.properties" timestamp="1563438363166" />
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/redis/RedisNodeSet.java" timestamp="1563346073959">
-        <mark key="[" line="10" column="78" />
-        <mark key="]" line="10" column="78" />
-        <mark key="." line="10" column="78" />
-      </file>
       <file name="$USER_HOME$/code/streaming/src/assembly/default.xml" timestamp="1563437836762" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcUserSessionServiceImpl.java" timestamp="1563431980932">
-        <mark key="[" line="155" column="14" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/target/test-classes/app.properties" timestamp="1563342782843">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/ShardedRedisPoolWrapper.scala" timestamp="1563460488401">
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/auth/jwt/JWTUtils.java" timestamp="1563167296998">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563444072502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/redis/service/impl/DistributedMutextLockSpringDataRedisImpl.java" timestamp="1563346028959">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/cassandra/CassandraInstanceFullTest.java" timestamp="1563346083809">
-        <mark key="[" line="68" column="63" />
-        <mark key="]" line="68" column="63" />
-        <mark key="." line="68" column="63" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/mqtt.properties" timestamp="1563500837971" />
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/assembly/default.xml" timestamp="1563499408399" />
-      <file name="$USER_HOME$/code/tc/JDDeliveryTCAccess/src/main/java/com/ericsson/csp/tc/service/impl/DeliveryAccountServiceImpl.java" timestamp="1563172100184">
-        <mark key="'" line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1563168368008">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/delivery/impl/TcDeliveryCarLocatingServiceImpl.java" timestamp="1563173124495">
-        <mark key="'" line="45" column="8" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/mqtt-sample.properties" timestamp="1563500888510" />
       <file name="/fragment.java" timestamp="1563461347066">
         <mark key="[" line="0" column="0" />
       </file>
