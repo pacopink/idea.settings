@@ -85,7 +85,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/test/resources/spring-config/applicationContext-redis.xml" timestamp="1563343858179">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/example/VDS.sc" timestamp="1563518889132">
+      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/example/VDS.sc" timestamp="1563529195175">
         <mark key="[" line="16" column="58" />
         <mark key="]" line="16" column="57" />
         <mark key="." line="16" column="57" />
