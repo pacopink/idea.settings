@@ -12,13 +12,6 @@
       <file name="/tscdb.public.tsc_vehicle_mat_model [tscdb@aws.test]" timestamp="1563758187814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/streaming/doc/RVS.json" timestamp="1563609675992">
-        <mark key="'" line="30" column="26" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="63" column="28" />
-        <mark key="^" line="30" column="26" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tg/tsg-common/pom.xml" timestamp="1563442765560">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="27" column="21" />
@@ -40,13 +33,6 @@
       </file>
       <file name="/tscdb.public.tsc_vehicle_platform [tscdb@aws.test]" timestamp="1563758194086">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1563609797114">
-        <mark key="'" line="35" column="16" />
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="84" />
-        <mark key="." line="39" column="84" />
-        <mark key="^" line="39" column="84" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/FieldReflectOps.java" timestamp="1563775122335">
         <mark key="[" line="61" column="0" />
@@ -85,6 +71,7 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="12" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/vehicle/entity/BatteryStatus.java" timestamp="1563781741098" />
       <file name="/dummy.sql" timestamp="1563758331590">
         <mark key="[" line="0" column="0" />
       </file>
