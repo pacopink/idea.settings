@@ -10,21 +10,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="79" />
       </file>
-      <file name="/tscdb.public.tsc_vehicle_mat_model [tscdb@aws.test]" timestamp="1563758187814">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/streaming/doc/RVS.json" timestamp="1563789792783">
         <mark key="'" line="30" column="26" />
         <mark key="[" line="30" column="26" />
         <mark key="]" line="30" column="26" />
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="26" />
-      </file>
-      <file name="/tscdb.public.tsc_vehicle_model [tscdb@aws.test]" timestamp="1563758180178">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb.public.tsc_vehicle_platform [tscdb@aws.test]" timestamp="1563758194086">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1563790435162">
         <mark key="'" line="35" column="16" />
@@ -42,9 +33,6 @@
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/JournalLogServiceImpl.java" timestamp="1563759400863">
         <mark key="'" line="187" column="12" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/vehicle/entity/AdditionalVehicleStatus.java" timestamp="1563586522900">
-        <mark key="[" line="137" column="5" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/vds/correction/VdsSignalCorrectionServiceImpl.java" timestamp="1563779464986">
         <mark key="'" line="223" column="27" />
       </file>
@@ -52,19 +40,10 @@
         <mark key="'" line="233" column="33" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/vehicle/entity/BatteryStatus.java" timestamp="1563781741098" />
-      <file name="/dummy.sql" timestamp="1563758331590">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb.public.tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1563758051331">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" timestamp="1563846947107">
         <mark key="'" line="216" column="31" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/vehicle/entity/BasicVehicleStatus.java" timestamp="1563790038038" />
-      <file name="/tscdb.public.tsc_vehicle_profile [tscdb@aws.test]" timestamp="1563758330617">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/pom.xml" timestamp="1563784379639" />
       <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1563775101081">
         <mark key="'" line="130" column="21" />
