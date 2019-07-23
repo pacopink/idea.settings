@@ -30,15 +30,26 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tg/tsg-mes/deprecated.md" timestamp="1563852207074">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1563852980972" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/JournalLogServiceImpl.java" timestamp="1563759400863">
         <mark key="'" line="187" column="12" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/vds/correction/VdsSignalCorrectionServiceImpl.java" timestamp="1563779464986">
         <mark key="'" line="223" column="27" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-parent/pom.xml" timestamp="1563853984605">
+        <mark key="'" line="234" column="28" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/vds/correction/VdsCorrectionUtil.java" timestamp="1563787699869">
         <mark key="'" line="233" column="33" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/pom.xml" timestamp="1563853956077" />
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/vehicle/entity/BatteryStatus.java" timestamp="1563781741098" />
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" timestamp="1563846947107">
         <mark key="'" line="216" column="31" />
@@ -62,9 +73,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="39" column="32" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="40" column="33" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/app.properties" />
       <jump line="2" column="0" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/app.properties" />
       <jump line="30" column="46" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" />
@@ -162,13 +170,16 @@
       <jump line="263" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="216" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="10" column="14" filename="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/FieldReflectOps.java" />
+      <jump line="9" column="20" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
+      <jump line="233" column="25" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
+      <jump line="234" column="28" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob28gPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">d2l0aCA=</text>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text encoding="base64">d2l0aCA=</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
@@ -204,7 +215,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>83</text>
       </register>
     </registers>
     <search>
@@ -218,9 +229,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mani</entry>
-        <entry>disp</entry>
-        <entry>mqtt</entry>
         <entry>uplink</entry>
         <entry>vds</entry>
         <entry>depen</entry>
@@ -237,10 +245,12 @@
         <entry>signalFormula</entry>
         <entry>formula</entry>
         <entry>getInvalid</entry>
+        <entry>BaseService call the</entry>
+        <entry>msdp_search_url</entry>
+        <entry>Response JSON</entry>
         <entry>post</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2UuZ2V0VmFsdWUoKS91c2kvZw==</entry>
         <entry>%s/LOGGER/log/g</entry>
         <entry>71</entry>
         <entry>%s/ignite/redis/g</entry>
@@ -260,6 +270,7 @@
         <entry>18</entry>
         <entry>:w</entry>
         <entry>w</entry>
+        <entry>83</entry>
       </history-cmd>
       <history-expr />
       <history-input />
