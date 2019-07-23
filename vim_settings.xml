@@ -51,6 +51,13 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/pom.xml" timestamp="1563853956077" />
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/vehicle/entity/BatteryStatus.java" timestamp="1563781741098" />
+      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/TscDeliveryOrderServiceImpl.java" timestamp="1563858046301">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="86" column="63" />
+        <mark key="]" line="86" column="62" />
+        <mark key="." line="86" column="62" />
+        <mark key="^" line="86" column="62" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" timestamp="1563846947107">
         <mark key="'" line="216" column="31" />
       </file>
@@ -73,7 +80,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/app.properties" />
       <jump line="2" column="0" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/app.properties" />
       <jump line="30" column="46" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/spring-config/applicationContext-bean.xml" />
       <jump line="87" column="0" filename="$USER_HOME$/code/tsc/tsc-event-handler/src/main/resources/app.properties" />
@@ -173,19 +179,20 @@
       <jump line="9" column="20" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
       <jump line="233" column="25" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
       <jump line="234" column="28" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/TscDeliveryOrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2l0aCA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRWYWx1ZUV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAob3JkZXJTdGF0dXNMaXN0LmdldChpKS5nZXRDcmVhdGVUaW1lKCkuZ2V0VGltZSgpICE9IG9yZGVyU3RhdHVzTGlzdC5nZXQoaSArIDEpLmdldENyZWF0ZVRpbWUoKS5nZXRUaW1lKCkpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAob28gPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9Cg==</text>
