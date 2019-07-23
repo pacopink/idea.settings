@@ -22,6 +22,7 @@
         <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1563852980972" />
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/impl/TscDeliveryOrderDaoImpl.java" timestamp="1563863803496" />
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/example/VDS.sc" timestamp="1563587459707">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="34" column="3" />
