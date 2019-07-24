@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1563933396553">
+        <mark key="'" line="522" column="45" />
+      </file>
       <file name="$USER_HOME$/code/streaming/src/main/resources/logback.xml" timestamp="1563437866303">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="33" />
@@ -103,6 +106,7 @@
         <mark key="^" line="114" column="71" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/IhuQRLoginServiceImpl.java" timestamp="1563929950318" />
       <file name="/Dummy.txt" timestamp="1563862954405">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,21 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="31" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="12" column="29" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="44" column="21" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="45" column="24" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="363" column="25" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="32" column="15" filename="$USER_HOME$/code/spark/pom.xml" />
-      <jump line="67" column="14" filename="$USER_HOME$/code/spark/pom.xml" />
-      <jump line="7" column="19" filename="$USER_HOME$/code/spark/pom.xml" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/spark/pom.xml" />
-      <jump line="27" column="23" filename="$USER_HOME$/code/spark/pom.xml" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/spark/pom.xml" />
-      <jump line="19" column="36" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="262" column="76" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="259" column="62" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
-      <jump line="77" column="35" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
       <jump line="78" column="25" filename="$USER_HOME$/code/tsc/tsc-service/pom.xml" />
       <jump line="16" column="19" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
       <jump line="337" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
@@ -222,6 +211,21 @@
       <jump line="54" column="25" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="55" column="24" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="56" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
+      <jump line="58" column="13" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="315" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="307" column="52" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="102" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="564" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="192" column="20" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="244" column="41" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="250" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="260" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="291" column="8" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="155" column="81" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="540" column="56" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="521" column="22" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="297" column="30" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
+      <jump line="522" column="45" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -231,7 +235,7 @@
         <text encoding="base64">bmV3IEFycmF5TGlzdDxEZWxpdmVyeU9yZGVyU3RhdHVzPigwKSk7</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>userSessionBuilder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
@@ -268,9 +272,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>userSessionBuilder</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>userSessionBuilder</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -278,14 +282,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tsc-common</entry>
-        <entry>catch</entry>
-        <entry>:*$</entry>
-        <entry>:.*$</entry>
-        <entry>signalFormula</entry>
-        <entry>formula</entry>
-        <entry>getInvalid</entry>
-        <entry>BaseService call the</entry>
         <entry>msdp_search_url</entry>
         <entry>Response JSON</entry>
         <entry>post</entry>
@@ -298,6 +294,14 @@
         <entry>PLACE_HODLER</entry>
         <entry>jackson</entry>
         <entry>spring</entry>
+        <entry>login user</entry>
+        <entry>save user session end</entry>
+        <entry>CMA</entry>
+        <entry>get token from wso2</entry>
+        <entry>wso</entry>
+        <entry>OAuth</entry>
+        <entry>create user session</entry>
+        <entry>userSessionBuilder</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LOGGER/log/g</entry>
