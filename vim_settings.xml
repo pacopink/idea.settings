@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1563933396553">
-        <mark key="'" line="522" column="45" />
+        <mark key="'" line="527" column="45" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/main/resources/logback.xml" timestamp="1563437866303">
         <mark key="[" line="9" column="18" />
@@ -238,7 +238,7 @@
         <text encoding="base64">bmV3IEFycmF5TGlzdDxEZWxpdmVyeU9yZGVyU3RhdHVzPigwKSk7</text>
       </register>
       <register name="/" type="4">
-        <text>MCP</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
@@ -275,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MCP</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>MCP</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -285,7 +285,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Response JSON</entry>
         <entry>post</entry>
         <entry>spring.version</entry>
         <entry>5.1.5</entry>
@@ -305,6 +304,7 @@
         <entry>create user session</entry>
         <entry>userSessionBuilder</entry>
         <entry>MCP</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>%s/LOGGER/log/g</entry>
