@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1563933396553">
-        <mark key="'" line="527" column="45" />
+        <mark key="'" line="522" column="45" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/main/resources/logback.xml" timestamp="1563437866303">
         <mark key="[" line="9" column="18" />
