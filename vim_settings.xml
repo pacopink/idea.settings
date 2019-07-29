@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/fota/service/impl/CspOtaFirmwareExtUplinkServiceImpl.java" timestamp="1564372529428" />
+      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/fota/service/impl/CspOtaFirmwareExtUplinkServiceImpl.java" timestamp="1564373407489">
+        <mark key="[" line="198" column="110" />
+        <mark key="]" line="199" column="15" />
+        <mark key="^" line="199" column="15" />
+        <mark key="." line="199" column="15" />
+      </file>
       <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" timestamp="1563860407721">
         <mark key="[" line="111" column="58" />
         <mark key="]" line="113" column="12" />
@@ -34,6 +39,7 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1564373535456" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/impl/TscDeliveryOrderDaoImpl.java" timestamp="1563866545073">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="80" column="0" />
@@ -80,7 +86,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" timestamp="1563846947107">
         <mark key="'" line="216" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564371736615">
+      <file name="/Dummy.txt" timestamp="1564373596022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -226,48 +232,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1. 优化TscDeliveryOrderServiceImpl, 根据sonarlint告警，处理了一些隐患, 一些magic number提取成常量
-2. 重新code format TscDeliveryCarLocatingServiceImpl.java和TscDeliveryOrderServiceImpl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxEZWxpdmVyeU9yZGVyU3RhdHVzPigwKSk7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBib29sZWFuIGludmFsaWRWZXJzaW9uID0gZmFsc2U7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBvdXQuZ2V0RnJvbVZlcnNpb25Db2RlKCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoY3NwT3RhRmlybXdhcmVFeHQuZ2V0VmVyc2lvbkNvZGUoKSE9bnVsbCAmJiBjc3BPdGFGaXJtd2FyZUV4dC5nZXRWZXJzaW9uQ29kZSgpLmVxdWFscyhvdXQuZ2V0VG9WZXJzaW9uQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnZhbGlkVmVyc2lvbiA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG91dC5nZXRUb1ZlcnNpb24oKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGludmFsaWRWZXJzaW9uID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>1. 优化TscDeliveryOrderServiceImpl, 根据sonarlint告警，处理了一些隐患, 一些magic number提取成常量
 2. 重新code format TscDeliveryCarLocatingServiceImpl.java和TscDeliveryOrderServiceImpl</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CTx4eHg+CgkJPGRmZD4KCQkJCgkJPC9kZmQ+Cgk8L3h4eD4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIEBPdgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldFF1ZXJ5U3FsKFN0cmluZyBjb25kaXRpb25zKSB7CiAgICAgICAgCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uamF2YWZ4LlVubW9kaWZpYWJsZUFycmF5TGlzdDsK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>452</text>
       </register>
     </registers>
     <search>
@@ -303,7 +308,6 @@
         <entry>cache</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/LOGGER/log/g</entry>
         <entry>71</entry>
         <entry>%s/ignite/redis/g</entry>
         <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
@@ -321,8 +325,9 @@
         <entry>18</entry>
         <entry>:w</entry>
         <entry>83</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
+        <entry>452</entry>
       </history-cmd>
       <history-expr />
       <history-input />
