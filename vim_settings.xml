@@ -10,35 +10,17 @@
         <mark key="." line="199" column="15" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" timestamp="1564394386894" />
-      <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" timestamp="1563860407721">
-        <mark key="[" line="111" column="58" />
-        <mark key="]" line="113" column="12" />
-        <mark key="." line="113" column="12" />
-        <mark key="^" line="113" column="12" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1564123633427">
         <mark key="'" line="235" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" timestamp="1563933396553">
         <mark key="'" line="527" column="45" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/main/resources/logback.xml" timestamp="1563437866303">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-      </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/FieldReflectOps.java" timestamp="1563889863274">
         <mark key="'" line="10" column="14" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tg/tsg-mes/deprecated.md" timestamp="1563852207074">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="26" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1564373535456" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/impl/TscDeliveryOrderDaoImpl.java" timestamp="1563866545073">
@@ -50,39 +32,17 @@
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/JournalLogServiceImpl.java" timestamp="1563759400863">
         <mark key="'" line="187" column="12" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/example/VDS.sc" timestamp="1563587459707">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="39" column="21" />
-        <mark key="^" line="39" column="21" />
-      </file>
-      <file name="$USER_HOME$/code/streaming/src/main/resources/log4j.properties" timestamp="1563438482899">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/vds/correction/VdsSignalCorrectionServiceImpl.java" timestamp="1563779464986">
         <mark key="'" line="223" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" timestamp="1564457158920">
+        <mark key="'" line="47" column="42" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-parent/pom.xml" timestamp="1563853984605">
         <mark key="'" line="234" column="28" />
       </file>
-      <file name="$USER_HOME$/code/streaming/bin/submit-yarn.sh" timestamp="1563436663947">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/vds/correction/VdsCorrectionUtil.java" timestamp="1563787699869">
         <mark key="'" line="233" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/TscDeliveryOrderServiceImpl.java" timestamp="1563862801171">
-        <mark key="'" line="11" column="21" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="114" column="71" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" timestamp="1563846947107">
         <mark key="'" line="216" column="31" />
@@ -92,12 +52,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/flink/flink-examples/flink-examples-streaming/src/main/scala/org/apache/flink/streaming/scala/examples/windowing/TopSpeedWindowing.scala" timestamp="1563718434126">
-        <mark key="[" line="107" column="60" />
-        <mark key="]" line="107" column="67" />
-        <mark key="." line="107" column="67" />
-        <mark key="^" line="107" column="67" />
-      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/redis/UserSessionCacheServiceRedisImpl.java" timestamp="1564457111838" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1564455416664">
         <mark key="'" line="588" column="19" />
         <mark key="[" line="445" column="0" />
@@ -110,20 +65,8 @@
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/service/impl/VehicleHistoryStatusServiceImpl.java" timestamp="1563759427901">
         <mark key="'" line="697" column="47" />
       </file>
-      <file name="$USER_HOME$/code/tg/pom.xml" timestamp="1563860628484">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="29" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-tem/pom.xml" timestamp="1564368369627">
         <mark key="'" line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/JwtTokenUtil.java" timestamp="1563436528034">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" timestamp="1563860590133">
         <mark key="'" line="8" column="41" />
@@ -134,10 +77,9 @@
         <mark key="]" line="286" column="26" />
         <mark key="." line="286" column="26" />
       </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/JWTValidationService.java" timestamp="1564456858278" />
     </filemarks>
     <jumps>
-      <jump line="348" column="30" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" />
       <jump line="69" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" />
       <jump line="25" column="73" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" />
       <jump line="57" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" />
@@ -236,6 +178,8 @@
       <jump line="235" column="0" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
       <jump line="37" column="0" filename="$USER_HOME$/code/tsc/tsc-tem/pom.xml" />
       <jump line="635" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
+      <jump line="45" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
+      <jump line="47" column="42" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -245,7 +189,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stru</text>
+        <text>redisTemplate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwo=</text>
@@ -282,9 +226,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stru</last-search>
+      <last-search>redisTemplate</last-search>
       <last-offset />
-      <last-pattern>stru</last-pattern>
+      <last-pattern>redisTemplate</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -292,7 +236,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spring.version</entry>
         <entry>5.1.5</entry>
         <entry>spring-web</entry>
         <entry>setLongi</entry>
@@ -312,6 +255,7 @@
         <entry>MCP</entry>
         <entry>cache</entry>
         <entry>stru</entry>
+        <entry>redisTemplate</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
