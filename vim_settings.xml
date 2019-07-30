@@ -87,7 +87,7 @@
       <file name="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" timestamp="1563846947107">
         <mark key="'" line="216" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564373596022">
+      <file name="/Dummy.txt" timestamp="1564455714513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -97,6 +97,12 @@
         <mark key="]" line="107" column="67" />
         <mark key="." line="107" column="67" />
         <mark key="^" line="107" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1564455416664">
+        <mark key="'" line="588" column="19" />
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="0" />
+        <mark key="." line="445" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1563874138154">
         <mark key="'" line="154" column="33" />
@@ -130,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
       <jump line="348" column="30" filename="$USER_HOME$/code/tg/tsg-mes-collector/pom.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" />
       <jump line="69" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/tservices/impl/TcRemoteControlServiceImpl.java" />
@@ -230,56 +235,56 @@
       <jump line="522" column="45" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="235" column="0" filename="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" />
       <jump line="37" column="0" filename="$USER_HOME$/code/tsc/tsc-tem/pom.xml" />
+      <jump line="635" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkgIAkJCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>stru</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBib29sZWFuIGludmFsaWRWZXJzaW9uID0gZmFsc2U7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBvdXQuZ2V0RnJvbVZlcnNpb25Db2RlKCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoY3NwT3RhRmlybXdhcmVFeHQuZ2V0VmVyc2lvbkNvZGUoKSE9bnVsbCAmJiBjc3BPdGFGaXJtd2FyZUV4dC5nZXRWZXJzaW9uQ29kZSgpLmVxdWFscyhvdXQuZ2V0VG9WZXJzaW9uQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnZhbGlkVmVyc2lvbiA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG91dC5nZXRUb1ZlcnNpb24oKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGludmFsaWRWZXJzaW9uID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkgIAkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS0gU3RydXRzIDIgLS0+CiAgICAgICAgICA8IS0tCiAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0cy54d29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD54d29yay1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xNS4xPC92ZXJzaW9uPgogICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YXNzaXN0PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXNzaXN0PC9ncm91cElkPgogICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+CiAgICAgICAgICA8L2RlcGVuZGVuY3k+CgoJCSAgPGRlcGVuZGVuY3k+CgkJICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+CgkJICAgPGFydGlmYWN0SWQ+c3RydXRzMi1jb3JlPC9hcnRpZmFjdElkPgoJCSAgIDx2ZXJzaW9uPiR7c3RydXRzVmVyc2lvbn08L3ZlcnNpb24+CgkJICAgPGV4Y2x1c2lvbnM+CgkJICAgCSA8ZXhjbHVzaW9uPgoJCQkJPGFydGlmYWN0SWQ+amF2YXNzaXN0PC9hcnRpZmFjdElkPgoJCQkJCTxncm91cElkPmphdmFzc2lzdDwvZ3JvdXBJZD4KCQkJIDwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+CgkJICA8L2RlcGVuZGVuY3k+CgkJCgkJICA8ZGVwZW5kZW5jeT4KCQkgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0czwvZ3JvdXBJZD4KCQkgICA8YXJ0aWZhY3RJZD5zdHJ1dHMyLXNpdGVtZXNoLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkgICA8dmVyc2lvbj4ke3N0cnV0c1ZlcnNpb259PC92ZXJzaW9uPgoJCSAgPC9kZXBlbmRlbmN5PgoJCQoJCSAgPGRlcGVuZGVuY3k+CgkJICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+CgkJICAgPGFydGlmYWN0SWQ+c3RydXRzMi1zcHJpbmctcGx1Z2luPC9hcnRpZmFjdElkPgoJCSAgIDx2ZXJzaW9uPiR7c3RydXRzVmVyc2lvbn08L3ZlcnNpb24+CgkJICA8L2RlcGVuZGVuY3k+CgkJCgkJICA8ZGVwZW5kZW5jeT4KCQkgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0czwvZ3JvdXBJZD4KCQkgICA8YXJ0aWZhY3RJZD5zdHJ1dHMyLWNvbmZpZy1icm93c2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkgICA8dmVyc2lvbj4ke3N0cnV0c1ZlcnNpb259PC92ZXJzaW9uPgoJCSAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBib29sZWFuIGludmFsaWRWZXJzaW9uID0gZmFsc2U7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBvdXQuZ2V0RnJvbVZlcnNpb25Db2RlKCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoY3NwT3RhRmlybXdhcmVFeHQuZ2V0VmVyc2lvbkNvZGUoKSE9bnVsbCAmJiBjc3BPdGFGaXJtd2FyZUV4dC5nZXRWZXJzaW9uQ29kZSgpLmVxdWFscyhvdXQuZ2V0VG9WZXJzaW9uQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnZhbGlkVmVyc2lvbiA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG91dC5nZXRUb1ZlcnNpb24oKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGludmFsaWRWZXJzaW9uID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>1. 优化TscDeliveryOrderServiceImpl, 根据sonarlint告警，处理了一些隐患, 一些magic number提取成常量
-2. 重新code format TscDeliveryCarLocatingServiceImpl.java和TscDeliveryOrderServiceImpl</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTx4eHg+CgkJPGRmZD4KCQkJCgkJPC9kZmQ+Cgk8L3h4eD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>452</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>stru</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>stru</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -287,7 +292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
         <entry>spring.version</entry>
         <entry>5.1.5</entry>
         <entry>spring-web</entry>
@@ -307,6 +311,7 @@
         <entry>userSessionBuilder</entry>
         <entry>MCP</entry>
         <entry>cache</entry>
+        <entry>stru</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
@@ -327,8 +332,8 @@
         <entry>:w</entry>
         <entry>83</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>452</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
