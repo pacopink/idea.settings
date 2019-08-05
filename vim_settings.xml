@@ -3,12 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/fota/service/impl/CspOtaFirmwareExtUplinkServiceImpl.java" timestamp="1564373407489">
-        <mark key="[" line="198" column="110" />
-        <mark key="]" line="199" column="15" />
-        <mark key="^" line="199" column="15" />
-        <mark key="." line="199" column="15" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/java/com/ericsson/csp/tsc/schedule/interfaces/impl/CspSignCertificateDownlinkTask.java" timestamp="1564983549661" />
       <file name="$USER_HOME$/code/tsc/tsc-tem/src/main/java/com/ericsson/csp/tsc/tem/mcp/service/TemCertificateServiceImpl.java" timestamp="1564123633427">
         <mark key="'" line="235" column="0" />
       </file>
@@ -65,10 +60,15 @@
       <file name="/tscdb.public.tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1564930529405">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564455714513">
+      <file name="/Dummy.txt" timestamp="1564982055749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1564455416664">
         <mark key="'" line="588" column="19" />
@@ -98,6 +98,7 @@
         <mark key="]" line="286" column="26" />
         <mark key="." line="286" column="26" />
       </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/JWTValidationService.java" timestamp="1564983107436" />
     </filemarks>
     <jumps>
       <jump line="57" column="16" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/resources/app.properties" />
@@ -203,52 +204,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1cy1hbGl5dW48L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBhbGl5dW48L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL21hdmVuLmFsaXl1bi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cgo=</text>
+        <text encoding="base64">CQkvL0pXVFZhbGlkYXRpb25TZXJ2aWNlIGp3dFZhbGlkYXRpb25TZXJ2aWNlID0gbmV3IEpXVFZhbGlkYXRpb25TZXJ2aWNlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Format</text>
+        <text>new Jwt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5uZXh1cy1hbGl5dW48L2lkPgogICAgICAgICAgICA8bmFtZT5OZXh1cyBhbGl5dW48L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL21hdmVuLmFsaXl1bi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9yZXBvc2l0b3JpZXM+Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgIAkJCg==</text>
+        <text encoding="base64">CQkvL0pXVFZhbGlkYXRpb25TZXJ2aWNlIGp3dFZhbGlkYXRpb25TZXJ2aWNlID0gbmV3IEpXVFZhbGlkYXRpb25TZXJ2aWNlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">CQkgIAkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS0gU3RydXRzIDIgLS0+CiAgICAgICAgICA8IS0tCiAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0cy54d29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD54d29yay1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xNS4xPC92ZXJzaW9uPgogICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YXNzaXN0PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXNzaXN0PC9ncm91cElkPgogICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+CiAgICAgICAgICA8L2RlcGVuZGVuY3k+CgoJCSAgPGRlcGVuZGVuY3k+CgkJICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+CgkJICAgPGFydGlmYWN0SWQ+c3RydXRzMi1jb3JlPC9hcnRpZmFjdElkPgoJCSAgIDx2ZXJzaW9uPiR7c3RydXRzVmVyc2lvbn08L3ZlcnNpb24+CgkJICAgPGV4Y2x1c2lvbnM+CgkJICAgCSA8ZXhjbHVzaW9uPgoJCQkJPGFydGlmYWN0SWQ+amF2YXNzaXN0PC9hcnRpZmFjdElkPgoJCQkJCTxncm91cElkPmphdmFzc2lzdDwvZ3JvdXBJZD4KCQkJIDwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+CgkJICA8L2RlcGVuZGVuY3k+CgkJCgkJICA8ZGVwZW5kZW5jeT4KCQkgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0czwvZ3JvdXBJZD4KCQkgICA8YXJ0aWZhY3RJZD5zdHJ1dHMyLXNpdGVtZXNoLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkgICA8dmVyc2lvbj4ke3N0cnV0c1ZlcnNpb259PC92ZXJzaW9uPgoJCSAgPC9kZXBlbmRlbmN5PgoJCQoJCSAgPGRlcGVuZGVuY3k+CgkJICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+CgkJICAgPGFydGlmYWN0SWQ+c3RydXRzMi1zcHJpbmctcGx1Z2luPC9hcnRpZmFjdElkPgoJCSAgIDx2ZXJzaW9uPiR7c3RydXRzVmVyc2lvbn08L3ZlcnNpb24+CgkJICA8L2RlcGVuZGVuY3k+CgkJCgkJICA8ZGVwZW5kZW5jeT4KCQkgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0czwvZ3JvdXBJZD4KCQkgICA8YXJ0aWZhY3RJZD5zdHJ1dHMyLWNvbmZpZy1icm93c2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkgICA8dmVyc2lvbj4ke3N0cnV0c1ZlcnNpb259PC92ZXJzaW9uPgoJCSAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgLS0+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBib29sZWFuIGludmFsaWRWZXJzaW9uID0gZmFsc2U7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBvdXQuZ2V0RnJvbVZlcnNpb25Db2RlKCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoY3NwT3RhRmlybXdhcmVFeHQuZ2V0VmVyc2lvbkNvZGUoKSE9bnVsbCAmJiBjc3BPdGFGaXJtd2FyZUV4dC5nZXRWZXJzaW9uQ29kZSgpLmVxdWFscyhvdXQuZ2V0VG9WZXJzaW9uQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnZhbGlkVmVyc2lvbiA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG91dC5nZXRUb1ZlcnNpb24oKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGludmFsaWRWZXJzaW9uID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS0gU3RydXRzIDIgLS0+CiAgICAgICAgICA8IS0tCiAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0cy54d29yazwvZ3JvdXBJZD4KICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD54d29yay1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xNS4xPC92ZXJzaW9uPgogICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICA8ZXhjbHVzaW9uPgogICAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YXNzaXN0PC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXNzaXN0PC9ncm91cElkPgogICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICA8L2V4Y2x1c2lvbnM+CiAgICAgICAgICA8L2RlcGVuZGVuY3k+CgoJCSAgPGRlcGVuZGVuY3k+CgkJICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+CgkJICAgPGFydGlmYWN0SWQ+c3RydXRzMi1jb3JlPC9hcnRpZmFjdElkPgoJCSAgIDx2ZXJzaW9uPiR7c3RydXRzVmVyc2lvbn08L3ZlcnNpb24+CgkJICAgPGV4Y2x1c2lvbnM+CgkJICAgCSA8ZXhjbHVzaW9uPgoJCQkJPGFydGlmYWN0SWQ+amF2YXNzaXN0PC9hcnRpZmFjdElkPgoJCQkJCTxncm91cElkPmphdmFzc2lzdDwvZ3JvdXBJZD4KCQkJIDwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+CgkJICA8L2RlcGVuZGVuY3k+CgkJCgkJICA8ZGVwZW5kZW5jeT4KCQkgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0czwvZ3JvdXBJZD4KCQkgICA8YXJ0aWZhY3RJZD5zdHJ1dHMyLXNpdGVtZXNoLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkgICA8dmVyc2lvbj4ke3N0cnV0c1ZlcnNpb259PC92ZXJzaW9uPgoJCSAgPC9kZXBlbmRlbmN5PgoJCQoJCSAgPGRlcGVuZGVuY3k+CgkJICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5zdHJ1dHM8L2dyb3VwSWQ+CgkJICAgPGFydGlmYWN0SWQ+c3RydXRzMi1zcHJpbmctcGx1Z2luPC9hcnRpZmFjdElkPgoJCSAgIDx2ZXJzaW9uPiR7c3RydXRzVmVyc2lvbn08L3ZlcnNpb24+CgkJICA8L2RlcGVuZGVuY3k+CgkJCgkJICA8ZGVwZW5kZW5jeT4KCQkgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnN0cnV0czwvZ3JvdXBJZD4KCQkgICA8YXJ0aWZhY3RJZD5zdHJ1dHMyLWNvbmZpZy1icm93c2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkgICA8dmVyc2lvbj4ke3N0cnV0c1ZlcnNpb259PC92ZXJzaW9uPgoJCSAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBib29sZWFuIGludmFsaWRWZXJzaW9uID0gZmFsc2U7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBvdXQuZ2V0RnJvbVZlcnNpb25Db2RlKCkpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoY3NwT3RhRmlybXdhcmVFeHQuZ2V0VmVyc2lvbkNvZGUoKSE9bnVsbCAmJiBjc3BPdGFGaXJtd2FyZUV4dC5nZXRWZXJzaW9uQ29kZSgpLmVxdWFscyhvdXQuZ2V0VG9WZXJzaW9uQ29kZSgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnZhbGlkVmVyc2lvbiA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKG91dC5nZXRUb1ZlcnNpb24oKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgaW52YWxpZFZlcnNpb24gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGludmFsaWRWZXJzaW9uID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNzcE90YUZpcm13YXJlRXh0LmdldFZlcnNpb25Db2RlKCkgPT0gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Format</last-search>
+      <last-search>new Jwt</last-search>
       <last-offset />
-      <last-pattern>Format</last-pattern>
+      <last-pattern>new Jwt</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setLong</entry>
         <entry>PLACE_HOLDER</entry>
         <entry>PLACE_HODLER</entry>
         <entry>jackson</entry>
@@ -276,6 +276,7 @@
         <entry>millisecond</entry>
         <entry>getFormatt</entry>
         <entry>Format</entry>
+        <entry>new Jwt</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
