@@ -55,10 +55,10 @@
       <file name="/tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1565053812215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565084817946">
-        <mark key="'" line="348" column="23" />
+      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565172046702">
+        <mark key="'" line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565083578230">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565172469146">
         <mark key="'" line="110" column="33" />
       </file>
       <file name="/tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565053809801">
@@ -79,7 +79,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="22" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="230" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="241" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="252" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
@@ -179,6 +178,7 @@
       <jump line="348" column="23" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" />
       <jump line="108" column="32" filename="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" />
+      <jump line="27" column="37" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -190,7 +190,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sendError</text>
+        <text>xstream_version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCJ3aGlsZSByZXNwb25kaW5nIG9yZGVySWQ6e30sIGV4Y2VwdGlvbiA6Iiwgb3JkZXJJZCwgZSk7CiAgICAgICAgICAgIH0K</text>
@@ -229,9 +229,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sendError</last-search>
+      <last-search>xstream_version</last-search>
       <last-offset />
-      <last-pattern>sendError</last-pattern>
+      <last-pattern>xstream_version</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -239,7 +239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wso</entry>
         <entry>OAuth</entry>
         <entry>create user session</entry>
         <entry>userSessionBuilder</entry>
@@ -259,6 +258,7 @@
         <entry>file.get</entry>
         <entry>xstream</entry>
         <entry>sendError</entry>
+        <entry>xstream_version</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
