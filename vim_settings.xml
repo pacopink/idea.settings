@@ -34,11 +34,11 @@
         <mark key="." line="61" column="23" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/VehicleRankingService.java" timestamp="1565251279194" />
-      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565244333461">
-        <mark key="[" line="118" column="17" />
-        <mark key="]" line="118" column="18" />
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565256024570">
+        <mark key="[" line="127" column="37" />
+        <mark key="]" line="127" column="37" />
         <mark key="^" line="119" column="12" />
-        <mark key="." line="118" column="18" />
+        <mark key="." line="127" column="37" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleRankingServiceImpl.java" timestamp="1565251494930" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
@@ -62,7 +62,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1565252860597">
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1565255353908">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
@@ -73,11 +73,11 @@
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565251081114">
         <mark key="'" line="27" column="37" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1565244475885">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="36" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="11" column="36" />
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1565257224847">
+        <mark key="[" line="24" column="56" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="59" />
+        <mark key="^" line="24" column="59" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565172469146">
         <mark key="'" line="110" column="33" />
@@ -202,46 +202,44 @@
       <jump line="27" column="37" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>host</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>host</text>
       </register>
       <register name="/" type="4">
         <text>xstream_version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbG9nLmVycm9yKCJ3aGlsZSByZXNwb25kaW5nIG9yZGVySWQ6e30sIGV4Y2VwdGlvbiA6Iiwgb3JkZXJJZCwgZSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuZWxhc3RpY3NlYXJjaC5jbGllbnQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmVsYXN0aWNzZWFyY2gtcmVzdC1oaWdoLWxldmVsLWNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Ny4wLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihTaWduYWxDb3JyZWN0aW9uLmNsYXNzKTsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhSZXRyeVRpbWVvdXRNaWxsaXMoMTAwMDApCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>1. 优化OrderQueryController.java
-2.add deprecated.md file to tsg-mes module
-3. upgrade spring-framework to 4.3.24.RELEASE, to fix some reported vulnerabilities.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YnVpbGRlci5zZXREZWZhdWx0SGVhZGVycyhkZWZhdWx0SGVhZGVycyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBSZXN0Q2xpZW50LmJ1aWxkZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyeU9yZGVyUXVlcnlSZXN1bHQgcmVzdWx0ID0gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNsaWVudC5DbHVzdGVyQWRtaW5DbGllbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNCbGFuayhvcmRlcklkKSkgewogICAgICAgICAgICByZXNwb25kRXJyb3IocmVzcG9uc2UsIEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfQkFEX1JFUVVFU1QsICJOb3QgZm91bmQgcmVzdWx0IGZvciBvcmRlcklkIik7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXN1bHQgPSB0c2NEZWxpdmVyeU9yZGVyU2VydmljZS5nZXRCeU9yZGVySWQob3JkZXJJZCk7CiAgICAgICAgbG9nLmRlYnVnKCJyZXEgb3JkZXJJZDp7fSwgZ2V0IHJlc3VsdDp7fSIsIG9yZGVySWQsIHJlc3VsdCk7CiAgICAgICAgaWYgKHJlc3VsdCA9PSBudWxsIHx8IHJlc3VsdC5nZXRDb3VudCgpIDwgMSkgewogICAgICAgICAgICByZXNwb25kRXJyb3IocmVzcG9uc2UsIEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfTk9UX0ZPVU5ELCAiTm90IGZvdW5kIHJlc3VsdCBmb3Igb3JkZXJJZC4iKTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXN0Q2xpZW50LmJ1aWxkZXIoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
