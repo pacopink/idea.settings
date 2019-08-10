@@ -9,22 +9,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565164653967">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java" timestamp="1565076431846">
         <mark key="'" line="6" column="33" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="50" column="15" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" timestamp="1565164384552">
         <mark key="'" line="102" column="32" />
@@ -33,14 +23,6 @@
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/VehicleRankingService.java" timestamp="1565251279194" />
-      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565256024570">
-        <mark key="[" line="127" column="37" />
-        <mark key="]" line="127" column="37" />
-        <mark key="^" line="119" column="12" />
-        <mark key="." line="127" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleRankingServiceImpl.java" timestamp="1565251494930" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -67,9 +49,6 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="/tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1565053812215">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565251081114">
         <mark key="'" line="27" column="37" />
       </file>
@@ -79,6 +58,35 @@
         <mark key="." line="42" column="83" />
         <mark key="^" line="42" column="83" />
       </file>
+      <file name="/dummy.sql" timestamp="1564968933436">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tscdb.public.tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1564990198568">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1565164653967">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/VehicleRankingService.java" timestamp="1565251279194" />
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565256024570">
+        <mark key="[" line="127" column="37" />
+        <mark key="]" line="127" column="37" />
+        <mark key="^" line="119" column="12" />
+        <mark key="." line="127" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleRankingServiceImpl.java" timestamp="1565251494930" />
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/service/platformmode/PlatformController.java" timestamp="1565424228601" />
+      <file name="/tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1565053812215">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/common/MessageUtils.java" timestamp="1565424398268" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565172469146">
         <mark key="'" line="110" column="33" />
       </file>
@@ -91,12 +99,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="744" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1564968933436">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb.public.tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1564990198568">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
