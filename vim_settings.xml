@@ -23,20 +23,18 @@
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/tscdb_dev.public.tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1564968929207">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/SpringAll/07.Spring-Boot-AOP-Log/pom.xml" timestamp="1564931746718">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="24" column="17" />
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1565575534548">
+        <mark key="[" line="37" column="75" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/code/tc/tc-delivery/pom.xml" timestamp="1565081865209">
         <mark key="'" line="266" column="24" />
@@ -58,40 +56,34 @@
         <mark key="." line="42" column="83" />
         <mark key="^" line="42" column="83" />
       </file>
-      <file name="/dummy.sql" timestamp="1564968933436">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tscdb.public.tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1564990198568">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/ui/PubPanel.java" timestamp="1565575377397" />
+      <file name="$USER_HOME$/code/tsc/misc/dispatcher-asn1-api/src/main/java/com/ericsson/csp/tsc/utils/TelematicsMessage2Asn1ObjeHelper.java" timestamp="1565573907809" />
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/pom.xml" timestamp="1565573940450">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1565164653967">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/VehicleRankingService.java" timestamp="1565251279194" />
-      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565256024570">
-        <mark key="[" line="127" column="37" />
-        <mark key="]" line="127" column="37" />
-        <mark key="^" line="119" column="12" />
-        <mark key="." line="127" column="37" />
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565573967499">
+        <mark key="[" line="129" column="17" />
+        <mark key="]" line="134" column="20" />
+        <mark key="." line="134" column="20" />
+        <mark key="^" line="134" column="20" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/VehicleRankingServiceImpl.java" timestamp="1565251494930" />
       <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/service/platformmode/PlatformController.java" timestamp="1565424228601" />
-      <file name="/tsc_signal_correction_formula [tscdb@aws.test]" timestamp="1565053812215">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/common/MessageUtils.java" timestamp="1565575267446">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="64" />
       </file>
-      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/common/MessageUtils.java" timestamp="1565424398268" />
+      <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/utils/EncodeAndDecodeUtils.java" timestamp="1565575392317" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565172469146">
         <mark key="'" line="110" column="33" />
-      </file>
-      <file name="/tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565053809801">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/RegeoResultTest.java" timestamp="1565057724947">
         <mark key="'" line="12" column="25" />
@@ -102,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="241" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="252" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="263" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
@@ -202,55 +193,56 @@
       <jump line="30" column="0" filename="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" />
       <jump line="108" column="32" filename="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" />
       <jump line="27" column="37" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
+      <jump line="7" column="17" filename="$USER_HOME$/code/tsc/misc/mqtt-client/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCkuCg==</text>
+      <register name="&quot;" type="4">
+        <text>asn1Byte.length, serdJson.length(), (1.0*asn1Byte.length)/serdJson.length());</text>
       </register>
       <register name="-" type="4">
-        <text>host</text>
+        <text>asn1Byte.length, serdJson.length(), (1.0*asn1Byte.length)/serdJson.length());</text>
       </register>
       <register name="/" type="4">
-        <text>xstream_version</text>
+        <text>dispatcher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuZWxhc3RpY3NlYXJjaC5jbGllbnQ8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmVsYXN0aWNzZWFyY2gtcmVzdC1oaWdoLWxldmVsLWNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+Ny4wLjA8L3ZlcnNpb24+CiAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBWRFNlcnZpY2VSZXF1ZXN0IHZEU2VydmljZVJlcXVlc3QgPSBKc29uVXRpbHMucGFyc2VKc29uVG9UZWxlbWF0aWNzTWVzc2FnZShzZXJkSnNvbik7CiAgICAgICAgY29tLmVyaWNzc29uLmNzcC5WRFNlcnZpY2VSZXF1ZXN0IGFzbjFPYmogPSBuZXcgY29tLmVyaWNzc29uLmNzcC5WRFNlcnZpY2VSZXF1ZXN0KCk7CiAgICAgICAgVGVsZW1hdGljc01lc3NhZ2UyQXNuMU9iamVIZWxwZXIuc2V0VmFsdWVzKHZEU2VydmljZVJlcXVlc3QsIGFzbjFPYmopOwogICAgICAgIGJ5dGVbXSBhc24xQnl0ZSA9IEFzbjFIZWxwZXIuYXNuMU9iamVjdFRvQnl0ZXMoYXNuMU9iaik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCkuCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYjY0U3RyID0gRW5jb2RlQW5kRGVjb2RlVXRpbHMuYmFzZTY0RW5jb2RlQnl0ZXMoYXNuMUJ5dGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiYjY0OiB7fSIsIGI2NFN0cik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhSZXRyeVRpbWVvdXRNaWxsaXMoMTAwMDApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YnVpbGRlci5zZXREZWZhdWx0SGVhZGVycyhkZWZhdWx0SGVhZGVycyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDQ0MDEwNTIwMTIwOTEyNDgxNAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCkuCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN0Q2xpZW50LmJ1aWxkZXIoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLmNsaWVudC5DbHVzdGVyQWRtaW5DbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhSZXRyeVRpbWVvdXRNaWxsaXMoMTAwMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>xstream_version</last-search>
+      <last-search>dispatcher</last-search>
       <last-offset />
-      <last-pattern>xstream_version</last-pattern>
+      <last-pattern>dispatcher</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -258,7 +250,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OAuth</entry>
         <entry>create user session</entry>
         <entry>userSessionBuilder</entry>
         <entry>MCP</entry>
@@ -278,6 +269,7 @@
         <entry>xstream</entry>
         <entry>sendError</entry>
         <entry>xstream_version</entry>
+        <entry>dispatcher</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
