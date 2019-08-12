@@ -17,6 +17,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1565593915884">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/LogOperationServiceInstance.java" timestamp="1565589833579" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
         <mark key="[" line="4" column="0" />
@@ -33,6 +36,13 @@
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/spring-redis.xml" timestamp="1565594116900" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" timestamp="1565594245761">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565251081114">
         <mark key="'" line="27" column="37" />
@@ -59,6 +69,9 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1565593386964">
+        <mark key="'" line="390" column="19" />
+      </file>
       <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565573967499">
         <mark key="[" line="129" column="17" />
         <mark key="]" line="134" column="20" />
@@ -69,13 +82,18 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="42" column="64" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565591708745">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565593327745">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/AvatarFileDeleteService.java" timestamp="1565593902937">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/AgentMain.java" timestamp="1565586856643" />
     </filemarks>
     <jumps>
-      <jump line="216" column="31" filename="$USER_HOME$/code/tsc/tsc-ignite-service/pom.xml" />
       <jump line="10" column="14" filename="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/FieldReflectOps.java" />
       <jump line="9" column="20" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
       <jump line="233" column="25" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
@@ -175,61 +193,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
       <jump line="87" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" />
       <jump line="135" column="1" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" />
+      <jump line="390" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Merge branch 'feature-sprint35' of ssh://gerrit.ericsson.se:29418/ng-cvc/geely-csp-project/tsc into feature-sprint35
-
-# Conflicts:
-#	tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>asn1Byte.length, serdJson.length(), (1.0*asn1Byte.length)/serdJson.length());</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBWRFNlcnZpY2VSZXF1ZXN0IHZEU2VydmljZVJlcXVlc3QgPSBKc29uVXRpbHMucGFyc2VKc29uVG9UZWxlbWF0aWNzTWVzc2FnZShzZXJkSnNvbik7CiAgICAgICAgY29tLmVyaWNzc29uLmNzcC5WRFNlcnZpY2VSZXF1ZXN0IGFzbjFPYmogPSBuZXcgY29tLmVyaWNzc29uLmNzcC5WRFNlcnZpY2VSZXF1ZXN0KCk7CiAgICAgICAgVGVsZW1hdGljc01lc3NhZ2UyQXNuMU9iamVIZWxwZXIuc2V0VmFsdWVzKHZEU2VydmljZVJlcXVlc3QsIGFzbjFPYmopOwogICAgICAgIGJ5dGVbXSBhc24xQnl0ZSA9IEFzbjFIZWxwZXIuYXNuMU9iamVjdFRvQnl0ZXMoYXNuMU9iaik7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQgUmVkaXNUZW1wbGF0ZTxTdHJpbmcsID4K</text>
+      </register>
+      <register name="2" type="4">
         <text>Merge branch 'feature-sprint35' of ssh://gerrit.ericsson.se:29418/ng-cvc/geely-csp-project/tsc into feature-sprint35
 
 # Conflicts:
 #	tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgYjY0U3RyID0gRW5jb2RlQW5kRGVjb2RlVXRpbHMuYmFzZTY0RW5jb2RlQnl0ZXMoYXNuMUJ5dGUpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiYjY0OiB7fSIsIGI2NFN0cik7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDQ0MDEwNTIwMTIwOTEyNDgxNAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCkuCg==</text>
+        <text encoding="base64">ICAgIDQ0MDEwNTIwMTIwOTEyNDgxNAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhSZXRyeVRpbWVvdXRNaWxsaXMoMTAwMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>143</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -237,7 +253,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MCP</entry>
         <entry>cache</entry>
         <entry>redisTemplate</entry>
         <entry>millisecond</entry>
@@ -257,6 +272,7 @@
         <entry>dispatcher</entry>
         <entry>basepath</entry>
         <entry>base</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>259</entry>
@@ -275,10 +291,10 @@
         <entry>452</entry>
         <entry>28</entry>
         <entry>93</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz4xNDM=</entry>
         <entry>143</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
