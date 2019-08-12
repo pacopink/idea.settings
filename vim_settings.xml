@@ -42,7 +42,7 @@
         <mark key="." line="134" column="20" />
         <mark key="^" line="134" column="20" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/LogOperationServiceInstance.java" timestamp="1565587573283" />
+      <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/service/LogOperationServiceInstance.java" timestamp="1565589833579" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -73,7 +73,7 @@
         <mark key="]" line="42" column="64" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/resources/app.properties" timestamp="1565586678717" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565172469146">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565590113973">
         <mark key="'" line="110" column="33" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/AgentMain.java" timestamp="1565586856643" />
@@ -227,7 +227,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXRNYXhSZXRyeVRpbWVvdXRNaWxsaXMoMTAwMDApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>143</text>
       </register>
     </registers>
     <search>
@@ -263,8 +263,6 @@
         <entry>dispatcher</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4lcy9Vc2VyU2Vzc2lvbklnbml0ZS9Vc2VyU2Vzc2lvbklnbml0ZTIvZw==</entry>
-        <entry>%s/UserSessionIgnite2/UserSessionIgnite/g</entry>
         <entry>259</entry>
         <entry>92</entry>
         <entry>69</entry>
@@ -283,6 +281,8 @@
         <entry>0</entry>
         <entry>93</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4xNDM=</entry>
+        <entry>143</entry>
       </history-cmd>
       <history-expr />
       <history-input />
