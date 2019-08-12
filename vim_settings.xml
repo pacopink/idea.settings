@@ -48,12 +48,12 @@
         <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/spring-redis.xml" timestamp="1565594275096" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" timestamp="1565596919648">
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" timestamp="1565598360894">
         <mark key="'" line="27" column="6" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="14" column="5" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565251081114">
         <mark key="'" line="27" column="37" />
@@ -107,48 +107,21 @@
         <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-dispatcher-connection-event/src/main/java/com/ericsson/csp/tsc/connection/agent/AgentMain.java" timestamp="1565586856643" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" timestamp="1565594822348">
-        <mark key="'" line="50" column="16" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" timestamp="1565597594974">
+        <mark key="'" line="580" column="25" />
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="75" column="35" />
+        <mark key="^" line="75" column="44" />
+        <mark key="." line="75" column="35" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/dubbox-tc-provider.xml" timestamp="1565596583036">
-        <mark key="[" line="194" column="47" />
-        <mark key="]" line="194" column="46" />
-        <mark key="." line="194" column="46" />
-        <mark key="^" line="194" column="46" />
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/dubbox-tc-provider.xml" timestamp="1565598501850">
+        <mark key="[" line="181" column="27" />
+        <mark key="]" line="181" column="58" />
+        <mark key="." line="181" column="58" />
+        <mark key="^" line="181" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="21" filename="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/TscDeliveryOrderServiceImpl.java" />
-      <jump line="29" column="33" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/impl/TscDeliveryOrderDaoImpl.java" />
-      <jump line="25" column="32" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/dao/impl/TscDeliveryOrderDaoImpl.java" />
-      <jump line="23" column="19" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="153" column="33" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="154" column="33" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="324" column="0" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="279" column="35" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="285" column="25" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="126" column="34" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="127" column="24" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="273" column="33" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="305" column="0" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="49" column="25" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="50" column="24" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="51" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="54" column="25" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="55" column="24" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="56" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
-      <jump line="58" column="13" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="315" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="307" column="52" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="102" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="564" column="0" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="244" column="41" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="250" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="260" column="31" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="291" column="8" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="155" column="81" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
-      <jump line="540" column="56" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="521" column="22" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="297" column="30" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
       <jump line="522" column="45" filename="$USER_HOME$/code/tsc/tsc-auth/src/main/java/com/ericsson/csp/tsc/auth/service/impl/IhuUserAuthServiceImpl.java" />
@@ -207,66 +180,97 @@
       <jump line="135" column="1" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" />
       <jump line="390" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" />
       <jump line="25" column="31" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" />
-      <jump line="53" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="57" column="26" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
-      <jump line="68" column="17" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="69" column="17" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
-      <jump line="70" column="38" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="612" column="16" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
-      <jump line="614" column="61" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="42" column="21" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="50" column="16" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="41" column="45" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" />
       <jump line="24" column="6" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" />
+      <jump line="35" column="21" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="37" column="25" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="92" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="614" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="514" column="17" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="515" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="516" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="517" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="541" column="31" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="33" column="25" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="79" column="36" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="615" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="619" column="14" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="70" column="18" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="74" column="14" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="76" column="14" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="77" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="80" column="37" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="520" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="521" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="522" column="13" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="29" column="22" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="68" column="14" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="53" column="26" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="75" column="14" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="519" column="4" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="64" column="21" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="379" column="7" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="575" column="14" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="576" column="62" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="577" column="21" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="578" column="62" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="579" column="21" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
+      <jump line="580" column="25" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3VwcG9ydCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJPCEtLSBTZnRwIGZvciBGaWxlRGVsZXRlU2VydmljZS0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VwcG9ydCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>equals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTx0YXNrOnNjaGVkdWxlciBpZD0ic3lzdGVtU2NoZWR1bGVyIiBwb29sLXNpemU9IjEwIiAvPgoJPHRhc2s6c2NoZWR1bGVkLXRhc2tzIHNjaGVkdWxlcj0ic3lzdGVtU2NoZWR1bGVyIj4KIAkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iY29uZmlnQnVzaW5lc3NKb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NvbmZpZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJvdGFCdXNpbmVzc0pvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9IndoaXRlbGlzdEJ1c2luZXNzSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0ibWVzc2FnZUJ1c2luZXNzSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+IAoJCTx0YXNrOnNjaGVkdWxlZCByZWY9InVzZXJWZWJpY2xlQmluZEpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImlodVNlcnZpY2VpbmZvSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+IAoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImlodVNlcnZpY2VDb25uZWN0aW9uSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJpaHVSYWRpb0pvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9InRzY0RlYWxlclN0YXRpb25FeHBvcnRCdXNpbmVzc0pvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImNzcFdhcm5pbmdNZXNzYWdlIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHt3YXJuaW5nLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9Im5ldldhcm5pbmdNZXNzYWdlIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHt3YXJuaW5nLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPiAKCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJpaHVPVEFVcGRhdGVCYXRjaCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImlodUNvbmZpZ0J1c2luZXNzSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iY3NwQ2VydGlmaWNhdGVCdXNpbmVzc0pvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPiAKCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJkYXRhQ29sbGVjdE11bEpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImNzcE90YUZpcm13YXJlRXh0VXBkYXRlQmF0Y2giIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NvbmZpZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJkYXRhQ29sbGVjdE11bFJ1bGVKb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NvbmZpZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJ3cml0ZVJlY2llcHRKb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1kZWxheT0iJHtyZWNlaXB0LnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImNoZWNrQ29tcGxldGVKb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NoZWNrRmluaXNoLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImRhdGFDb2xsZWN0VGVybWluYXRlTXVsUnVsZUpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJPC90YXNrOnNjaGVkdWxlZC10YXNrcz4KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB1bnRpbCBxdWV1ZSBlbXB0eQo=</text>
+        <text encoding="base64">CQkJPCEtLSBTZnRwIGZvciBGaWxlRGVsZXRlU2VydmljZS0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8dGFzazpzY2hlZHVsZWQgcmVmPSJvdGFCdXNpbmVzc0pvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9IndoaXRlbGlzdEJ1c2luZXNzSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0ibWVzc2FnZUJ1c2luZXNzSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0idXNlclZlYmljbGVCaW5kSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iaWh1U2VydmljZWluZm9Kb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NvbmZpZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJpaHVTZXJ2aWNlQ29ubmVjdGlvbkpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIi8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iaWh1UmFkaW9Kb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NvbmZpZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJ0c2NEZWFsZXJTdGF0aW9uRXhwb3J0QnVzaW5lc3NKb2JEZXRhaWwiIG1ldGhvZD0icnVuIiBmaXhlZC1yYXRlPSIke2NvbmZpZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJjc3BXYXJuaW5nTWVzc2FnZSIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7d2FybmluZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJuZXZXYXJuaW5nTWVzc2FnZSIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7d2FybmluZy5zbGVlcFNlY29uZHNGb3JOZXh0fTAwMCIgLz4KCQk8dGFzazpzY2hlZHVsZWQgcmVmPSJpaHVPVEFVcGRhdGVCYXRjaCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImlodUNvbmZpZ0J1c2luZXNzSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iY3NwQ2VydGlmaWNhdGVCdXNpbmVzc0pvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImRhdGFDb2xsZWN0TXVsSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iY3NwT3RhRmlybXdhcmVFeHRVcGRhdGVCYXRjaCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9ImRhdGFDb2xsZWN0TXVsUnVsZUpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y29uZmlnLnNsZWVwU2Vjb25kc0Zvck5leHR9MDAwIiAvPgoJCTx0YXNrOnNjaGVkdWxlZCByZWY9IndyaXRlUmVjaWVwdEpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLWRlbGF5PSIke3JlY2VpcHQuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iY2hlY2tDb21wbGV0ZUpvYkRldGFpbCIgbWV0aG9kPSJydW4iIGZpeGVkLXJhdGU9IiR7Y2hlY2tGaW5pc2guc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+CgkJPHRhc2s6c2NoZWR1bGVkIHJlZj0iZGF0YUNvbGxlY3RUZXJtaW5hdGVNdWxSdWxlSm9iRGV0YWlsIiBtZXRob2Q9InJ1biIgZml4ZWQtcmF0ZT0iJHtjb25maWcuc2xlZXBTZWNvbmRzRm9yTmV4dH0wMDAiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0gU2Z0cCBmb3IgRmlsZURlbGV0ZVNlcnZpY2UtLT4KCTxiZWFuIGlkPSJzZnRwIiBjbGFzcz0iY29tLmVyaWNzc29uLmNzcC50Yy51bmlmaWVkc2VydmljZS51dGlscy5TZnRwIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSIke3NmdHAuaG9zdH0iPjwvY29uc3RydWN0b3ItYXJnPgoJCTxjb25zdHJ1Y3Rvci1hcmcgdmFsdWU9IiR7c2Z0cC5wb3J0fSI+PC9jb25zdHJ1Y3Rvci1hcmc+CgkJPGNvbnN0cnVjdG9yLWFyZyB2YWx1ZT0iJHtzZnRwLnRpbWVvdXR9Ij48L2NvbnN0cnVjdG9yLWFyZz4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSIke3NmdHAudXNlcm5hbWV9Ij48L2NvbnN0cnVjdG9yLWFyZz4KCQk8Y29uc3RydWN0b3ItYXJnIHZhbHVlPSIke3NmdHAucGFzc3dvcmR9Ij48L2NvbnN0cnVjdG9yLWFyZz4KCTwvYmVhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZnRwIGdldFNmdHAoKSB7CiAgICAgICAgcmV0dXJuIHNmdHA7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSAgICAJVGhyZWFkIHQxID0gbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CgkJCQkJCQlwdWJsaWMgdm9pZCBydW4oKSB7CgkJCQkJCQkJLy/lsIbmlofku7bmnI3liqHlmajkuIrml6fmlofku7bliKDpmaQKCQkJCQkJCQlTdHJpbmcgZmlsZW5hbWUgPSBhdmF0YXJVcmkuc3Vic3RyaW5nKGF2YXRhclVyaS5sYXN0SW5kZXhPZigiLyIpICsgMSk7CgkJCQkJCQkJc2Z0cC5jaGFuZ2VEaXIoZmlsZXBhdGgpOwoJCQkJCQkJCWJvb2xlYW4gZmxhZyA9IHNmdHAuZGVsRmlsZShmaWxlbmFtZSk7CgkJCQkJCQl9CgkJCQkJCX0pOwoJCQkJCQl0MS5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXNmdHAubG9naW4oKSkgewogICAgICAgICAgICBsb2cuZXJyb3IoImZhaWxlZCB0byBsb2dpbiBzZnRwIik7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICBzZnRwLmxvZ2luCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB1bnRpbCBxdWV1ZSBlbXB0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>equals</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>equals</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -274,12 +278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redisTemplate</entry>
-        <entry>millisecond</entry>
-        <entry>getFormatt</entry>
-        <entry>Format</entry>
-        <entry>new Jwt</entry>
-        <entry>format</entry>
         <entry>stru</entry>
         <entry>mysql</entry>
         <entry>druid</entry>
@@ -294,6 +292,12 @@
         <entry>base</entry>
         <entry>redis</entry>
         <entry>password</entry>
+        <entry>login</entry>
+        <entry>channel</entry>
+        <entry>session</entry>
+        <entry>logout</entry>
+        <entry>isLogin</entry>
+        <entry>equals</entry>
       </history-search>
       <history-cmd>
         <entry>259</entry>
