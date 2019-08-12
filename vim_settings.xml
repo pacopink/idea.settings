@@ -79,19 +79,15 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1565593386964">
         <mark key="'" line="390" column="19" />
       </file>
-      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565573967499">
-        <mark key="[" line="129" column="17" />
-        <mark key="]" line="134" column="20" />
-        <mark key="." line="134" column="20" />
-        <mark key="^" line="134" column="20" />
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565599210676">
+        <mark key="[" line="138" column="21" />
+        <mark key="]" line="138" column="22" />
+        <mark key="." line="138" column="22" />
+        <mark key="^" line="138" column="19" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/resources/spring-config/applicationContext-quartz.xml" timestamp="1565596495183">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/misc/mqtt-client/src/main/java/com/ericsson/mqttclient/common/MessageUtils.java" timestamp="1565575267446">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="42" column="64" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1565595733290">
         <mark key="'" line="0" column="0" />
