@@ -91,7 +91,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6ce3a592-8023-4afa-ada8-0c52bcae46fe/console.sql" timestamp="1565600663780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/resources/spring-config/applicationContext-quartz.xml" timestamp="1565596495183">
+      <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/resources/spring-config/applicationContext-quartz.xml" timestamp="1565659542158">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="45" column="0" />
       </file>
