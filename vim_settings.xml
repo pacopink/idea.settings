@@ -150,12 +150,12 @@
       <file name="/postgres.public.sys_menu [postgres@localhost]" timestamp="1565764363832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" timestamp="1565764356296">
+      <file name="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" timestamp="1565773843145">
         <mark key="'" line="15" column="56" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="12" column="52" />
+        <mark key="." line="12" column="52" />
       </file>
       <file name="/postgres.public.sys_role [postgres@localhost]" timestamp="1565764370808">
         <mark key="[" line="0" column="0" />
@@ -320,10 +320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
