@@ -6,14 +6,10 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" timestamp="1565591252164">
         <mark key="'" line="135" column="1" />
       </file>
-      <file name="/postgres.public.sys_user [postgres@localhost]" timestamp="1565755821269">
+      <file name="/postgres.public.sys_user [postgres@localhost]" timestamp="1565766354221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java" timestamp="1565076431846">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/service/sys/impl/SysUserServiceImpl.java" timestamp="1565768225024" />
       <file name="/tsc_telematics_context_history [tscdb_dev@aws.test]" timestamp="1565751358983">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,29 +17,30 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/sys/LoginController.java" timestamp="1565760652368" />
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" timestamp="1565765455531" />
       <file name="/tscdb_dev.public.sys_role [tscdb_dev@aws.test]" timestamp="1565755805022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/FileDeleteService.java" timestamp="1565595679217">
         <mark key="[" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1565255353908">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1565575534548">
+        <mark key="[" line="37" column="75" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="/signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358555">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CommonUtil.java" timestamp="1565768098664" />
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565753723496">
         <mark key="'" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/unifiedconfig/UnifiedConfigAppClient.java" timestamp="1565752683267" />
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="/postgres.public.sys_permission [postgres@localhost]" timestamp="1565763714601">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/unifiedconfig/UnifiedConfigAppClient.java" timestamp="1565752683267" />
       <file name="/tscdb_dev.public.tsc_tbox_version_history [tscdb_dev@aws.test]" timestamp="1565745551969">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,6 +49,12 @@
       </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1565593386964">
         <mark key="'" line="390" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1565599210676">
+        <mark key="[" line="138" column="21" />
+        <mark key="]" line="138" column="22" />
+        <mark key="." line="138" column="22" />
+        <mark key="^" line="138" column="19" />
       </file>
       <file name="/tscdb_dev.public.signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565689243179">
         <mark key="[" line="0" column="0" />
@@ -63,17 +66,44 @@
       <file name="/postgres.public.sys_param [postgres@localhost]" timestamp="1565755819937">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1565603066306">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
+        <mark key="'" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/dao/entity/SysUser.java" timestamp="1565768435937">
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="232" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/streaming/sql/init.sql" timestamp="1565601383353">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" timestamp="1565677363145">
         <mark key="'" line="11" column="13" />
+      </file>
+      <file name="/postgres.public.sys_role_test [postgres@localhost]" timestamp="1565763959691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1565767120561">
+        <mark key="[" line="123" column="30" />
       </file>
       <file name="/csp_file_manage [tscdb_dev@aws.test]" timestamp="1565751357673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/SignalCorrection.java" timestamp="1565243496308">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfo.java" timestamp="1565765350035" />
       <file name="/tscdb_dev.public.tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565689285330">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,22 +113,31 @@
       <file name="/a.sql" timestamp="1565751445881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1565420610108">
+        <mark key="[" line="42" column="83" />
+        <mark key="]" line="42" column="83" />
+        <mark key="." line="42" column="83" />
+        <mark key="^" line="42" column="83" />
+      </file>
       <file name="/tsc_tbox_version_history [tscdb_dev@aws.test]" timestamp="1565751358837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" timestamp="1565761073082">
-        <mark key="'" line="187" column="14" />
-      </file>
-      <file name="/postgres.public.sys_role [postgres@localhost]" timestamp="1565755816721">
+      <file name="/postgres.public.sys_menu [postgres@localhost]" timestamp="1565764363832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1565755957663">
+      <file name="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" timestamp="1565764356296">
+        <mark key="'" line="15" column="56" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="/postgres.public.sys_role [postgres@localhost]" timestamp="1565764370808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565751445901">
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/pojo/tool/AngularShiroPojo.java" timestamp="1565763557680" />
+      <file name="/dummy.sql" timestamp="1565767129274">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/postgres.public.csp_data_collect_mul_rule_task [postgres@localhost]" timestamp="1565751441852">
         <mark key="[" line="0" column="0" />
@@ -112,30 +151,42 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6ce3a592-8023-4afa-ada8-0c52bcae46fe/console.sql" timestamp="1565600663780">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" timestamp="1565760657986">
-        <mark key="'" line="45" column="32" />
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" timestamp="1565768416936">
+        <mark key="'" line="124" column="42" />
+        <mark key="[" line="142" column="76" />
+        <mark key="]" line="142" column="76" />
+        <mark key="^" line="142" column="76" />
+        <mark key="." line="142" column="76" />
       </file>
+      <file name="$USER_HOME$/code/lbs_stream/test/NumberHomeInfoTester.scala" timestamp="1565765180209" />
       <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@aws.test]" timestamp="1565745704739">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/resource/UnifiedConfigAdminResourceImpl.java" timestamp="1565752203556" />
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/dao/sys/impl/SysUserDaoImpl.java" timestamp="1565768157754" />
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/pojo/AllotMenu.java" timestamp="1565764946364" />
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/resource/UnifiedConfigAdminResourceImpl.java" timestamp="1565767334089">
+        <mark key="[" line="78" column="9" />
+        <mark key="]" line="79" column="7" />
+        <mark key="^" line="79" column="7" />
+        <mark key="." line="79" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/AvatarFileDeleteService.java" timestamp="1565593902937">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
       <file name="/tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358746">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/dubbox-tc-provider.xml" timestamp="1565598501850">
+        <mark key="[" line="181" column="27" />
+        <mark key="]" line="181" column="58" />
+        <mark key="." line="181" column="58" />
+        <mark key="^" line="181" column="58" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/code/SpringAll/07.Spring-Boot-AOP-Log/pom.xml" />
-      <jump line="13" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/RegeoResultTest.java" />
-      <jump line="7" column="33" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java" />
-      <jump line="17" column="47" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="187" column="32" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="487" column="22" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="486" column="23" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="485" column="31" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="481" column="22" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="480" column="23" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="479" column="31" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="475" column="22" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
       <jump line="474" column="23" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
       <jump line="473" column="31" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
       <jump line="186" column="0" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
@@ -224,72 +275,74 @@
       <jump line="181" column="36" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="189" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="187" column="14" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
+      <jump line="149" column="5" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="155" column="48" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="154" column="26" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" />
+      <jump line="61" column="94" filename="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" />
+      <jump line="15" column="56" filename="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" />
+      <jump line="65" column="49" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="80" column="26" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/resource/UnifiedConfigAdminResourceImpl.java" />
+      <jump line="59" column="15" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/resource/UnifiedConfigAdminResourceImpl.java" />
+      <jump line="124" column="42" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="45" column="0" filename="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" />
+      <jump line="28" column="13" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/dao/entity/SysUser.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0ID0gIjAsIDEsIDgsIDE2LCAyMCI7CiAgICAgICAgbG9nLmluZm8oInt9OiB7fSIsIGxpc3QsIEF2aWF0b3JFdmFsdWF0b3IuZXhlY3V0ZSgiaW5MZXZlbCgiK2xpc3QrIikiKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>shiroFilter</text>
+        <text>toString</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsaXN0ID0gIjAsIDEsIDgsIDE2LCAyMCI7CiAgICAgICAgbG9nLmluZm8oInt9OiB7fSIsIGxpc3QsIEF2aWF0b3JFdmFsdWF0b3IuZXhlY3V0ZSgiaW5MZXZlbCgiK2xpc3QrIikiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEF2aWF0b3IK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbi5zZXRQYXNzd29yZChDb21tb25VdGlsLnN0cmluZzJNRDUobmV3IFN0cmluZyh0b2tlbi5nZXRQYXNzd29yZCgpKSkudG9DaGFyQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBdmlhdG9yTG9uZyhpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIHVzZVVuaWNvbmYgPSBBcHBDb25maWd1cmF0aW9uLmdldEJvb2xlYW4oInVuaWNvbmYuc3dpdGNoIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmxhZyA9IEFwcENvbmZpZ3VyYXRpb24uZ2V0U3RyaW5nKCJ1bmljb25mLnN3aXRjaCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiKGEtYitkKTxjOiB7fSIsIEF2aWF0b3JFdmFsdWF0b3IuZXhlY3V0ZSgiKGEtYitkKTxjIiwgZW52KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEF2aWF0b3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBdmlhdG9yTG9uZyhpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">77yJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search>shiroFilter</last-search>
+      <last-search>toString</last-search>
       <last-offset />
-      <last-pattern>shiroFilter</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute>:.*$</last-substitute>
+      <last-pattern>toString</last-pattern>
+      <last-replace>, 'CN');</last-replace>
+      <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>xstream</entry>
-        <entry>sendError</entry>
-        <entry>xstream_version</entry>
-        <entry>dispatcher</entry>
-        <entry>basepath</entry>
-        <entry>base</entry>
-        <entry>redis</entry>
-        <entry>password</entry>
-        <entry>login</entry>
-        <entry>channel</entry>
         <entry>session</entry>
         <entry>logout</entry>
         <entry>isLogin</entry>
@@ -300,12 +353,18 @@
         <entry>webRealm</entry>
         <entry>securityManager</entry>
         <entry>shiroFilter</entry>
+        <entry>getSession</entry>
+        <entry>setSession</entry>
+        <entry>create_time)</entry>
+        <entry>);</entry>
+        <entry>tsc_conf_param</entry>
+        <entry>doGetAuthen</entry>
+        <entry>flag</entry>
+        <entry>Try to login</entry>
+        <entry>getPass</entry>
+        <entry>toString</entry>
       </history-search>
       <history-cmd>
-        <entry>259</entry>
-        <entry>92</entry>
-        <entry>69</entry>
-        <entry>%s/jwtUtils/jwtValidationService</entry>
         <entry>%s/jwtUtils/jwtValidationService/g</entry>
         <entry>25</entry>
         <entry encoding="base64">JzwsJz5zLzIuNC4yLyR7c3BhcmsudmVyc2lvbn0vZw==</entry>
@@ -322,6 +381,10 @@
         <entry>143</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2NyZWF0ZV90aW1lKS9jcmVhdGVfdGltZSwgbG9jYWxlKS9n</entry>
+        <entry encoding="base64">JzwsJz5zLyk7LywgJ0NOJyk7L2c=</entry>
+        <entry>69</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
