@@ -20,7 +20,7 @@
       <file name="/a.dummy" timestamp="1565593915884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/sys/LoginController.java" timestamp="1565755588622" />
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/sys/LoginController.java" timestamp="1565760652368" />
       <file name="/tscdb_dev.public.sys_role [tscdb_dev@aws.test]" timestamp="1565755805022">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,6 +86,9 @@
       <file name="/tsc_tbox_version_history [tscdb_dev@aws.test]" timestamp="1565751358837">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" timestamp="1565761073082">
+        <mark key="'" line="187" column="14" />
+      </file>
       <file name="/postgres.public.sys_role [postgres@localhost]" timestamp="1565755816721">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +112,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6ce3a592-8023-4afa-ada8-0c52bcae46fe/console.sql" timestamp="1565600663780">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" timestamp="1565760657986">
+        <mark key="'" line="45" column="32" />
+      </file>
       <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@aws.test]" timestamp="1565745704739">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,12 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="71" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
-      <jump line="168" column="8" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcVerificationCodeServiceImpl.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" />
-      <jump line="54" column="38" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" />
-      <jump line="71" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" />
-      <jump line="161" column="9" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" />
       <jump line="37" column="0" filename="$USER_HOME$/code/SpringAll/07.Spring-Boot-AOP-Log/pom.xml" />
       <jump line="13" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/test/java/com/ericsson/csp/tsc/utils/RegeoResultTest.java" />
       <jump line="7" column="33" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java" />
@@ -218,6 +218,12 @@
       <jump line="270" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="271" column="23" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="17" column="9" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
+      <jump line="75" column="0" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="45" column="32" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
+      <jump line="175" column="17" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
+      <jump line="181" column="36" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
+      <jump line="189" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
+      <jump line="187" column="14" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -227,7 +233,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>shiro</text>
+        <text>shiroFilter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsaXN0ID0gIjAsIDEsIDgsIDE2LCAyMCI7CiAgICAgICAgbG9nLmluZm8oInt9OiB7fSIsIGxpc3QsIEF2aWF0b3JFdmFsdWF0b3IuZXhlY3V0ZSgiaW5MZXZlbCgiK2xpc3QrIikiKSk7Cg==</text>
@@ -264,9 +270,9 @@
       </register>
     </registers>
     <search>
-      <last-search>shiro</last-search>
+      <last-search>shiroFilter</last-search>
       <last-offset />
-      <last-pattern>shiro</last-pattern>
+      <last-pattern>shiroFilter</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>:.*$</last-substitute>
       <last-dir>1</last-dir>
@@ -274,10 +280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>druid</entry>
-        <entry>file</entry>
-        <entry>fileStr</entry>
-        <entry>file.get</entry>
         <entry>xstream</entry>
         <entry>sendError</entry>
         <entry>xstream_version</entry>
@@ -294,6 +296,10 @@
         <entry>equals</entry>
         <entry>RES</entry>
         <entry>shiro</entry>
+        <entry>ANGULAR_SHIRO</entry>
+        <entry>webRealm</entry>
+        <entry>securityManager</entry>
+        <entry>shiroFilter</entry>
       </history-search>
       <history-cmd>
         <entry>259</entry>
