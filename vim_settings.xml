@@ -9,7 +9,6 @@
       <file name="/postgres.public.sys_user [postgres@localhost]" timestamp="1565766354221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/service/sys/impl/SysUserServiceImpl.java" timestamp="1565768225024" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java" timestamp="1565076431846">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -21,8 +20,6 @@
       <file name="/a.dummy" timestamp="1565593915884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/sys/LoginController.java" timestamp="1565760652368" />
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfoMgr.java" timestamp="1565765455531" />
       <file name="/tscdb_dev.public.sys_role [tscdb_dev@aws.test]" timestamp="1565755805022">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +32,9 @@
         <mark key="." line="38" column="15" />
         <mark key="^" line="38" column="15" />
       </file>
+      <file name="/sys_user [postgres@localhost]" timestamp="1565833455400">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1565255353908">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -43,7 +43,6 @@
       <file name="/signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358555">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/CommonUtil.java" timestamp="1565768098664" />
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565753723496">
         <mark key="'" line="17" column="9" />
       </file>
@@ -55,7 +54,6 @@
       <file name="/postgres.public.sys_permission [postgres@localhost]" timestamp="1565763714601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/unifiedconfig/UnifiedConfigAppClient.java" timestamp="1565752683267" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -79,7 +77,6 @@
       <file name="/tscdb_dev.public.signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565689243179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-uvc-profile/src/main/java/com/ericsson/csp/tsc/uvc/provider/unifiedconfig/UnifiedConfigAppClient.java" timestamp="1565752142387" />
       <file name="/postgres.public.sys_role_menu [postgres@localhost]" timestamp="1565755818695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,7 +120,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/src/com/ericsson/lbs_streaming/java/home/NumberHomeInfo.java" timestamp="1565765350035" />
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -160,7 +156,6 @@
       <file name="/postgres.public.sys_role [postgres@localhost]" timestamp="1565764370808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/pojo/tool/AngularShiroPojo.java" timestamp="1565763557680" />
       <file name="/dummy.sql" timestamp="1565769852190">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,12 +183,9 @@
         <mark key="^" line="142" column="76" />
         <mark key="." line="142" column="76" />
       </file>
-      <file name="$USER_HOME$/code/lbs_stream/test/NumberHomeInfoTester.scala" timestamp="1565765180209" />
       <file name="/tscdb_dev.public.tsc_telematics_context_history [tscdb_dev@aws.test]" timestamp="1565745704739">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/dao/sys/impl/SysUserDaoImpl.java" timestamp="1565768157754" />
-      <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/controller/pojo/AllotMenu.java" timestamp="1565764946364" />
       <file name="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/resource/UnifiedConfigAdminResourceImpl.java" timestamp="1565767334089">
         <mark key="[" line="78" column="9" />
         <mark key="]" line="79" column="7" />
