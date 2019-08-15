@@ -47,6 +47,7 @@
       <file name="/signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358555">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1565841031876" />
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565753723496">
         <mark key="'" line="17" column="9" />
       </file>
