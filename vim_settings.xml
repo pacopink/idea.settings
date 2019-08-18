@@ -23,7 +23,6 @@
       <file name="/tscdb_dev.public.sys_role [tscdb_dev@aws.test]" timestamp="1565755805022">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/service/TscDeliveryOrderService.java" timestamp="1565833504823" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/FileDeleteService.java" timestamp="1565595679217">
         <mark key="[" line="7" column="22" />
       </file>
@@ -33,7 +32,6 @@
       <file name="/postgres.public.tsc_delivery_info [postgres@localhost]" timestamp="1565833945008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/core/RedoThread.java" timestamp="1565919708333" />
       <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1565255353908">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
@@ -42,7 +40,6 @@
       <file name="/signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358555">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1565852315136" />
       <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565753723496">
         <mark key="'" line="17" column="9" />
       </file>
@@ -54,7 +51,12 @@
       <file name="/postgres.public.sys_permission [postgres@localhost]" timestamp="1565763714601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.1/logstash-logback-encoder-6.1.jar!/net/logstash/logback/appender/LogstashSocketAppender.class" timestamp="1565919750383" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" timestamp="1566030715392">
+        <mark key="'" line="470" column="12" />
+        <mark key="[" line="537" column="4" />
+        <mark key="]" line="537" column="5" />
+        <mark key="." line="537" column="5" />
+      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -96,14 +98,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1565833917131">
         <mark key="[" line="127" column="30" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/UserSession.java" timestamp="1565852498775" />
       <file name="$USER_HOME$/code/tg/tsg-delivery/pom.xml" timestamp="1565854752154">
         <mark key="'" line="15" column="15" />
       </file>
       <file name="/csp_file_manage [tscdb_dev@aws.test]" timestamp="1565751357673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/java/com/ericsson/csp/tsc/ihu/qrlogin/service/impl/IhuQRLoginServiceImpl.java" timestamp="1565852561066" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/logback.xml" timestamp="1565919580797">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="40" />
@@ -124,7 +124,6 @@
       <file name="/a.sql" timestamp="1565751445881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/FileDeleteServiceSftpImpl.java" timestamp="1565849478805" />
       <file name="/tsc_tbox_version_history [tscdb_dev@aws.test]" timestamp="1565751358837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,7 +133,6 @@
       <file name="/postgres.public.sys_role [postgres@localhost]" timestamp="1565764370808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/TscDeliveryOrderServiceImpl.java" timestamp="1565834460525" />
       <file name="/dummy.sql" timestamp="1565852137580">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,6 +147,7 @@
       <file name="/postgres.public.sys_user_role [postgres@localhost]" timestamp="1565755824795">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/ExternalController.java" timestamp="1566029525724" />
       <file name="/postgres.public.sys_role_permission [postgres@localhost]" timestamp="1565755957477">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,6 +170,7 @@
       <file name="/tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358746">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/common/ServiceStoreException.java" timestamp="1566029286912" />
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/dubbox-tc-provider.xml" timestamp="1565849572947">
         <mark key="[" line="181" column="27" />
         <mark key="]" line="181" column="58" />
@@ -179,10 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="428" column="31" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="453" column="21" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="459" column="14" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="461" column="22" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
       <jump line="462" column="25" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
       <jump line="463" column="24" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
       <jump line="29" column="9" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
@@ -279,6 +275,10 @@
       <jump line="191" column="26" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
       <jump line="15" column="15" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="258" column="23" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
+      <jump line="537" column="4" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="644" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="684" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="470" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -288,7 +288,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>logstash</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8YXBwZW5kZXItcmVmIHJlZj0iTE9HX1NUQVNIIiAvPgo=</text>
@@ -321,13 +321,13 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBdmlhdG9yTG9uZyhpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>532</text>
       </register>
     </registers>
     <search>
-      <last-search>logstash</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>logstash</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>, 'CN');</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>equals</entry>
         <entry>RES</entry>
         <entry>shiro</entry>
         <entry>ANGULAR_SHIRO</entry>
@@ -355,9 +354,9 @@
         <entry>logback</entry>
         <entry>encoder</entry>
         <entry>logstash</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/jwtUtils/jwtValidationService/g</entry>
         <entry>25</entry>
         <entry encoding="base64">JzwsJz5zLzIuNC4yLyR7c3BhcmsudmVyc2lvbn0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLzoqJC8sL2c=</entry>
@@ -377,6 +376,7 @@
         <entry>60</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>532</entry>
       </history-cmd>
       <history-expr />
       <history-input />
