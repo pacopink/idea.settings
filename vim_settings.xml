@@ -74,6 +74,12 @@
       <file name="/postgres.public.tsc_delivery_status [postgres@localhost]" timestamp="1565833949952">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tg/pom.xml" timestamp="1566184392048">
+        <mark key="'" line="14" column="40" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
       <file name="/tscdb_dev.public.signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565689243179">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,8 +104,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2d714526-435e-4d3c-9c7b-62ac05dbce72/console.sql" timestamp="1565833917131">
         <mark key="[" line="127" column="30" />
       </file>
-      <file name="$USER_HOME$/code/tg/tsg-delivery/pom.xml" timestamp="1565854752154">
-        <mark key="'" line="15" column="15" />
+      <file name="$USER_HOME$/code/tg/tsg-delivery/pom.xml" timestamp="1566184280144">
+        <mark key="'" line="121" column="23" />
+        <mark key="[" line="316" column="21" />
+        <mark key="]" line="322" column="20" />
+        <mark key="^" line="322" column="20" />
+        <mark key="." line="322" column="20" />
       </file>
       <file name="/csp_file_manage [tscdb_dev@aws.test]" timestamp="1565751357673">
         <mark key="[" line="0" column="0" />
@@ -150,8 +160,8 @@
       <file name="/postgres.public.sys_role_permission [postgres@localhost]" timestamp="1565755957477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1565918755210">
-        <mark key="'" line="258" column="23" />
+      <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1566183666482">
+        <mark key="'" line="212" column="33" />
         <mark key="[" line="223" column="21" />
         <mark key="]" line="223" column="23" />
         <mark key="^" line="223" column="23" />
@@ -183,13 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="25" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="463" column="24" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="29" column="9" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="266" column="24" filename="$USER_HOME$/code/tc/tc-delivery/pom.xml" />
-      <jump line="99" column="48" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
-      <jump line="104" column="65" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
-      <jump line="109" column="19" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
       <jump line="96" column="25" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
       <jump line="110" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
@@ -283,16 +286,23 @@
       <jump line="644" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
       <jump line="684" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
       <jump line="470" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="212" column="33" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
+      <jump line="316" column="20" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
+      <jump line="319" column="34" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
+      <jump line="320" column="33" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
+      <jump line="114" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
+      <jump line="121" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
+      <jump line="14" column="40" filename="$USER_HOME$/code/tg/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>throw</text>
+        <text>logback</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQlTdHJpbmcgZmlsZW5hbWUgPSBhdmF0YXJVcmkuc3Vic3RyaW5nKGF2YXRhclVyaS5sYXN0SW5kZXhPZigiLyIpICsgMSk7Cg==</text>
@@ -329,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search>throw</last-search>
+      <last-search>logback</last-search>
       <last-offset />
-      <last-pattern>throw</last-pattern>
+      <last-pattern>logback</last-pattern>
       <last-replace>, 'CN');</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -339,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RES</entry>
         <entry>shiro</entry>
         <entry>ANGULAR_SHIRO</entry>
         <entry>webRealm</entry>
@@ -355,10 +364,11 @@
         <entry>Try to login</entry>
         <entry>getPass</entry>
         <entry>toString</entry>
-        <entry>logback</entry>
         <entry>encoder</entry>
-        <entry>logstash</entry>
         <entry>throw</entry>
+        <entry>logstash</entry>
+        <entry>logback.version</entry>
+        <entry>logback</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
