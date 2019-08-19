@@ -3,16 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" timestamp="1565591252164">
-        <mark key="'" line="135" column="1" />
-      </file>
       <file name="/postgres.public.sys_user [postgres@localhost]" timestamp="1565766354221">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/GeoUtilGaoDeImpl.java" timestamp="1565076431846">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/tsc_telematics_context_history [tscdb_dev@aws.test]" timestamp="1565751358983">
         <mark key="[" line="0" column="0" />
@@ -32,21 +24,8 @@
       <file name="/postgres.public.tsc_delivery_info [postgres@localhost]" timestamp="1565833945008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-event-handler/src/main/java/com/ericsson/csp/tsc/eventhandler/service/impl/ElasticSearchServiceImpl.java" timestamp="1565255353908">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="/signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565751358555">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565753723496">
-        <mark key="'" line="17" column="9" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1565769866107">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/postgres.public.sys_permission [postgres@localhost]" timestamp="1565763714601">
         <mark key="[" line="0" column="0" />
@@ -57,19 +36,18 @@
         <mark key="]" line="537" column="5" />
         <mark key="." line="537" column="5" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcCustomerServiceImpl.java" timestamp="1564983102008">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="/tscdb_dev.public.tsc_tbox_version_history [tscdb_dev@aws.test]" timestamp="1565745551969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/postgres.public.csp_data_collect_mul_detail [postgres@localhost]" timestamp="1565751437474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1565593386964">
-        <mark key="'" line="390" column="19" />
+      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" timestamp="1566197842628">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="126" column="87" />
+        <mark key="]" line="126" column="94" />
+        <mark key="." line="126" column="94" />
+        <mark key="^" line="126" column="94" />
       </file>
       <file name="/postgres.public.tsc_delivery_status [postgres@localhost]" timestamp="1565833949952">
         <mark key="[" line="0" column="0" />
@@ -89,14 +67,8 @@
       <file name="/postgres.public.sys_param [postgres@localhost]" timestamp="1565755819937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
-        <mark key="'" line="45" column="0" />
-      </file>
       <file name="/tscdb_dev.public.tsc_delivery_info [tscdb_dev@aws.test]" timestamp="1565833993517">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" timestamp="1565677363145">
-        <mark key="'" line="11" column="13" />
       </file>
       <file name="/postgres.public.sys_role_test [postgres@localhost]" timestamp="1565763959691">
         <mark key="[" line="0" column="0" />
@@ -119,11 +91,6 @@
         <mark key="]" line="68" column="40" />
         <mark key="^" line="63" column="0" />
         <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/geo/pojo/RegeoResult.java" timestamp="1565057761943">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="/tscdb_dev.public.tsc_signal_correction_formula [tscdb_dev@aws.test]" timestamp="1565689285330">
         <mark key="[" line="0" column="0" />
@@ -193,14 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="25" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
-      <jump line="110" column="33" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
-      <jump line="349" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
-      <jump line="26" column="36" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
-      <jump line="346" column="38" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
-      <jump line="347" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
-      <jump line="348" column="23" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" />
       <jump line="108" column="32" filename="$USER_HOME$/code/tg/tsg-delivery/src/main/java/com/ericsson/tsg/delivery/controller/OrderQueryController.java" />
       <jump line="27" column="37" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
@@ -293,16 +252,24 @@
       <jump line="114" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="121" column="23" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="14" column="40" filename="$USER_HOME$/code/tg/pom.xml" />
+      <jump line="108" column="46" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="122" column="21" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="124" column="19" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="237" column="19" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="62" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="80" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>getMethod</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>getMethod</text>
       </register>
       <register name="/" type="4">
-        <text>logback</text>
+        <text>doRequest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQlTdHJpbmcgZmlsZW5hbWUgPSBhdmF0YXJVcmkuc3Vic3RyaW5nKGF2YXRhclVyaS5sYXN0SW5kZXhPZigiLyIpICsgMSk7Cg==</text>
@@ -339,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logback</last-search>
+      <last-search>doRequest</last-search>
       <last-offset />
-      <last-pattern>logback</last-pattern>
+      <last-pattern>doRequest</last-pattern>
       <last-replace>, 'CN');</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shiro</entry>
         <entry>ANGULAR_SHIRO</entry>
         <entry>webRealm</entry>
         <entry>securityManager</entry>
@@ -369,6 +335,7 @@
         <entry>logstash</entry>
         <entry>logback.version</entry>
         <entry>logback</entry>
+        <entry>doRequest</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
