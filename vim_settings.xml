@@ -19,8 +19,8 @@
         <mark key="]" line="537" column="5" />
         <mark key="." line="537" column="5" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-parent/pom.xml" timestamp="1566270973384">
-        <mark key="'" line="13" column="47" />
+      <file name="$USER_HOME$/code/tsc/tsc-parent/pom.xml" timestamp="1566282076023">
+        <mark key="'" line="229" column="61" />
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="30" />
@@ -98,7 +98,7 @@
         <mark key="^" line="223" column="23" />
         <mark key="." line="223" column="23" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/resources/logback.xml" timestamp="1566272102002">
+      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/resources/logback.xml" timestamp="1566282030870">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -116,8 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="32" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
-      <jump line="270" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="271" column="23" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="17" column="9" filename="$USER_HOME$/code/tsc/tsc-admin/pom.xml" />
       <jump line="75" column="0" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
@@ -216,6 +214,8 @@
       <jump line="11" column="23" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/logback.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
+      <jump line="15" column="56" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
+      <jump line="229" column="61" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +227,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>log_file</text>
+        <text>druid</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgfWNhdGNoIChFeGNlcHRpb24gZSl7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiSHR0cFJlcXVlc3RTZXJ2aWNlICBkb1JlcXVlc3RSYXcgaXMgZXJyb3IiLGUpOwogICAgICAgICAgICBodHRwUmVxLmFib3J0KCk7CiAgICAgICAgfQ==</text>
@@ -266,9 +266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log_file</last-search>
+      <last-search>druid</last-search>
       <last-offset />
-      <last-pattern>log_file</last-pattern>
+      <last-pattern>druid</last-pattern>
       <last-replace>FILE</last-replace>
       <last-substitute>log_file</last-substitute>
       <last-dir>1</last-dir>
@@ -276,9 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toString</entry>
-        <entry>encoder</entry>
-        <entry>throw</entry>
         <entry>logstash</entry>
         <entry>logback.version</entry>
         <entry>doRequest</entry>
@@ -296,6 +293,9 @@
         <entry>servicestore_file</entry>
         <entry>logback</entry>
         <entry>log_file</entry>
+        <entry>post</entry>
+        <entry>driud</entry>
+        <entry>druid</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
