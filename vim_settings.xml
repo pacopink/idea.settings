@@ -46,8 +46,8 @@
       <file name="/postgres.public.csp_data_collect_mul_detail [postgres@localhost]" timestamp="1565751437474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" timestamp="1566263594976">
-        <mark key="'" line="96" column="0" />
+      <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" timestamp="1566265564043">
+        <mark key="'" line="106" column="12" />
         <mark key="[" line="126" column="87" />
         <mark key="]" line="126" column="94" />
         <mark key="." line="126" column="94" />
@@ -174,8 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="25" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
-      <jump line="92" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="614" column="0" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="514" column="17" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
       <jump line="515" column="12" filename="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/utils/Sftp.java" />
@@ -274,6 +272,8 @@
       <jump line="104" column="61" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
       <jump line="105" column="33" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
       <jump line="229" column="36" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
+      <jump line="103" column="56" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
+      <jump line="106" column="12" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -283,7 +283,7 @@
         <text encoding="base64">cmVzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>htpPost</text>
+        <text>执行</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQlTdHJpbmcgZmlsZW5hbWUgPSBhdmF0YXJVcmkuc3Vic3RyaW5nKGF2YXRhclVyaS5sYXN0SW5kZXhPZigiLyIpICsgMSk7Cg==</text>
@@ -320,9 +320,9 @@
       </register>
     </registers>
     <search>
-      <last-search>htpPost</last-search>
+      <last-search>执行</last-search>
       <last-offset />
-      <last-pattern>htpPost</last-pattern>
+      <last-pattern>执行</last-pattern>
       <last-replace>, 'CN');</last-replace>
       <last-substitute>);</last-substitute>
       <last-dir>1</last-dir>
@@ -330,7 +330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create_time)</entry>
         <entry>);</entry>
         <entry>tsc_conf_param</entry>
         <entry>doGetAuthen</entry>
@@ -350,6 +349,7 @@
         <entry>client</entry>
         <entry>httpRequestRetryHandler</entry>
         <entry>htpPost</entry>
+        <entry>执行</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
