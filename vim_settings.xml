@@ -48,7 +48,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566284136648">
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566284789784">
         <mark key="[" line="77" column="62" />
         <mark key="]" line="77" column="63" />
         <mark key="^" line="76" column="65" />
@@ -73,12 +73,6 @@
       </file>
       <file name="/HttpRequestService.java" timestamp="1566278792050" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/D2COrderServiceImpl.java" timestamp="1566263450898" />
-      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/logback.xml" timestamp="1565919580797">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="40" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryOrderQueryResult.java" timestamp="1566208425547" />
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1566277801547">
         <mark key="'" line="192" column="47" />
@@ -125,12 +119,6 @@
         <mark key="]" line="145" column="0" />
         <mark key="^" line="143" column="74" />
         <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/dubbox-tc-provider.xml" timestamp="1565849572947">
-        <mark key="[" line="202" column="27" />
-        <mark key="]" line="202" column="58" />
-        <mark key="." line="202" column="58" />
-        <mark key="^" line="202" column="58" />
       </file>
     </filemarks>
     <jumps>
