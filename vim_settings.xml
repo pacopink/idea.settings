@@ -48,6 +48,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566284136648">
+        <mark key="[" line="77" column="62" />
+        <mark key="]" line="77" column="63" />
+        <mark key="^" line="76" column="65" />
+        <mark key="." line="77" column="63" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" timestamp="1565677363145">
         <mark key="'" line="11" column="13" />
       </file>
@@ -67,6 +73,12 @@
       </file>
       <file name="/HttpRequestService.java" timestamp="1566278792050" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/D2COrderServiceImpl.java" timestamp="1566263450898" />
+      <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/resources/logback.xml" timestamp="1565919580797">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="40" />
+        <mark key="^" line="63" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryOrderQueryResult.java" timestamp="1566208425547" />
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1566277801547">
         <mark key="'" line="192" column="47" />
@@ -113,6 +125,12 @@
         <mark key="]" line="145" column="0" />
         <mark key="^" line="143" column="74" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/spring-config/service/dubbox-tc-provider.xml" timestamp="1565849572947">
+        <mark key="[" line="202" column="27" />
+        <mark key="]" line="202" column="58" />
+        <mark key="." line="202" column="58" />
+        <mark key="^" line="202" column="58" />
       </file>
     </filemarks>
     <jumps>
@@ -218,19 +236,17 @@
       <jump line="229" column="61" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1. fix the problem of HttpRequestService exception log not output the URI
-2. upgrade logback in all 3 module to version 1.2.3
-3. reconfigure all 3 modules' logback.xml, simplify the config and use SizeAndTimeBxasedRollingPolicy instead of TimeBasedRollingPolicy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygie30gPSB7fSIsIGV4cDEsIEF2aWF0b3JFdmFsdWF0b3IuZXhlY3V0ZShleHAxKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>druid</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgfWNhdGNoIChFeGNlcHRpb24gZSl7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiSHR0cFJlcXVlc3RTZXJ2aWNlICBkb1JlcXVlc3RSYXcgaXMgZXJyb3IiLGUpOwogICAgICAgICAgICBodHRwUmVxLmFib3J0KCk7CiAgICAgICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygie30gPSB7fSIsIGV4cDEsIEF2aWF0b3JFdmFsdWF0b3IuZXhlY3V0ZShleHAxKSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>1. fix the problem of HttpRequestService exception log not output the URI
