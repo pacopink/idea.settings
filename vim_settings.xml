@@ -49,6 +49,9 @@
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1566349815652">
+        <mark key="'" line="101" column="39" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
         <mark key="'" line="45" column="0" />
       </file>
@@ -73,6 +76,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="6" column="93" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/MyTest.scala" timestamp="1566350050251" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/RccUplinkServiceImpl.java" timestamp="1566285508498">
         <mark key="'" line="42" column="0" />
       </file>
@@ -85,12 +89,23 @@
       </file>
       <file name="/HttpRequestService.java" timestamp="1566278792050" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/src/main/java/com/ericsson/csp/tsc/delivery/service/impl/D2COrderServiceImpl.java" timestamp="1566263450898" />
+      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/ElasticsearchSink.scala" timestamp="1566350681193">
+        <mark key="[" line="17" column="45" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryOrderQueryResult.java" timestamp="1566208425547" />
       <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1566277801547">
         <mark key="'" line="192" column="47" />
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566350712839">
+        <mark key="[" line="42" column="85" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/ss/TokenManage/src/main/resources/logback.xml" timestamp="1566277965376">
         <mark key="[" line="34" column="0" />
@@ -136,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="32" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
-      <jump line="175" column="17" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="181" column="36" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="189" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="187" column="14" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
@@ -236,63 +249,64 @@
       <jump line="76" column="37" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" />
       <jump line="401" column="31" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" />
       <jump line="42" column="0" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/RccUplinkServiceImpl.java" />
+      <jump line="9" column="88" filename="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/ElasticsearchSink.scala" />
+      <jump line="101" column="39" filename="$USER_HOME$/code/streaming/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuYnUK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>Kafka</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNpZ25hbF9wYXRoIHZhcmNoYXIoMjU2KSwgICAtLSDlrozmlbTnmoTku45WRFPmtojmga/lj5bkv6Hlj7fnmoRwYXRoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuYnUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRhZyB2YXJjaGFyKDMyKSBub3QgbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgdmFsIHByb2R1Y2VyID0gbmV3IEVsYXN0aWNzZWFyY2hQcm9kdWNlcltLLCBWXShjb25maWcpCiAgICAgIHN5cy5hZGRTaHV0ZG93bkhvb2sgewogICAgICAgIC8vIEVuc3VyZSB0aGF0LCBvbiBleGVjdXRvciBKVk0gc2h1dGRvd24sIHRoZSBFbGFzdGljc2VhcmNoIHByb2R1Y2VyIHNlbmRzCiAgICAgICAgLy8gYW55IGJ1ZmZlcmVkIG1lc3NhZ2VzIHRvIEVsYXN0aWNzZWFyY2ggYmVmb3JlIHNodXR0aW5nIGRvd24uCiAgICAgICAgcHJvZHVjZXIuY2xvc2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgaG9zdHM6TGlzdFtIdHRwSG9zdF0gPSBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBwcm9kdWNlciA9IGNyZWF0ZVByb2R1Y2VyKCkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtIHZhcmNoYXIoNjQpLAo=</text>
+      <register name="7" type="4">
+        <text>[K, V]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhZyB2YXJjaGFyKDMyKSBwcmltYXJ5IGtleSwgLS0g55+t5ZG95ZCN77yM55So5Zyo6YWN572u55So5oi355WM6Z2i5LiKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/Kafka/Elasticsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>Kafka</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
-      <last-replace>FILE</last-replace>
-      <last-substitute>log_file</last-substitute>
+      <last-pattern>Kafka</last-pattern>
+      <last-replace>Elasticsearch</last-replace>
+      <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getSend</entry>
         <entry>postSend</entry>
         <entry>httpClient</entry>
         <entry>client</entry>
@@ -312,9 +326,9 @@
         <entry>m2mdm</entry>
         <entry>saveVehicleStatus</entry>
         <entry>save</entry>
+        <entry>Kafka</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>:w</entry>
         <entry>83</entry>
         <entry>452</entry>
@@ -334,6 +348,7 @@
         <entry>0</entry>
         <entry>127</entry>
         <entry>w</entry>
+        <entry>%s/Kafka/Elasticsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
