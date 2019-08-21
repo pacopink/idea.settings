@@ -3,36 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" timestamp="1565591252164">
-        <mark key="'" line="135" column="1" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" timestamp="1566357217208">
         <mark key="'" line="99" column="107" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/rolling/SizeAndTimeBasedRollingPolicy.class" timestamp="1566274609402">
-        <mark key="'" line="23" column="59" />
-      </file>
       <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/example/StreamingExamples.scala" timestamp="1566287777837" />
-      <file name="$USER_HOME$/code/tsc/tsc-admin/pom.xml" timestamp="1565753723496">
-        <mark key="'" line="17" column="9" />
-      </file>
       <file name="/logback.xml" timestamp="1566278374180" />
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" timestamp="1566030715392">
-        <mark key="'" line="470" column="12" />
-        <mark key="[" line="537" column="4" />
-        <mark key="]" line="537" column="5" />
-        <mark key="." line="537" column="5" />
-      </file>
       <file name="/HttpSendUtil.java" timestamp="1566358090122" />
-      <file name="$USER_HOME$/code/tsc/tsc-parent/pom.xml" timestamp="1566282076023">
-        <mark key="'" line="229" column="61" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" timestamp="1566285481495">
-        <mark key="'" line="401" column="31" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.1/logstash-logback-encoder-6.1.jar!/net/logstash/logback/appender/LogstashSocketAppender.class" timestamp="1566263565173" />
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" timestamp="1566199845037">
         <mark key="'" line="229" column="36" />
@@ -45,23 +21,14 @@
         <mark key="." line="108" column="72" />
         <mark key="^" line="108" column="72" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/pom.xml" timestamp="1565593386964">
-        <mark key="'" line="390" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/tg/pom.xml" timestamp="1566184392048">
-        <mark key="'" line="14" column="40" />
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-      </file>
       <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1566354628329">
         <mark key="'" line="187" column="16" />
         <mark key="[" line="145" column="4" />
         <mark key="]" line="145" column="4" />
         <mark key="." line="145" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" timestamp="1566365204525">
+        <mark key="'" line="603" column="36" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566287805265">
         <mark key="[" line="77" column="62" />
@@ -76,9 +43,6 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="/HttpClientUtil.java" timestamp="1566357966197" />
-      <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" timestamp="1565677363145">
-        <mark key="'" line="11" column="13" />
-      </file>
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/logback.xml" timestamp="1566278229400">
         <mark key="'" line="10" column="23" />
         <mark key="[" line="21" column="0" />
@@ -87,9 +51,7 @@
         <mark key="^" line="6" column="93" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/MyTest.scala" timestamp="1566350050251" />
-      <file name="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/RccUplinkServiceImpl.java" timestamp="1566285508498">
-        <mark key="'" line="42" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/InternalController.java" timestamp="1566364752142" />
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpSendUtil.java" timestamp="1566358723446">
         <mark key="'" line="97" column="28" />
       </file>
@@ -107,13 +69,10 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryOrderQueryResult.java" timestamp="1566208425547" />
-      <file name="$USER_HOME$/code/ss/TokenManage/pom.xml" timestamp="1566277801547">
-        <mark key="'" line="192" column="47" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" timestamp="1566364826369">
+        <mark key="'" line="40" column="47" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-api/src/main/java/com/ericsson/csp/tsc/api/pojo/DeliveryOrderQueryResult.java" timestamp="1566208425547" />
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566356933852">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="132" column="0" />
@@ -139,9 +98,6 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" timestamp="1566358767734">
         <mark key="'" line="223" column="22" />
       </file>
-      <file name="$USER_HOME$/code/ss/UniTSSPbackend/pom.xml" timestamp="1566274148737">
-        <mark key="'" line="5" column="15" />
-      </file>
       <file name="$USER_HOME$/code/tg/tsg-mes-collector/src/main/resources/logback.xml" timestamp="1566287354342" />
       <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1566183666482">
         <mark key="'" line="212" column="33" />
@@ -158,9 +114,6 @@
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/utils/HttpsAuthConnManager.java" timestamp="1566263588520" />
       <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/VehicleStatus.java" timestamp="1566285597974" />
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/rolling/TimeBasedRollingPolicy.class" timestamp="1566274638962">
-        <mark key="'" line="178" column="28" />
-      </file>
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1566179502846">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
@@ -169,12 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="23" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
-      <jump line="537" column="4" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
-      <jump line="644" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
-      <jump line="684" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
-      <jump line="470" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
-      <jump line="212" column="33" filename="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" />
       <jump line="316" column="20" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="319" column="34" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
       <jump line="320" column="33" filename="$USER_HOME$/code/tg/tsg-delivery/pom.xml" />
@@ -269,6 +216,12 @@
       <jump line="374" column="42" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
       <jump line="194" column="21" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
       <jump line="223" column="22" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
+      <jump line="29" column="45" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" />
+      <jump line="40" column="47" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" />
+      <jump line="80" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" />
+      <jump line="85" column="42" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" />
+      <jump line="94" column="20" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" />
+      <jump line="603" column="36" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -278,7 +231,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>doRequestRaw</text>
+        <text>redisTemplate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBFbGFzdGljc2VhcmNoU2luayBlc1NpbmsgPSBFbGFzdGljc2VhcmNoU2luay5hcHBseSgiMTI3LjAuMC4xOjkyMDAiKTsKICAgICAgICBSZXN0SGlnaExldmVsQ2xpZW50IGhDbGllbnQgPSBlc1NpbmsuZ2V0SGlnaExldmVsQ2xpZW50KCk7Cg==</text>
@@ -315,9 +268,9 @@
       </register>
     </registers>
     <search>
-      <last-search>doRequestRaw</last-search>
+      <last-search>redisTemplate</last-search>
       <last-offset />
-      <last-pattern>doRequestRaw</last-pattern>
+      <last-pattern>redisTemplate</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
@@ -325,8 +278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>htpPost</entry>
-        <entry>执行</entry>
         <entry>max</entry>
         <entry>total</entry>
         <entry>totalSize</entry>
@@ -345,6 +296,8 @@
         <entry>DEFAULT</entry>
         <entry>client</entry>
         <entry>doRequestRaw</entry>
+        <entry>request</entry>
+        <entry>redisTemplate</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
