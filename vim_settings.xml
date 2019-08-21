@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/resources/app.properties" timestamp="1565591252164">
         <mark key="'" line="135" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" timestamp="1566357217208">
+        <mark key="'" line="99" column="107" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar!/ch/qos/logback/core/rolling/SizeAndTimeBasedRollingPolicy.class" timestamp="1566274609402">
         <mark key="'" line="23" column="59" />
       </file>
@@ -106,12 +109,14 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566355094914">
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="67" column="39" />
-        <mark key="." line="67" column="39" />
-        <mark key="^" line="67" column="39" />
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566356933852">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="130" column="19" />
+        <mark key="." line="132" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/update/UpdateRequest.class" timestamp="1566355460308" />
       <file name="$USER_HOME$/code/ss/TokenManage/src/main/resources/logback.xml" timestamp="1566277965376">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -156,11 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
-      <jump line="187" column="14" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
-      <jump line="149" column="5" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
-      <jump line="155" column="48" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
-      <jump line="154" column="26" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
       <jump line="62" column="0" filename="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" />
       <jump line="61" column="94" filename="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" />
       <jump line="15" column="56" filename="$USER_HOME$/code/tsc/tsc-admin/doc/init-data.sql" />
@@ -256,55 +256,60 @@
       <jump line="9" column="88" filename="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/ElasticsearchSink.scala" />
       <jump line="101" column="39" filename="$USER_HOME$/code/streaming/pom.xml" />
       <jump line="149" column="16" filename="$USER_HOME$/code/streaming/pom.xml" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
+      <jump line="16" column="39" filename="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" />
+      <jump line="60" column="86" filename="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" />
+      <jump line="99" column="107" filename="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>jackson</text>
+        <text>DEFAULT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5wZXJmb3JtUmVxdWVzdChuZXcgUmVxdWVzdCgiR0VUIiwgIi9fY2F0L25vZGVzP2g9aXAscG9ydCxoZWFwUGVyY2VudCxuYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbGFzdGljc2VhcmNoU2luayBlc1NpbmsgPSBFbGFzdGljc2VhcmNoU2luay5hcHBseSgiMTI3LjAuMC4xOjkyMDAiKTsKICAgICAgICBSZXN0SGlnaExldmVsQ2xpZW50IGhDbGllbnQgPSBlc1NpbmsuZ2V0SGlnaExldmVsQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkb2MiICAvLyBUeXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICDCoCDCoCDCoAogIMKgIMKgIMKgCiAgwqAgwqAgwqA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgwqAgwqAgwqA8Z3JvdXBJZD5vcmcuZWxhc3RpY3NlYXJjaDwvZ3JvdXBJZD4KICAgICAgwqAgwqAgwqA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoPC9hcnRpZmFjdElkPgogICAgICDCoCDCoCDCoDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjHQwNDA044CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIGJ5LXNh54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvdDA0MDQvYXJ0aWNsZS9kZXRhaWxzLzgyNzg1MTU4Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiVXBkYXRlUmVzcG9uc2UxOiB7fSIsIHJlc3ApOwogICAgICAgIFVwZGF0ZVJlcXVlc3QgcmVxMiA9IG5ldyBVcGRhdGVSZXF1ZXN0KCJwb3N0cyIsICIyIikuKGJ1aWxkZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>jackson</last-search>
+      <last-search>DEFAULT</last-search>
       <last-offset />
-      <last-pattern>jackson</last-pattern>
+      <last-pattern>DEFAULT</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
@@ -312,7 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>httpClient</entry>
         <entry>client</entry>
         <entry>httpRequestRetryHandler</entry>
         <entry>htpPost</entry>
@@ -332,6 +336,7 @@
         <entry>save</entry>
         <entry>Kafka</entry>
         <entry>jackson</entry>
+        <entry>DEFAULT</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -352,8 +357,8 @@
         <entry>%s/log_file/FILE/g</entry>
         <entry>127</entry>
         <entry>%s/Kafka/Elasticsearch</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
