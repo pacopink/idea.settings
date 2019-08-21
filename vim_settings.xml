@@ -33,6 +33,7 @@
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" timestamp="1566199845037">
         <mark key="'" line="229" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/index/IndexRequest.class" timestamp="1566354381603" />
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" timestamp="1566278883628">
         <mark key="'" line="106" column="12" />
         <mark key="[" line="108" column="59" />
@@ -49,11 +50,11 @@
         <mark key="]" line="18" column="29" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1566353132808">
-        <mark key="'" line="101" column="39" />
-        <mark key="[" line="121" column="4" />
-        <mark key="]" line="121" column="4" />
-        <mark key="." line="121" column="4" />
+      <file name="$USER_HOME$/code/streaming/pom.xml" timestamp="1566354628329">
+        <mark key="'" line="187" column="16" />
+        <mark key="[" line="145" column="4" />
+        <mark key="]" line="145" column="4" />
+        <mark key="." line="145" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar!/org/apache/shiro/authc/UsernamePasswordToken.class" timestamp="1565767871562">
         <mark key="'" line="45" column="0" />
@@ -105,11 +106,11 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566353179073">
-        <mark key="[" line="69" column="43" />
-        <mark key="]" line="69" column="43" />
-        <mark key="." line="69" column="43" />
-        <mark key="^" line="69" column="43" />
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566355094914">
+        <mark key="[" line="67" column="39" />
+        <mark key="]" line="67" column="39" />
+        <mark key="." line="67" column="39" />
+        <mark key="^" line="67" column="39" />
       </file>
       <file name="$USER_HOME$/code/ss/TokenManage/src/main/resources/logback.xml" timestamp="1566277965376">
         <mark key="[" line="34" column="0" />
@@ -155,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="36" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="189" column="24" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="187" column="14" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/resources/applicationContext-jdbc.xml" />
       <jump line="149" column="5" filename="$USER_HOME$/code/tsc/tsc-admin/src/main/java/com/ericsson/csp/tsc/admin/realms/WebRealm.java" />
@@ -255,55 +255,56 @@
       <jump line="42" column="0" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/RccUplinkServiceImpl.java" />
       <jump line="9" column="88" filename="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/ElasticsearchSink.scala" />
       <jump line="101" column="39" filename="$USER_HOME$/code/streaming/pom.xml" />
+      <jump line="149" column="16" filename="$USER_HOME$/code/streaming/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICDCoCDCoCDCoAogIMKgIMKgIMKgCiAgwqAgwqAgwqA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dependency</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Kafka</text>
+        <text>jackson</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBSZXNwb25zZSByZXNwb25zZSA9IGNsaWVudC5wZXJmb3JtUmVxdWVzdChuZXcgUmVxdWVzdCgiR0VUIiwgIi9fY2F0L25vZGVzP2g9aXAscG9ydCxoZWFwUGVyY2VudCxuYW1lIikpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICDCoCDCoCDCoAogIMKgIMKgIMKgCiAgwqAgwqAgwqA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgwqAgwqAgwqA8Z3JvdXBJZD5vcmcuZWxhc3RpY3NlYXJjaDwvZ3JvdXBJZD4KICAgICAgwqAgwqAgwqA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoPC9hcnRpZmFjdElkPgogICAgICDCoCDCoCDCoDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJkb2MiICAvLyBUeXBlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICDCoCDCoCDCoAogIMKgIMKgIMKgCiAgwqAgwqAgwqA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+        <text encoding="base64">ICAgICAgwqAgwqAgwqA8Z3JvdXBJZD5vcmcuZWxhc3RpY3NlYXJjaDwvZ3JvdXBJZD4KICAgICAgwqAgwqAgwqA8YXJ0aWZhY3RJZD5lbGFzdGljc2VhcmNoPC9hcnRpZmFjdElkPgogICAgICDCoCDCoCDCoDx2ZXJzaW9uPjcuMi4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDw+Cg==</text>
+        <text encoding="base64">ICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjHQwNDA044CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIGJ5LXNh54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvdDA0MDQvYXJ0aWNsZS9kZXRhaWxzLzgyNzg1MTU4Cg==</text>
+        <text encoding="base64">ICAgIDw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgIDw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoQ2xpZW50LmdldCgpCg==</text>
+        <text encoding="base64">ICAgIOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlAogICAg54mI5p2D5aOw5piO77ya5pys5paH5Li6Q1NETuWNmuS4u+OAjHQwNDA044CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIGJ5LXNh54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCiAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvdDA0MDQvYXJ0aWNsZS9kZXRhaWxzLzgyNzg1MTU4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5KYXZhQ29udmVyc2lvbnMuXwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Kafka</last-search>
+      <last-search>jackson</last-search>
       <last-offset />
-      <last-pattern>Kafka</last-pattern>
+      <last-pattern>jackson</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
@@ -311,7 +312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>postSend</entry>
         <entry>httpClient</entry>
         <entry>client</entry>
         <entry>httpRequestRetryHandler</entry>
@@ -331,6 +331,7 @@
         <entry>saveVehicleStatus</entry>
         <entry>save</entry>
         <entry>Kafka</entry>
+        <entry>jackson</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -349,10 +350,10 @@
         <entry>%s/msdp_file/servicestore_file/g</entry>
         <entry>%s/servicestore_file/FILE/g</entry>
         <entry>%s/log_file/FILE/g</entry>
-        <entry>0</entry>
         <entry>127</entry>
         <entry>%s/Kafka/Elasticsearch</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
