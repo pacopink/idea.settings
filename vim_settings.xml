@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" timestamp="1566364826369">
         <mark key="'" line="40" column="47" />
       </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566381224157">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+      </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566356933852">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="132" column="0" />
@@ -211,7 +217,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -223,31 +229,31 @@
         <text encoding="base64">ICAgICAgICBFbGFzdGljc2VhcmNoU2luayBlc1NpbmsgPSBFbGFzdGljc2VhcmNoU2luay5hcHBseSgiMTI3LjAuMC4xOjkyMDAiKTsKICAgICAgICBSZXN0SGlnaExldmVsQ2xpZW50IGhDbGllbnQgPSBlc1NpbmsuZ2V0SGlnaExldmVsQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIltrcGktcHJvZHVjdC1xdWVyeS1kZWxheV0gWyIrZGVsYXkrIl0gW10iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiVXBkYXRlUmVzcG9uc2UxOiB7fSIsIHJlc3ApOwogICAgICAgIFVwZGF0ZVJlcXVlc3QgcmVxMiA9IG5ldyBVcGRhdGVSZXF1ZXN0KCJwb3N0cyIsICIyIikuKGJ1aWxkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>697</text>
