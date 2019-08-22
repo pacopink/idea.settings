@@ -20,6 +20,9 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpSendUtil.java" timestamp="1566379962255">
         <mark key="'" line="115" column="8" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" timestamp="1566483612977">
+        <mark key="'" line="59" column="38" />
+      </file>
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" timestamp="1566379621743">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="108" column="59" />
@@ -70,6 +73,10 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" timestamp="1566366675555">
         <mark key="'" line="603" column="36" />
       </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1566483043222">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="3473" />
+      </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566287805265">
         <mark key="[" line="77" column="62" />
         <mark key="]" line="77" column="63" />
@@ -87,12 +94,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566356933852">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="130" column="19" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566485256530">
+        <mark key="'" line="79" column="28" />
+        <mark key="[" line="140" column="21" />
+        <mark key="]" line="140" column="22" />
+        <mark key="^" line="140" column="21" />
+        <mark key="." line="140" column="22" />
       </file>
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/logback.xml" timestamp="1566278229400">
         <mark key="'" line="10" column="23" />
@@ -115,16 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="46" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="122" column="21" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="124" column="19" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="237" column="19" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="52" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="62" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="80" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="77" column="23" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
       <jump line="115" column="25" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
       <jump line="192" column="25" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
       <jump line="222" column="25" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
@@ -215,55 +212,65 @@
       <jump line="63" column="74" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/ExternalController.java" />
       <jump line="64" column="22" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/ExternalController.java" />
       <jump line="80" column="26" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/ExternalController.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="44" column="37" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="47" column="68" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="53" column="17" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="57" column="41" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="58" column="40" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="59" column="38" filename="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/7.2.0/elasticsearch-7.2.0.jar!/org/elasticsearch/action/bulk/BulkItemResponse.class" />
+      <jump line="153" column="8" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
+      <jump line="38" column="34" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
+      <jump line="79" column="28" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>kpi-product-query-delay</text>
+        <text>failure</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFbGFzdGljc2VhcmNoU2luayBlc1NpbmsgPSBFbGFzdGljc2VhcmNoU2luay5hcHBseSgiMTI3LjAuMC4xOjkyMDAiKTsKICAgICAgICBSZXN0SGlnaExldmVsQ2xpZW50IGhDbGllbnQgPSBlc1NpbmsuZ2V0SGlnaExldmVsQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1bGtSZXNwb25zZSByZXNwID0gYy5idWxrKHJlcSwgUmVxdWVzdE9wdGlvbnMuREVGQVVMVCk7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiQnVsa1Jlc3BvbnM6IHt9LCBjb3VudDoge30iLCByZXNwLCBjb3VudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIltrcGktcHJvZHVjdC1xdWVyeS1kZWxheV0gWyIrZGVsYXkrIl0gW10iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihCdWxrSXRlbVJlc3BvbnNlIGJyZXNwOnJlc3AuZ2V0SXRlbXMoKSkgewogICAgICAgICAgICAgICAgICAgIGJyZXNwLmdldEZhaWx1cmUoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3AuZ2V0SXRlbXMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>697</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kpi-product-query-delay</last-search>
+      <last-search>failure</last-search>
       <last-offset />
-      <last-pattern>kpi-product-query-delay</last-pattern>
+      <last-pattern>failure</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
@@ -271,7 +278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logback</entry>
         <entry>log_file</entry>
         <entry>post</entry>
         <entry>driud</entry>
@@ -291,6 +297,7 @@
         <entry>raw</entry>
         <entry>kpi</entry>
         <entry>kpi-product-query-delay</entry>
+        <entry>failure</entry>
       </history-search>
       <history-cmd>
         <entry>83</entry>
@@ -310,9 +317,9 @@
         <entry>%s/log_file/FILE/g</entry>
         <entry>127</entry>
         <entry>%s/Kafka/Elasticsearch</entry>
-        <entry>w</entry>
         <entry>697</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
