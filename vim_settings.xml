@@ -32,7 +32,7 @@
         <mark key="]" line="23" column="3473" />
       </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/resources/mybatis/mapper/ServiceSub.xml" timestamp="1566528755949" />
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566533665991">
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566537360597">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
