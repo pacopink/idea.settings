@@ -32,16 +32,17 @@
         <mark key="]" line="23" column="3473" />
       </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/resources/mybatis/mapper/ServiceSub.xml" timestamp="1566528755949" />
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566381224157">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566533665991">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" timestamp="1566531179119">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" timestamp="1566532238648">
+        <mark key="'" line="68" column="22" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="150" column="55" />
       </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" timestamp="1566528285294">
         <mark key="'" line="79" column="28" />
@@ -50,7 +51,9 @@
         <mark key="^" line="140" column="21" />
         <mark key="." line="140" column="22" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" timestamp="1566530206983" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" timestamp="1566533029037">
+        <mark key="'" line="436" column="43" />
+      </file>
       <file name="$USER_HOME$/code/ss/TokenManage/src/main/resources/logback.xml" timestamp="1566277965376">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -63,11 +66,7 @@
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" timestamp="1566199845037">
         <mark key="'" line="229" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566278932232">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1566534327172" />
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" timestamp="1566358767734">
         <mark key="'" line="223" column="22" />
       </file>
@@ -80,6 +79,9 @@
       </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/ExternalController.java" timestamp="1566530103219">
         <mark key="'" line="80" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/dao/BaseDAO.java" timestamp="1566533268682">
+        <mark key="'" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1566183666482">
         <mark key="'" line="212" column="33" />
@@ -100,9 +102,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" timestamp="1566530546908">
-        <mark key="'" line="87" column="133" />
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" timestamp="1566532988834">
+        <mark key="'" line="84" column="38" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/SqlSessionTemplate.class" timestamp="1566532447931" />
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566287805265">
         <mark key="[" line="77" column="62" />
         <mark key="]" line="77" column="63" />
@@ -129,27 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="25" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="222" column="25" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="416" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="118" column="25" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="183" column="41" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="50" column="47" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="55" column="32" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="65" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="94" column="13" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="95" column="13" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="189" column="40" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" />
-      <jump line="104" column="61" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="105" column="33" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="229" column="36" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" />
-      <jump line="103" column="56" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="106" column="12" filename="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/convert/app/service/HttpRequestService.java" />
-      <jump line="13" column="47" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="5" column="15" filename="$USER_HOME$/code/ss/UniTSSPbackend/pom.xml" />
-      <jump line="60" column="12" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
-      <jump line="214" column="10" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
-      <jump line="18" column="24" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
       <jump line="192" column="13" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
       <jump line="193" column="12" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
       <jump line="210" column="16" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
@@ -229,69 +211,83 @@
       <jump line="38" column="34" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
       <jump line="79" column="28" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
       <jump line="87" column="133" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" />
+      <jump line="159" column="16" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" />
+      <jump line="60" column="42" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" />
+      <jump line="47" column="18" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" />
+      <jump line="68" column="22" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" />
+      <jump line="67" column="12" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/dao/BaseDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/dao/BaseDAO.java" />
+      <jump line="29" column="31" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/dao/BaseDAO.java" />
+      <jump line="551" column="53" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="632" column="60" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="84" column="38" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" />
+      <jump line="576" column="43" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="49" column="65" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="101" column="51" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="125" column="43" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="196" column="56" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="238" column="47" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="274" column="31" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="325" column="55" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="365" column="39" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="408" column="59" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
+      <jump line="436" column="43" filename="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>ServiceSub.selectPageQueryInUseService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1bGtSZXNwb25zZSByZXNwID0gYy5idWxrKHJlcSwgUmVxdWVzdE9wdGlvbnMuREVGQVVMVCk7CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiQnVsa1Jlc3BvbnM6IHt9LCBjb3VudDoge30iLCByZXNwLCBjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKQVhCQ29udGV4dCBjb250ZXh0ID0gamF4YkNvbnRleHRNYXAuZ2V0KHZhbHVlVHlwZSk7IAogICAgICAgIGlmIChjb250ZXh0ID09IG51bGwpIHsKICAgICAgICAgICAgc3luY2hyb25pemVkIChqYXhiQ29udGV4dE1hcCkgewogICAgICAgICAgICAgICAgLy8gZG91YmxlIGNoZWNrCiAgICAgICAgICAgICAgICBjb250ZXh0ID0gamF4YkNvbnRleHRNYXAuZ2V0KHZhbHVlVHlwZSk7IAogICAgICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGNvbnRleHQgPSBKQVhCQ29udGV4dC5uZXdJbnN0YW5jZSh2YWx1ZVR5cGUpOwogICAgICAgICAgICAgICAgICAgIGpheGJDb250ZXh0TWFwLnB1dCh2YWx1ZVR5cGUsIGNvbnRleHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZVR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpheGJDb250ZXh0TWFwLmdldCh2YWx1ZVR5cGUpOyAKICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIHN5bmNocm9uaXplZCAoamF4YkNvbnRleHRNYXApIHsKICAgICAgICAgICAgICAgIC8vIGRvdWJsZSBjaGVjawogICAgICAgICAgICAgICAgY29udGV4dCA9IGpheGJDb250ZXh0TWFwLmdldCh2YWx1ZVR5cGUpOyAKICAgICAgICAgICAgICAgIGlmIChjb250ZXh0ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0ID0gSkFYQkNvbnRleHQubmV3SW5zdGFuY2UodmFsdWVUeXBlKTsKICAgICAgICAgICAgICAgICAgICBqYXhiQ29udGV4dE1hcC5wdXQodmFsdWVUeXBlLCBjb250ZXh0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljPFQ+IEpBWEJDb250ZXh0IGdldEpBWEJDb250ZXh0KENsYXNzPFQ+IHZhbHVlVHlwZSkgdGhyb3dzIEpBWEJFeGNlcHRpb24gewogICAgICAgIEpBWEJDb250ZXh0IGNvbnRleHQgPSBqYXhiQ29udGV4dE1hcC5nZXQodmFsdWVUeXBlKTsKICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIHN5bmNocm9uaXplZCAoamF4YkNvbnRleHRNYXApIHsKICAgICAgICAgICAgICAgIC8vIGRvdWJsZSBjaGVjawogICAgICAgICAgICAgICAgY29udGV4dCA9IGpheGJDb250ZXh0TWFwLmdldCh2YWx1ZVR5cGUpOwogICAgICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGNvbnRleHQgPSBKQVhCQ29udGV4dC5uZXdJbnN0YW5jZSh2YWx1ZVR5cGUpOwogICAgICAgICAgICAgICAgICAgIGpheGJDb250ZXh0TWFwLnB1dCh2YWx1ZVR5cGUsIGNvbnRleHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb250ZXh0OyAKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQgPSBKQVhCQ29udGV4dC5uZXdJbnN0YW5jZSh2YWx1ZVR5cGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsSkFYQkNvbnRleHQgY29udGV4dCA9IEpBWEJDb250ZXh0Lm5ld0luc3RhbmNlKHZhbHVlVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAlKQVhCQ29udGV4dCBjb250ZXh0ID0gSkFYQkNvbnRleHQubmV3SW5zdGFuY2UodmFsdWVUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dCA9IEpBWEJDb250ZXh0Lm5ld0luc3RhbmNlKHZhbHVlVHlwZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>126</text>
+        <text>580</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>ServiceSub.selectPageQueryInUseService</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>ServiceSub.selectPageQueryInUseService</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>driud</entry>
-        <entry>druid</entry>
-        <entry>m2mdm</entry>
-        <entry>saveVehicleStatus</entry>
-        <entry>save</entry>
-        <entry>Kafka</entry>
-        <entry>jackson</entry>
         <entry>DEFAULT</entry>
         <entry>client</entry>
         <entry>doRequestRaw</entry>
@@ -305,6 +301,13 @@
         <entry>failure</entry>
         <entry>servicePage</entry>
         <entry>url</entry>
+        <entry>newIn</entry>
+        <entry>getJAXBContext</entry>
+        <entry>sqlSessionTemplate</entry>
+        <entry>parse</entry>
+        <entry>Base</entry>
+        <entry>baseDao</entry>
+        <entry>ServiceSub.selectPageQueryInUseService</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4xNDM=</entry>
@@ -321,12 +324,12 @@
         <entry>127</entry>
         <entry>%s/Kafka/Elasticsearch</entry>
         <entry>697</entry>
-        <entry>w</entry>
-        <entry>580</entry>
-        <entry>87</entry>
         <entry>114</entry>
         <entry>126</entry>
+        <entry>w</entry>
         <entry>0</entry>
+        <entry>87</entry>
+        <entry>580</entry>
       </history-cmd>
       <history-expr />
       <history-input />
