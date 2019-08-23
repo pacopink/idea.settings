@@ -31,13 +31,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="3473" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/resources/mybatis/mapper/ServiceSub.xml" timestamp="1566528755949" />
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566537360597">
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566538130080">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" timestamp="1566532238648">
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" timestamp="1566540246841">
         <mark key="'" line="68" column="22" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -54,19 +53,12 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" timestamp="1566533029037">
         <mark key="'" line="436" column="43" />
       </file>
-      <file name="$USER_HOME$/code/ss/TokenManage/src/main/resources/logback.xml" timestamp="1566277965376">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/pom.xml" timestamp="1566278664202">
         <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" timestamp="1566199845037">
         <mark key="'" line="229" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566534327172" />
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/HttpClientUtil.java" timestamp="1566358767734">
         <mark key="'" line="223" column="22" />
       </file>
@@ -80,7 +72,7 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/ExternalController.java" timestamp="1566530103219">
         <mark key="'" line="80" column="26" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/dao/BaseDAO.java" timestamp="1566533268682">
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/dao/BaseDAO.java" timestamp="1566540310040">
         <mark key="'" line="29" column="31" />
       </file>
       <file name="$USER_HOME$/code/tsc/tsc-delivery/pom.xml" timestamp="1566183666482">
@@ -96,21 +88,8 @@
         <mark key="]" line="145" column="4" />
         <mark key="." line="145" column="4" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-ihu/src/main/resources/logback.xml" timestamp="1566282030870">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="14" column="37" />
-      </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/common/BaseService.java" timestamp="1566532988834">
         <mark key="'" line="84" column="38" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/SqlSessionTemplate.class" timestamp="1566532447931" />
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/Expression.java" timestamp="1566287805265">
-        <mark key="[" line="77" column="62" />
-        <mark key="]" line="77" column="63" />
-        <mark key="^" line="76" column="65" />
-        <mark key="." line="77" column="63" />
       </file>
       <file name="$USER_HOME$/code/streaming/sql/init.sql" timestamp="1566287511995">
         <mark key="[" line="36" column="0" />
@@ -124,12 +103,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="6" column="93" />
       </file>
-      <file name="$USER_HOME$/code/tc/geelyTCAccess/src/main/java/com/ericsson/csp/tc/unifiedservice/service/uvc/impl/TcFileUploadServiceImpl.java" timestamp="1566179502846">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="143" column="74" />
-        <mark key="." line="145" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/resources/mybatis/mapper/AppSub.xml" timestamp="1566539698013" />
     </filemarks>
     <jumps>
       <jump line="192" column="13" filename="$USER_HOME$/code/ss/ServiceStore/pom.xml" />
@@ -241,7 +215,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>ServiceSub.selectPageQueryInUseService</text>
+        <text>getMapper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBKQVhCQ29udGV4dCBjb250ZXh0ID0gamF4YkNvbnRleHRNYXAuZ2V0KHZhbHVlVHlwZSk7IAogICAgICAgIGlmIChjb250ZXh0ID09IG51bGwpIHsKICAgICAgICAgICAgc3luY2hyb25pemVkIChqYXhiQ29udGV4dE1hcCkgewogICAgICAgICAgICAgICAgLy8gZG91YmxlIGNoZWNrCiAgICAgICAgICAgICAgICBjb250ZXh0ID0gamF4YkNvbnRleHRNYXAuZ2V0KHZhbHVlVHlwZSk7IAogICAgICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGNvbnRleHQgPSBKQVhCQ29udGV4dC5uZXdJbnN0YW5jZSh2YWx1ZVR5cGUpOwogICAgICAgICAgICAgICAgICAgIGpheGJDb250ZXh0TWFwLnB1dCh2YWx1ZVR5cGUsIGNvbnRleHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
@@ -274,13 +248,13 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>580</text>
+        <text>697</text>
       </register>
     </registers>
     <search>
-      <last-search>ServiceSub.selectPageQueryInUseService</last-search>
+      <last-search>getMapper</last-search>
       <last-offset />
-      <last-pattern>ServiceSub.selectPageQueryInUseService</last-pattern>
+      <last-pattern>getMapper</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
@@ -288,10 +262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DEFAULT</entry>
-        <entry>client</entry>
-        <entry>doRequestRaw</entry>
-        <entry>request</entry>
         <entry>redisTemplate</entry>
         <entry>release</entry>
         <entry>doRow</entry>
@@ -308,10 +278,12 @@
         <entry>Base</entry>
         <entry>baseDao</entry>
         <entry>ServiceSub.selectPageQueryInUseService</entry>
+        <entry>pull</entry>
+        <entry>app_sub</entry>
+        <entry>select2List</entry>
+        <entry>getMapper</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4xNDM=</entry>
-        <entry>143</entry>
         <entry encoding="base64">JzwsJz5zL2NyZWF0ZV90aW1lKS9jcmVhdGVfdGltZSwgbG9jYWxlKS9n</entry>
         <entry encoding="base64">JzwsJz5zLyk7LywgJ0NOJyk7L2c=</entry>
         <entry>69</entry>
@@ -323,13 +295,15 @@
         <entry>%s/log_file/FILE/g</entry>
         <entry>127</entry>
         <entry>%s/Kafka/Elasticsearch</entry>
-        <entry>697</entry>
         <entry>114</entry>
         <entry>126</entry>
         <entry>w</entry>
         <entry>0</entry>
         <entry>87</entry>
         <entry>580</entry>
+        <entry>238</entry>
+        <entry>91</entry>
+        <entry>697</entry>
       </history-cmd>
       <history-expr />
       <history-input />
