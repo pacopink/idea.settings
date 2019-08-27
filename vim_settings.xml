@@ -22,10 +22,6 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" timestamp="1566364826369">
         <mark key="'" line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1566483043222">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="3473" />
-      </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566538130080">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -37,6 +33,13 @@
         <mark key="]" line="193" column="44" />
         <mark key="." line="193" column="44" />
         <mark key="^" line="193" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" timestamp="1566898387028">
+        <mark key="'" line="40" column="63" />
+        <mark key="[" line="73" column="72" />
+        <mark key="]" line="74" column="7" />
+        <mark key="^" line="74" column="7" />
+        <mark key="." line="74" column="7" />
       </file>
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/convert/util/XmlUtil.java" timestamp="1566542902105">
         <mark key="'" line="135" column="18" />
@@ -58,9 +61,14 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/ServiceRoutingRule/ServiceRoutingRuleService.java" timestamp="1566543950535">
         <mark key="'" line="436" column="43" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" timestamp="1566898484502">
+        <mark key="'" line="525" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/java/com/ericsson/csp/tsc/schedule/interfaces/impl/MessageUpdateBatchTask.java" timestamp="1566898625141" />
       <file name="$USER_HOME$/code/ss/ServiceStore/pom.xml" timestamp="1566278664202">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-message/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1566897519017" />
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" timestamp="1566199845037">
         <mark key="'" line="229" column="36" />
       </file>
@@ -97,6 +105,9 @@
         <mark key="^" line="85" column="11" />
         <mark key="." line="85" column="11" />
       </file>
+      <file name="$USER_HOME$/code/tsc/tsc-message/src/main/resources/spring-config/applicationContext-base.xml" timestamp="1566897554015">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/MapKey.java" timestamp="1566544859987">
         <mark key="[" line="25" column="47" />
         <mark key="]" line="25" column="48" />
@@ -108,6 +119,9 @@
         <mark key="]" line="77" column="63" />
         <mark key="^" line="76" column="65" />
         <mark key="." line="77" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" timestamp="1566897683446">
+        <mark key="'" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/resources/logback.xml" timestamp="1566278229400">
         <mark key="'" line="10" column="23" />
@@ -127,15 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="56" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="229" column="61" filename="$USER_HOME$/code/tsc/tsc-parent/pom.xml" />
-      <jump line="76" column="37" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" />
-      <jump line="401" column="31" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/GenericUplinkServiceImpl.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/code/tsc/tsc-remote-control/src/main/java/com/ericsson/csp/tsc/remotecontrol/uplink/RccUplinkServiceImpl.java" />
-      <jump line="9" column="88" filename="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/wrapper/ElasticsearchSink.scala" />
-      <jump line="101" column="39" filename="$USER_HOME$/code/streaming/pom.xml" />
-      <jump line="149" column="16" filename="$USER_HOME$/code/streaming/pom.xml" />
-      <jump line="74" column="0" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
       <jump line="56" column="0" filename="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/EsTest.java" />
       <jump line="16" column="39" filename="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" />
       <jump line="60" column="86" filename="$MAVEN_REPOSITORY$/org/elasticsearch/client/elasticsearch-rest-client/7.2.0/elasticsearch-rest-client-7.2.0.jar!/org/elasticsearch/client/RequestOptions.class" />
@@ -227,6 +232,15 @@
       <jump line="133" column="25" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="155" column="85" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
       <jump line="190" column="52" filename="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/tsc/tsc-message/src/main/resources/spring-config/applicationContext-base.xml" />
+      <jump line="11" column="13" filename="$USER_HOME$/code/tsc/tsc-common/src/main/java/com/ericsson/csp/tsc/entity/enums/ServiceId.java" />
+      <jump line="35" column="3" filename="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" />
+      <jump line="75" column="49" filename="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" />
+      <jump line="40" column="63" filename="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" />
+      <jump line="516" column="26" filename="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" />
+      <jump line="263" column="16" filename="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" />
+      <jump line="272" column="16" filename="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" />
+      <jump line="525" column="17" filename="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -236,7 +250,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>removeFlag</text>
+        <text>messageSendToAPP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZXhpc3RzIGI6IHt9IiwgbS5jb250YWluc0tleShiLmdldENsYXNzKCkpKTsK</text>
@@ -273,9 +287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>removeFlag</last-search>
+      <last-search>messageSendToAPP</last-search>
       <last-offset />
-      <last-pattern>removeFlag</last-pattern>
+      <last-pattern>messageSendToAPP</last-pattern>
       <last-replace>Elasticsearch</last-replace>
       <last-substitute>Kafka</last-substitute>
       <last-dir>1</last-dir>
@@ -283,12 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>servicePage</entry>
-        <entry>url</entry>
-        <entry>newIn</entry>
-        <entry>getJAXBContext</entry>
-        <entry>sqlSessionTemplate</entry>
-        <entry>parse</entry>
         <entry>Base</entry>
         <entry>baseDao</entry>
         <entry>ServiceSub.selectPageQueryInUseService</entry>
@@ -303,6 +311,12 @@
         <entry>getIndexKey</entry>
         <entry>get</entry>
         <entry>removeFlag</entry>
+        <entry>kafka</entry>
+        <entry>TRS</entry>
+        <entry>messagePushService</entry>
+        <entry>request</entry>
+        <entry>messageSendToApp</entry>
+        <entry>messageSendToAPP</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NyZWF0ZV90aW1lKS9jcmVhdGVfdGltZSwgbG9jYWxlKS9n</entry>
