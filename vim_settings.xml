@@ -27,13 +27,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-service/src/main/java/com/ericsson/csp/tsc/service/cache2/UserSessionInternalServiceRedisImpl.java" timestamp="1566785902298">
-        <mark key="'" line="190" column="52" />
-        <mark key="[" line="193" column="42" />
-        <mark key="]" line="193" column="44" />
-        <mark key="." line="193" column="44" />
-        <mark key="^" line="193" column="44" />
-      </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" timestamp="1566898387028">
         <mark key="'" line="40" column="63" />
         <mark key="[" line="73" column="72" />
@@ -64,11 +57,9 @@
       <file name="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" timestamp="1566898484502">
         <mark key="'" line="525" column="17" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-schedule/src/main/java/com/ericsson/csp/tsc/schedule/interfaces/impl/MessageUpdateBatchTask.java" timestamp="1566898625141" />
       <file name="$USER_HOME$/code/ss/ServiceStore/pom.xml" timestamp="1566278664202">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/code/tsc/tsc-message/src/main/resources/spring-config/applicationContext-dubbo.xml" timestamp="1566897519017" />
       <file name="$USER_HOME$/code/ss/UniTSSPbackend/src/main/java/com/ericsson/unitsspbackend/http/HttpsAuthConnManager.java" timestamp="1566199845037">
         <mark key="'" line="229" column="36" />
       </file>
