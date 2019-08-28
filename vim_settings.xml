@@ -22,11 +22,8 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" timestamp="1566364826369">
         <mark key="'" line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/controller/pullForService/ServiceInfoController.java" timestamp="1566538130080">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1566962308220" />
+      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/FieldReflectOps.java" timestamp="1566961936174" />
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" timestamp="1566898387028">
         <mark key="'" line="40" column="63" />
         <mark key="[" line="73" column="72" />
