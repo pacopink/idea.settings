@@ -22,8 +22,12 @@
       <file name="$USER_HOME$/code/ss/ServiceStore/src/main/java/com/ericsson/servicestore/service/queryServiceInfo/QueryServiceInfoImpl.java" timestamp="1566364826369">
         <mark key="'" line="40" column="47" />
       </file>
-      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1566962308220" />
-      <file name="$USER_HOME$/code/streaming/src/main/scala/com/ericsson/csp/bigdata/utils/FieldReflectOps.java" timestamp="1566961936174" />
+      <file name="$USER_HOME$/code/streaming/src/test/scala/com/ericsson/csp/bigdata/FieldReflectOpsTest.java" timestamp="1567090218199">
+        <mark key="[" line="80" column="82" />
+        <mark key="]" line="80" column="82" />
+        <mark key="." line="80" column="82" />
+        <mark key="^" line="80" column="82" />
+      </file>
       <file name="$USER_HOME$/code/tsc/tsc-remote-status/src/main/java/com/ericsson/csp/tsc/remotestatus/uplink/RemoteStatusTriggerUplinkServiceImpl.java" timestamp="1566898387028">
         <mark key="'" line="40" column="63" />
         <mark key="[" line="73" column="72" />
@@ -231,44 +235,44 @@
       <jump line="525" column="17" filename="$USER_HOME$/code/tsc/tsc-message/src/main/java/com/ericsson/csp/tsc/message/service/impl/MessageSendServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcEZyb21DYWNoZS4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>messageSendToAPP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZXhpc3RzIGI6IHt9IiwgbS5jb250YWluc0tleShiLmdldENsYXNzKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoU3RyaW5nIGs6cGF0aHMpIHsKICAgICAgICAgICAgU3RyaW5nIGtleVN0ciA9IHByZWZpeCsiLiIrazsKICAgICAgICAgICAgbG9nLmluZm8oInt9ID0ge30iLCBrZXlTdHIsIEZpZWxkUmVmbGVjdE9wcy5nZXRWYWx1ZUJ5UGF0aChyZXEsIGtleVN0cikpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcEZyb21DYWNoZS4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtLnB1dChiLmdldENsYXNzKCksIGIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGtleVN0ciA9IHByZWZpeCsiLiIrazsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBrZXlTdHIgPSBwcmVmaXgrIi4iK2s7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4ga2V5cyA9IEFycmF5cy5zdHJlYW0oa2V5cykubWFwKHggLT4gcHJlZml4ICsgIi4iICsgeCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hcEZyb21DYWNoZS4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpheGJDb250ZXh0TWFwLmdldCh2YWx1ZVR5cGUpOyAKICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIHN5bmNocm9uaXplZCAoamF4YkNvbnRleHRNYXApIHsKICAgICAgICAgICAgICAgIC8vIGRvdWJsZSBjaGVjawogICAgICAgICAgICAgICAgY29udGV4dCA9IGpheGJDb250ZXh0TWFwLmdldCh2YWx1ZVR5cGUpOyAKICAgICAgICAgICAgICAgIGlmIChjb250ZXh0ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0ID0gSkFYQkNvbnRleHQubmV3SW5zdGFuY2UodmFsdWVUeXBlKTsKICAgICAgICAgICAgICAgICAgICBqYXhiQ29udGV4dE1hcC5wdXQodmFsdWVUeXBlLCBjb250ZXh0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtLnB1dChiLmdldENsYXNzKCksIGIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljPFQ+IEpBWEJDb250ZXh0IGdldEpBWEJDb250ZXh0KENsYXNzPFQ+IHZhbHVlVHlwZSkgdGhyb3dzIEpBWEJFeGNlcHRpb24gewogICAgICAgIEpBWEJDb250ZXh0IGNvbnRleHQgPSBqYXhiQ29udGV4dE1hcC5nZXQodmFsdWVUeXBlKTsKICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIHN5bmNocm9uaXplZCAoamF4YkNvbnRleHRNYXApIHsKICAgICAgICAgICAgICAgIC8vIGRvdWJsZSBjaGVjawogICAgICAgICAgICAgICAgY29udGV4dCA9IGpheGJDb250ZXh0TWFwLmdldCh2YWx1ZVR5cGUpOwogICAgICAgICAgICAgICAgaWYgKGNvbnRleHQgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGNvbnRleHQgPSBKQVhCQ29udGV4dC5uZXdJbnN0YW5jZSh2YWx1ZVR5cGUpOwogICAgICAgICAgICAgICAgICAgIGpheGJDb250ZXh0TWFwLnB1dCh2YWx1ZVR5cGUsIGNvbnRleHQpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb250ZXh0OyAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQgPSBKQVhCQ29udGV4dC5uZXdJbnN0YW5jZSh2YWx1ZVR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2NjCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -325,8 +329,8 @@
         <entry>697</entry>
         <entry>87</entry>
         <entry>580</entry>
-        <entry>w</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
