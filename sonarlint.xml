@@ -5,5 +5,15 @@
         <option value="squid:S106" />
       </set>
     </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9000" />
+          <token>dfcedf9edf9edfc8df98df9fdf93dfccdf9bdfcfdf9fdf9fdfcfdf92df9bdf93df9bdfcbdf93dfccdf9edf9edf9ddfcedfc8df98df9bdf9adf9ddf93df93df9ddfccdf9edf9bdfc8dfc8df9adf9ddfc8</token>
+          <option name="name" value="tc" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
   </component>
 </application>
